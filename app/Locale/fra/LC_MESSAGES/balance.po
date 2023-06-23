@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "balance_FRA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BALANCE_NOT_FOUND"
+msgstr "budget introuvable"
+
+msgid "INFO_BALANCE_SAVE"
+msgstr "budget économisé"
+
+msgid "ERROR_BALANCE_SAVE"
+msgstr "Il n'a pas été possible d'économiser le budget"
+
+msgid "INFO_BALANCE_EDIT"
+msgstr "budget révisé"
+
+msgid "ERROR_BALANCE_EDIT"
+msgstr "Il n'a pas été possible de modifier le budget"
+
+msgid "INFO_BALANCE_DELETE"
+msgstr "budget éliminé"
+
+msgid "ERROR_BALANCE_DELETE"
+msgstr "Il n'a pas été possible d'éliminer le budget"

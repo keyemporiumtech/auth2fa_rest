@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityrelationpermission_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_NOT_FOUND"
+msgstr "autorisation de relation utilisateur-entreprise introuvable"
+
+msgid "INFO_ACTIVITYRELATIONPERMISSION_SAVE"
+msgstr "autorisation de relation utilisateur-entreprise enregistré"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer le autorisation de relation utilisateur-entreprise"
+
+msgid "INFO_ACTIVITYRELATIONPERMISSION_EDIT"
+msgstr "autorisation de relation utilisateur-entreprise modifié"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_EDIT"
+msgstr "Il n'a pas été possible de modifier le autorisation de relation utilisateur-entreprise"
+
+msgid "INFO_ACTIVITYRELATIONPERMISSION_DELETE"
+msgstr "autorisation de relation utilisateur-entreprise supprimé"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_DELETE"
+msgstr "Il n'a pas été possible de supprimer le autorisation de relation utilisateur-entreprise"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "balancepayment_ENG"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BALANCEPAYMENT_NOT_FOUND"
+msgstr "balance payment not found"
+
+msgid "INFO_BALANCEPAYMENT_SAVE"
+msgstr "balance payment saved"
+
+msgid "ERROR_BALANCEPAYMENT_SAVE"
+msgstr "It was not possible to save the balance payment"
+
+msgid "INFO_BALANCEPAYMENT_EDIT"
+msgstr "balance payment changed"
+
+msgid "ERROR_BALANCEPAYMENT_EDIT"
+msgstr "It was not possible to change the balance payment"
+
+msgid "INFO_BALANCEPAYMENT_DELETE"
+msgstr "balance payment eliminated"
+
+msgid "ERROR_BALANCEPAYMENT_DELETE"
+msgstr "It was not possible to cancel the balance payment"

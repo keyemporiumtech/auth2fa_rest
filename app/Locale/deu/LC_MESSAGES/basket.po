@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basket_DEU"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKET_NOT_FOUND"
+msgstr "Warenkorb nicht gefunden"
+
+msgid "INFO_BASKET_SAVE"
+msgstr "Warenkorb gespeichert"
+
+msgid "ERROR_BASKET_SAVE"
+msgstr "Der Warenkorb konnte nicht gespeichert werden"
+
+msgid "INFO_BASKET_EDIT"
+msgstr "Warenkorb geändert"
+
+msgid "ERROR_BASKET_EDIT"
+msgstr "Es war nicht möglich, den Warenkorb zu wechseln"
+
+msgid "INFO_BASKET_DELETE"
+msgstr "Warenkorb eliminiert"
+
+msgid "ERROR_BASKET_DELETE"
+msgstr "Es war nicht möglich, den Warenkorb zu stornieren"

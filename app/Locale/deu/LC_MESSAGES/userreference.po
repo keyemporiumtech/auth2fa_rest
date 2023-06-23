@@ -1,0 +1,32 @@
+msgid "FILE_NAME_LAN"
+msgstr "userreference_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERREFERENCE_NOT_FOUND"
+msgstr "Kontakt nicht gefunden"
+
+msgid "INFO_USERREFERENCE_SAVE"
+msgstr "Kontakt gespeichert"
+
+msgid "ERROR_USERREFERENCE_SAVE"
+msgstr "Der Kontakt konnte nicht gespeichert werden"
+
+msgid "INFO_USERREFERENCE_EDIT"
+msgstr "Kontakt geändert"
+
+msgid "ERROR_USERREFERENCE_EDIT"
+msgstr "Der Kontakt konnte nicht bearbeitet werden"
+
+msgid "INFO_USERREFERENCE_DELETE"
+msgstr "Kontakt gelöscht"
+
+msgid "ERROR_USERREFERENCE_DELETE"
+msgstr "Der Kontakt konnte nicht gelöscht werden"
+
+msgid "ERROR_USERREFERENCE_SET_PRINCIPAL"
+msgstr "Der Benutzerkontakt konnte nicht als primär aktualisiert werden"
+
+msgid "INFO_USERREFERENCE_SET_PRINCIPAL"
+msgstr "Der Benutzerkontakt wurde als primär festgelegt"

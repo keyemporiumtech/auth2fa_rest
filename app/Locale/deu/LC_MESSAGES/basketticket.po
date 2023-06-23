@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basketticket_DEU"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKETTICKET_NOT_FOUND"
+msgstr "Ticket im Warenkorb nicht gefunden"
+
+msgid "INFO_BASKETTICKET_SAVE"
+msgstr "Ticket im Warenkorb gespeichert"
+
+msgid "ERROR_BASKETTICKET_SAVE"
+msgstr "Das Ticket konnte nicht im Warenkorb gespeichert werden"
+
+msgid "INFO_BASKETTICKET_EDIT"
+msgstr "Ticket im Warenkorb geändert"
+
+msgid "ERROR_BASKETTICKET_EDIT"
+msgstr "Es war nicht möglich, das Ticket im Warenkorb zu ändern"
+
+msgid "INFO_BASKETTICKET_DELETE"
+msgstr "Ticket im Warenkorb eliminiert"
+
+msgid "ERROR_BASKETTICKET_DELETE"
+msgstr "Es war nicht möglich, das Ticket im Warenkorb zu stornieren"

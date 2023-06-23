@@ -1,0 +1,41 @@
+msgid "FILE_NAME_LAN"
+msgstr "language_ITA"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_LANGUAGE_NOT_FOUND"
+msgstr "Lingua non trovata"
+
+msgid "INFO_LANGUAGE_SAVE"
+msgstr "Lingua salvata"
+
+msgid "ERROR_LANGUAGE_SAVE"
+msgstr "Non è stato possibile salvare la Lingua"
+
+msgid "INFO_LANGUAGE_EDIT"
+msgstr "Lingua modificata"
+
+msgid "ERROR_LANGUAGE_EDIT"
+msgstr "Non è stato possibile modificare la Lingua"
+
+msgid "INFO_LANGUAGE_DELETE"
+msgstr "Lingua eliminata"
+
+msgid "ERROR_LANGUAGE_DELETE"
+msgstr "Non è stato possibile eliminare la Lingua"
+
+msgid "ERROR_LANGUAGE_COD"
+msgstr "Nessuna lingua trovata con codice %s"
+
+msgid "ERROR_LANGUAGE_SETUP"
+msgstr "Non è stato possibile cambiare la lingua di sistema"
+
+msgid "INFO_LANGUAGE_CHANGE"
+msgstr "Lingua di sistema impostata: %s"
+
+msgid "INFO_LANGUAGE_CHANGE_DEFAULT"
+msgstr "Lingua di sistema impostata alla lingua di default: %s"
+
+msgid "ERROR_LANGUAGE_CHANGE_DEFAULT"
+msgstr "Lingua di default non impostata nel json"

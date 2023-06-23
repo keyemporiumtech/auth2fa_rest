@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basketproduct_ENG"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKETPRODUCT_NOT_FOUND"
+msgstr "product in cart not found"
+
+msgid "INFO_BASKETPRODUCT_SAVE"
+msgstr "product in cart saved"
+
+msgid "ERROR_BASKETPRODUCT_SAVE"
+msgstr "It was not possible to save the product in cart"
+
+msgid "INFO_BASKETPRODUCT_EDIT"
+msgstr "product in cart changed"
+
+msgid "ERROR_BASKETPRODUCT_EDIT"
+msgstr "It was not possible to change the product in cart"
+
+msgid "INFO_BASKETPRODUCT_DELETE"
+msgstr "product in cart eliminated"
+
+msgid "ERROR_BASKETPRODUCT_DELETE"
+msgstr "It was not possible to cancel the product in cart"

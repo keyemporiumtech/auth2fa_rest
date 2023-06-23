@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailreceiver_DEU"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILRECEIVER_NOT_FOUND"
+msgstr "E-Mail-Empfänger nicht gefunden"
+
+msgid "INFO_MAILRECEIVER_SAVE"
+msgstr "E-Mail-Empfänger gespeichert"
+
+msgid "ERROR_MAILRECEIVER_SAVE"
+msgstr "Der Empfänger der E-Mail konnte nicht gespeichert werden"
+
+msgid "INFO_MAILRECEIVER_EDIT"
+msgstr "E-Mail-Empfänger geändert"
+
+msgid "ERROR_MAILRECEIVER_EDIT"
+msgstr "Der Empfänger der E-Mail konnte nicht geändert werden"
+
+msgid "INFO_MAILRECEIVER_DELETE"
+msgstr "E-Mail-Empfänger gelöscht"
+
+msgid "ERROR_MAILRECEIVER_DELETE"
+msgstr "Der Empfänger der E-Mail konnte nicht gelöscht werden"

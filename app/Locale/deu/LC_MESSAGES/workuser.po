@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workuser_DEU"
+
+msgid "MODULE"
+msgstr "work_profile"
+
+msgid "ERROR_WORKUSER_NOT_FOUND"
+msgstr "Benutzerverwaltung nicht gefunden"
+
+msgid "INFO_WORKUSER_SAVE"
+msgstr "Benutzerverwaltung gespeichert"
+
+msgid "ERROR_WORKUSER_SAVE"
+msgstr "Die Benutzerverwaltung konnte nicht gespeichert werden"
+
+msgid "INFO_WORKUSER_EDIT"
+msgstr "Benutzerverwaltung geändert"
+
+msgid "ERROR_WORKUSER_EDIT"
+msgstr "Die Benutzerverwaltung konnten nicht geändert werden"
+
+msgid "INFO_WORKUSER_DELETE"
+msgstr "Benutzerverwaltung gelöschte"
+
+msgid "ERROR_WORKUSER_DELETE"
+msgstr "Die Benutzerverwaltung konnte nicht gelöscht werden"

@@ -1,0 +1,42 @@
+msgid "FILE_NAME_LAN"
+msgstr "confirmoperation_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_CONFIRMOPERATION_NOT_FOUND"
+msgstr "Opération introuvable"
+
+msgid "INFO_CONFIRMOPERATION_SAVE"
+msgstr "Opération enregistrée"
+
+msgid "ERROR_CONFIRMOPERATION_SAVE"
+msgstr "L'opération n'a pas pu être enregistrée"
+
+msgid "INFO_CONFIRMOPERATION_EDIT"
+msgstr "Opération modifiée"
+
+msgid "ERROR_CONFIRMOPERATION_EDIT"
+msgstr "L'opération n'a pas pu être modifiée"
+
+msgid "INFO_CONFIRMOPERATION_DELETE"
+msgstr "Opération supprimé"
+
+msgid "ERROR_CONFIRMOPERATION_DELETE"
+msgstr "L'opération n'a pas pu être supprimée"
+
+msgid "INFO_CONFIRMOPERATION_CODELOGIN_SUBJECT_MAIL"
+msgstr "Envoyer le code de confirmation pour la connexion"
+
+msgid "INFO_CONFIRMOPERATION_CODELOGIN_MESSAGE_MAIL"
+msgstr "Pour accéder au système, entrez le code de vérification %s"
+
+msgid "INFO_CONFIRMOPERATION_CODELOGIN_MESSAGE_PHONE"
+msgstr "Pour accéder au système, entrez le code de vérification %s"
+
+msgid "ERROR_CONFIRMOPERATION_CHECK_PIN"
+msgstr "Le code de contrôle fourni est invalide"
+
+msgid "ERROR_CONTROL_CODE_NOT_VALID"
+msgstr "Le code d'opération %s n'a pas été trouvé dans l'archive avec la somme de contrôle %s"
+

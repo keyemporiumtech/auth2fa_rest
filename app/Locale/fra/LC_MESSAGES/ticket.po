@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticket_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKET_NOT_FOUND"
+msgstr "Billet introuvable"
+
+msgid "INFO_TICKET_SAVE"
+msgstr "Billet enregistré"
+
+msgid "ERROR_TICKET_SAVE"
+msgstr "Le billet n'a pas pu être enregistré"
+
+msgid "INFO_TICKET_EDIT"
+msgstr "Billet modifié"
+
+msgid "ERROR_TICKET_EDIT"
+msgstr "Il n'a pas été possible de modifier le billet"
+
+msgid "INFO_TICKET_DELETE"
+msgstr "Billet supprimé"
+
+msgid "ERROR_TICKET_DELETE"
+msgstr "Le billet n'a pas pu être supprimé"

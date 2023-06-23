@@ -1,0 +1,47 @@
+msgid "FILE_NAME_LAN"
+msgstr "mail_ESP"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_PHPMAIL_NOT_SENDED"
+msgstr "El plugin Phpmailer no envió el correo electrónico"
+
+msgid "ERROR_MAIL_NOT_FOUND"
+msgstr "El correo electrónico no encontrado"
+
+msgid "INFO_MAIL_SAVE"
+msgstr "Correo electrónico guardado"
+
+msgid "ERROR_MAIL_SAVE"
+msgstr "El correo electrónico no se pudo guardar"
+
+msgid "INFO_MAIL_EDIT"
+msgstr "Correo electrónico cambiado"
+
+msgid "ERROR_MAIL_EDIT"
+msgstr "No fue posible cambiar el correo electrónico"
+
+msgid "INFO_MAIL_DELETE"
+msgstr "Correo electrónico eliminado"
+
+msgid "ERROR_MAIL_DELETE"
+msgstr "No se pudo eliminar el correo electrónico"
+
+msgid "INFO_MAIL_SEND"
+msgstr "Correo electrónico enviado correctamente"
+
+msgid "ERROR_MAIL_SEND"
+msgstr "Correo electrónico no enviado correctamente"
+
+msgid "ERROR_MAIL_SEND_NOT_SENDER"
+msgstr "Parámetro del remitente no valorado"
+
+msgid "ERROR_MAIL_SEND_NOT_DESTINATORS"
+msgstr "Matriz de destinatarios vacía"
+
+msgid "ERROR_MAIL_SEND_NOT_SUBJECT"
+msgstr "Sujeto no suministrado"
+
+msgid "ERROR_MAIL_SEND_NOT_BODY"
+msgstr "No se proporcionó texto de mensaje"

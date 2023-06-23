@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "userreport_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERREPORT_NOT_FOUND"
+msgstr "Rapport introuvable"
+
+msgid "INFO_USERREPORT_SAVE"
+msgstr "Rapport enregistré"
+
+msgid "ERROR_USERREPORT_SAVE"
+msgstr "Le rapport n'a pas pu être enregistré"
+
+msgid "INFO_USERREPORT_EDIT"
+msgstr "Rapport modifié"
+
+msgid "ERROR_USERREPORT_EDIT"
+msgstr "Il n'a pas été possible de modifier le rapport"
+
+msgid "INFO_USERREPORT_DELETE"
+msgstr "Rapport supprimé"
+
+msgid "ERROR_USERREPORT_DELETE"
+msgstr "Le rapport n'a pas pu être supprimé"

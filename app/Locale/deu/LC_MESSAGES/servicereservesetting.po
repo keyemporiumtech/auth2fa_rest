@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "servicereservesetting_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICERESERVATIONSETTING_NOT_FOUND"
+msgstr "Reservierungseinstellung nicht gefunden"
+
+msgid "INFO_SERVICERESERVATIONSETTING_SAVE"
+msgstr "Reservierungseinstellung gespeichert"
+
+msgid "ERROR_SERVICERESERVATIONSETTING_SAVE"
+msgstr "Die Reservierungseinrichtung konnte nicht gespeichert werden"
+
+msgid "INFO_SERVICERESERVATIONSETTING_EDIT"
+msgstr "Reservierungseinstellung geändert"
+
+msgid "ERROR_SERVICERESERVATIONSETTING_EDIT"
+msgstr "Die Buchungseinstellung konnte nicht geändert werden"
+
+msgid "INFO_SERVICERESERVATIONSETTING_DELETE"
+msgstr "Reservierungseinstellung gelöscht"
+
+msgid "ERROR_SERVICERESERVATIONSETTING_DELETE"
+msgstr "Reservierungseinstellung konnte nicht gelöscht werden"

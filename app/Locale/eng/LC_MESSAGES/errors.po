@@ -1,0 +1,44 @@
+msgid "FILE_NAME_LAN"
+msgstr "errors_ENG"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_GENERIC"
+msgstr "An error has occurred"
+
+msgid "ERROR_ACCESS"
+msgstr "Access denied"
+
+msgid "ERROR_MESSAGE"
+msgstr "Server generated exception. %s<br/>Contact the technical service indicating the error code %s"
+
+msgid "ERROR_NO_DATA_FOUND"
+msgstr "Data not found"
+
+msgid "ERROR_THROW_EXCEPTION"
+msgstr "An exception has occurred"
+
+msgid "ERROR_SAVE"
+msgstr "The requested data backup was not successful"
+
+msgid "ERROR_EDIT"
+msgstr "The requested data change was not successful"
+
+msgid "ERROR_DELETE"
+msgstr "The requested deletion of the data was not completed correctly"
+
+msgid "ERROR_SAVE_OBJECT_NULL"
+msgstr "The object to save is empty"
+
+msgid "ERROR_EDIT_OBJECT_NULL"
+msgstr "The object to edit is empty"
+
+msgid "ERROR_DELETE_ID_NULL"
+msgstr "The id to delete was not provided"
+
+msgid "ERROR_PARAMS_NULL"
+msgstr "No mandatory input parameters provided"
+
+msgid "ERROR_API_NULL"
+msgstr "The %s api is not registered"

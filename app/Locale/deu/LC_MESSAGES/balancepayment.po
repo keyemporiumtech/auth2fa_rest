@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "balancepayment_DEU"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BALANCEPAYMENT_NOT_FOUND"
+msgstr "Restzahlung nicht gefunden"
+
+msgid "INFO_BALANCEPAYMENT_SAVE"
+msgstr "Restzahlung gespeichert"
+
+msgid "ERROR_BALANCEPAYMENT_SAVE"
+msgstr "Die Restzahlung konnte nicht gespeichert werden"
+
+msgid "INFO_BALANCEPAYMENT_EDIT"
+msgstr "Restzahlung geändert"
+
+msgid "ERROR_BALANCEPAYMENT_EDIT"
+msgstr "Es war nicht möglich, die Restzahlung zu ändern"
+
+msgid "INFO_BALANCEPAYMENT_DELETE"
+msgstr "Restzahlung eliminiert"
+
+msgid "ERROR_BALANCEPAYMENT_DELETE"
+msgstr "Es war nicht möglich, die Restzahlung zu stornieren"

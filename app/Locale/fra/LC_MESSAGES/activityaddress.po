@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityaddress_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYADDRESS_NOT_FOUND"
+msgstr "Adresse introuvable"
+
+msgid "INFO_ACTIVITYADDRESS_SAVE"
+msgstr "Adresse enregistrée"
+
+msgid "ERROR_ACTIVITYADDRESS_SAVE"
+msgstr "L'adresse n'a pas pu être enregistrée"
+
+msgid "INFO_ACTIVITYADDRESS_EDIT"
+msgstr "Adresse modifiée"
+
+msgid "ERROR_ACTIVITYADDRESS_EDIT"
+msgstr "Il n'a pas été possible de changer l'adresse"
+
+msgid "INFO_ACTIVITYADDRESS_DELETE"
+msgstr "Adresse supprimée"
+
+msgid "ERROR_ACTIVITYADDRESS_DELETE"
+msgstr "L'adresse n'a pas pu être supprimée"

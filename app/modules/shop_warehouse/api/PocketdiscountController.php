@@ -1,0 +1,415 @@
+<?php
+App::uses("AppController", "Controller");
+App::uses("PocketdiscountUI", "modules/shop_warehouse/delegate");
+App::uses("AppclientUtility", "modules/authentication/utility");
+
+class PocketdiscountController extends AppController {
+
+    public function beforeFilter() {
+        $this->json = true;
+        $this->delegate = new PocketdiscountUI();
+        $this->delegate->json = $this->json;
+        parent::beforeFilter();
+        AppclientUtility::checkTokenClient($this);
+    }
+
+    /**
+     * @OA\Get(
+     *     path="/pocketdiscount/get",
+     *     summary="Legge un sconto del pacchetto",
+     *     description="Ritorna un sconto del pacchetto per uno specifico id o per codice",
+     *     operationId="pocketdiscount-get",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\Parameter(
+     *         description="id del sconto del pacchetto",
+     *         in="query",
+     *         name="id_pocketdiscount",
+     *         required=false,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="codice del sconto del pacchetto",
+     *         in="query",
+     *         name="cod",
+     *         required=false,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista delle foreign keys richieste",
+     *         in="query",
+     *         name="belongs",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei virtual fields richiesti",
+     *         in="query",
+     *         name="virtualfields",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei flags da abilitare",
+     *         in="query",
+     *         name="flags",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista delle properties da valutare",
+     *         in="query",
+     *         name="properties",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei gruppi da includere",
+     *         in="query",
+     *         name="groups",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Congiunto al parametro groups indica una querylike",
+     *         in="query",
+     *         name="likegroups",
+     *         required=false,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\JsonContent(ref="#/components/schemas/Pocketdiscount")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function get($id_pocketdiscount = null, $cod = null, $belongs = null, $virtualfields = null, $flags = null, $properties = null, $groups = null, $likegroups = null) {
+        parent::evalParam($id_pocketdiscount, 'id_pocketdiscount');
+        parent::evalParam($cod, 'cod');
+        parent::completeFkVf($this->delegate, $belongs, $virtualfields, $flags, $properties, $groups, $likegroups);
+        $this->set('data', $this->delegate->get($id_pocketdiscount, $cod));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    /**
+     * @OA\Get(
+     *     path="/pocketdiscount/table",
+     *     summary="Legge una lista paginata di sconto del pacchetti",
+     *     description="Ritorna una lista di sconto del pacchetti filtrata, ordinata e paginata in base ai parametri di ricerca passati",
+     *     operationId="pocketdiscount-table",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\Parameter(
+     *         description="Lista delle condizioni di filtro",
+     *         in="query",
+     *         name="filters",
+     *         required=false,
+     *         @OA\Schema(
+     *              type="array",
+     *              @OA\Items(ref="#/components/schemas/DBCondition")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista delle condizioni di ordinamento",
+     *         in="query",
+     *         name="orders",
+     *         required=false,
+     *         @OA\Schema(
+     *              type="array",
+     *              @OA\Items(ref="#/components/schemas/DBOrder")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Tipo di paginazione",
+     *         in="query",
+     *         name="paginate",
+     *         required=false,
+     *         @OA\Schema(ref="#/components/schemas/DBPaginate"),
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista delle foreign keys richieste",
+     *         in="query",
+     *         name="belongs",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei virtual fields richiesti",
+     *         in="query",
+     *         name="virtualfields",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei flags da abilitare",
+     *         in="query",
+     *         name="flags",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista delle properties da valutare",
+     *         in="query",
+     *         name="properties",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei gruppi da includere",
+     *         in="query",
+     *         name="groups",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Congiunto al parametro groups indica una querylike",
+     *         in="query",
+     *         name="likegroups",
+     *         required=false,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(ref="#/components/schemas/Pocketdiscount")
+     *         )
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function table($jsonFilters = null, $jsonOrders = null, $jsonPaginate = null, $belongs = null, $virtualfields = null, $flags = null, $properties = null, $groups = null, $likegroups = null) {
+        parent::evalParam($jsonFilters, 'filters');
+        parent::evalParam($jsonOrders, 'orders');
+        parent::evalParam($jsonPaginate, 'paginate');
+        parent::completeFkVf($this->delegate, $belongs, $virtualfields, $flags, $properties, $groups, $likegroups);
+        $this->set('data', $this->delegate->table($jsonFilters, $jsonOrders, $jsonPaginate));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    /**
+     * @OA\Post(
+     *     path="/pocketdiscount/save",
+     *     summary="Salva un sconto del pacchetto",
+     *     description="Salva un sconto del pacchetto ne ritorna l'id",
+     *     operationId="pocketdiscount-save",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\RequestBody(
+     *         description="oggetto sconto del pacchetto",
+     *         request="pocketdiscount",
+     *         required=true,
+     *         @OA\JsonContent(ref="#/components/schemas/Pocketdiscount")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei gruppi a cui associare l'entity",
+     *         in="query",
+     *         name="groupssave",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function save($pocketdiscountJson = null, $groupssave = null) {
+        parent::evalParam($pocketdiscountJson, "pocketdiscount");
+        parent::completeFkVfSave($this->delegate, $groupssave);
+        $this->set('value', $this->delegate->save($pocketdiscountJson));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    /**
+     * @OA\Put(
+     *     path="/pocketdiscount/edit",
+     *     summary="Modifica un sconto del pacchetto",
+     *     description="Modifica un sconto del pacchetto ne ritorna l'id",
+     *     operationId="pocketdiscount-edit",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\RequestBody(
+     *         description="oggetto sconto del pacchetto",
+     *         request="pocketdiscount",
+     *         required=true,
+     *         @OA\JsonContent(ref="#/components/schemas/Pocketdiscount")
+     *     ),
+     *     @OA\Parameter(
+     *         description="id del sconto del pacchetto da modificare",
+     *         in="query",
+     *         name="id_pocketdiscount",
+     *         required=false,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei gruppi a cui associare l'entity",
+     *         in="query",
+     *         name="groupssave",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei gruppi da cui rimuovere l'entity",
+     *         in="query",
+     *         name="groupsdel",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function edit($id_pocketdiscount = null, $pocketdiscountJson = null, $groupssave = null, $groupsdel = null) {
+        parent::evalParam($id_pocketdiscount, "id_pocketdiscount");
+        parent::evalParam($pocketdiscountJson, "pocketdiscount");
+        parent::completeFkVfSave($this->delegate, $groupssave, $groupsdel);
+        $this->set('value', $this->delegate->edit($id_pocketdiscount, $pocketdiscountJson));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    /**
+     * @OA\Delete(
+     *     path="/pocketdiscount/delete",
+     *     summary="Rimuove un sconto del pacchetto",
+     *     description="Rimuove un sconto del pacchetto dato l'id",
+     *     operationId="pocketdiscount-delete",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\Parameter(
+     *         description="id del sconto del pacchetto da eliminare",
+     *         in="query",
+     *         name="id_pocketdiscount",
+     *         required=true,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(type="boolean")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function delete($id_pocketdiscount = null) {
+        parent::evalParam($id_pocketdiscount, "id_pocketdiscount");
+        $this->set('flag', $this->delegate->delete($id_pocketdiscount));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+}

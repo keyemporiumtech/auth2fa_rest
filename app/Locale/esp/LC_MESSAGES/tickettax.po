@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "tickettax_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETTAX_NOT_FOUND"
+msgstr "tarifa de boleto no encontrada"
+
+msgid "INFO_TICKETTAX_SAVE"
+msgstr "tarifa de boleto ahorrada"
+
+msgid "ERROR_TICKETTAX_SAVE"
+msgstr "No fue posible guardar la tarifa del boleto"
+
+msgid "INFO_TICKETTAX_EDIT"
+msgstr "tarifa de boleto modificada"
+
+msgid "ERROR_TICKETTAX_EDIT"
+msgstr "No fue posible cambiar la tarifa del boleto"
+
+msgid "INFO_TICKETTAX_DELETE"
+msgstr "tarifa de boleto eliminada"
+
+msgid "ERROR_TICKETTAX_DELETE"
+msgstr "No se pudo eliminar la tarifa del boleto"

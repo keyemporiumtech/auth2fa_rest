@@ -1,0 +1,42 @@
+{
+  "origin": {
+    "name": "Giuseppe Sassone",
+    "email": "giuseppesassone98@gmail.com",
+    "picture": {
+      "data": {
+        "height": 50,
+        "is_silhouette": false,
+        "url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=10225186616802742&height=50&width=50&ext=1635415055&hash=AeTmD5vsdEQmsCmkzt8",
+        "width": 50
+      }
+    },
+    "first_name": "Giuseppe",
+    "last_name": "Sassone",
+    "birthday": "05/25/1981",
+    "gender": "male",
+    "link": "https://www.facebook.com/app_scoped_user_id/YXNpZADpBWEZAnVXlUOGpRODFyb2lTLWVEeV9yMEpYS09RZAFd4RlpjcjBRcmRQNXY1M3pHdzlCTjVPeXNpeHBOc0RLZAkE0elhsZAnpfY28tcTVPWXBKRlYycG9aLW9sd1pBeW9PZA0dobS01NXgtRlZAB/",
+    "id": "10225186616802742"
+  },
+  "id": "10225186616802742",
+  "name": "Giuseppe Sassone",
+  "email": "giuseppesassone98@gmail.com",
+  "photoUrl": "https://graph.facebook.com/10225186616802742/picture?type=normal",
+  "firstName": "Giuseppe",
+  "lastName": "Sassone",
+  "authToken": "EAAICcvGzPd8BAOKIr2vYoZAaoG4gQYkGW6YKgYJS5z0mAkbwvY5TiSe0ijo45M0Ip9JJZBBJ6wIaAna93CWohZBrgvs1dlvZCE8OhBd10LTSdfZAlxjHhiLIqupdK5ZC9yQbID8ZAlGKRmLLkHpKGstdmaKZAvErKgZAmzUfA8jagZAwUZBPyBCnpRkJAb5KaZCdtJZCZBF0GR2YrgkgZDZD",
+  "response": {
+    "accessToken": "EAAICcvGzPd8BAOKIr2vYoZAaoG4gQYkGW6YKgYJS5z0mAkbwvY5TiSe0ijo45M0Ip9JJZBBJ6wIaAna93CWohZBrgvs1dlvZCE8OhBd10LTSdfZAlxjHhiLIqupdK5ZC9yQbID8ZAlGKRmLLkHpKGstdmaKZAvErKgZAmzUfA8jagZAwUZBPyBCnpRkJAb5KaZCdtJZCZBF0GR2YrgkgZDZD",
+    "userID": "10225186616802742",
+    "expiresIn": 3746,
+    "signedRequest": "-KCjXbb_WVkGOiGI0wUPk0-WvMklG-B6JTQtqBdK3-8.eyJ1c2VyX2lkIjoiMTAyMjUxODY2MTY4MDI3NDIiLCJjb2RlIjoiQVFCZmxzTHJKUE5FeUFIaG5mRG96U0xvN3gyNFlZcWdsLUNkZHhISmdkQUFCa2ZURm95dGpoQ0g1LTAySTR2MHF5OHFKRmpLa3lvUDFISDVlZjRsU0VkdncxbFhLMkFZaE5uaktNNk5LOE51clZPaW1fZ1Y2Y1BuUXRQd1ZoTkdjdmRJZFFLRzJ4eXpaZDRpbXVJbWs2ZElHbUpLYmR1S3dVazJ6X0RydzhwWnN3WXhFYzJTcWxkcHBJa3JQRkxqdF9oWHp1cTR2a09lUEc2bFdQM2IyUDlLVGlCN1VfZWVYb0lNNnlhVERmYjNIWnE3RzJuOWVlQmpoYWRJWk8zWWJZUDlLVHJDb2NpeVJHdDlTWXlEWDRtaWNEb2hQdzlCQ2xESFRwTFloQmVualBBRmNYc29PbzZwX2ZEVjREaDNkVXVld21HNDZKQmZWVDFFWjVkU3BpZzdlSjA1T1c2Wlc3N09RMXpYODNidHIyckRwYnctb3ktbmhEbUl3dEV4bUJnIiwiYWxnb3JpdGhtIjoiSE1BQy1TSEEyNTYiLCJpc3N1ZWRfYXQiOjE2MzI4MjMwNTR9",
+    "graphDomain": "facebook",
+    "grantedScopes": "user_friends,email,public_profile",
+    "data_access_expiration_time": 1640599054
+  },
+  "provider": "FACEBOOK",
+  "infos": {
+    "birthday": "05/25/1981",
+    "gender": "male",
+    "link": "https://www.facebook.com/app_scoped_user_id/YXNpZADpBWEZAnVXlUOGpRODFyb2lTLWVEeV9yMEpYS09RZAFd4RlpjcjBRcmRQNXY1M3pHdzlCTjVPeXNpeHBOc0RLZAkE0elhsZAnpfY28tcTVPWXBKRlYycG9aLW9sd1pBeW9PZA0dobS01NXgtRlZAB/"
+  }
+}

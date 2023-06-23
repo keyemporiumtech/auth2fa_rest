@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "servicetax_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICETAX_NOT_FOUND"
+msgstr "Tarifa no encontrada"
+
+msgid "INFO_SERVICETAX_SAVE"
+msgstr "Tarifa guardada"
+
+msgid "ERROR_SERVICETAX_SAVE"
+msgstr "No fue posible ahorrar la tarifa"
+
+msgid "INFO_SERVICETAX_EDIT"
+msgstr "Tarifa modificada"
+
+msgid "ERROR_SERVICETAX_EDIT"
+msgstr "No fue posible cambiar la tarifa."
+
+msgid "INFO_SERVICETAX_DELETE"
+msgstr "Tarifa eliminada"
+
+msgid "ERROR_SERVICETAX_DELETE"
+msgstr "No fue posible eliminar la tarifa"

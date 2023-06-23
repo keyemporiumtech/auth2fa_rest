@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticketattachment_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETATTACHMENT_NOT_FOUND"
+msgstr "archivo adjunto de ticket no encontrado"
+
+msgid "INFO_TICKETATTACHMENT_SAVE"
+msgstr "archivo adjunto de ticket guardado"
+
+msgid "ERROR_TICKETATTACHMENT_SAVE"
+msgstr "No se pudo guardar el archivo adjunto del ticket"
+
+msgid "INFO_TICKETATTACHMENT_EDIT"
+msgstr "adjunto de billete modificado"
+
+msgid "ERROR_TICKETATTACHMENT_EDIT"
+msgstr "No fue posible cambiar el ticket adjunto"
+
+msgid "INFO_TICKETATTACHMENT_DELETE"
+msgstr "archivo adjunto del ticket eliminado"
+
+msgid "ERROR_TICKETATTACHMENT_DELETE"
+msgstr "No se pudo eliminar el archivo adjunto del ticket"

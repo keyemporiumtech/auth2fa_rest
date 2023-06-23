@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workrole_ENG"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKROLE_NOT_FOUND"
+msgstr "Business role not found"
+
+msgid "INFO_WORKROLE_SAVE"
+msgstr "Business role saved"
+
+msgid "ERROR_WORKROLE_SAVE"
+msgstr "It was not possible to save the Business role"
+
+msgid "INFO_WORKROLE_EDIT"
+msgstr "Business role changed"
+
+msgid "ERROR_WORKROLE_EDIT"
+msgstr "It was not possible to change the Business role"
+
+msgid "INFO_WORKROLE_DELETE"
+msgstr "Business role deleted"
+
+msgid "ERROR_WORKROLE_DELETE"
+msgstr "It was not possible to delete the Business role"

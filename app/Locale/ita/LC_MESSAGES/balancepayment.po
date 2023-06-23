@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "balancepayment_ITA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BALANCEPAYMENT_NOT_FOUND"
+msgstr "pagamento in bilancio non trovato"
+
+msgid "INFO_BALANCEPAYMENT_SAVE"
+msgstr "pagamento in bilancio salvato"
+
+msgid "ERROR_BALANCEPAYMENT_SAVE"
+msgstr "Non è stato possibile salvare il pagamento in bilancio"
+
+msgid "INFO_BALANCEPAYMENT_EDIT"
+msgstr "pagamento in bilancio modificato"
+
+msgid "ERROR_BALANCEPAYMENT_EDIT"
+msgstr "Non è stato possibile modificare il pagamento in bilancio"
+
+msgid "INFO_BALANCEPAYMENT_DELETE"
+msgstr "pagamento in bilancio eliminato"
+
+msgid "ERROR_BALANCEPAYMENT_DELETE"
+msgstr "Non è stato possibile eliminare il pagamento in bilancio"

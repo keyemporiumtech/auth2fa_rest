@@ -1,0 +1,34 @@
+name: CI -> Deploy TEST
+on:
+  push:
+    tags:
+      - "v*"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Change mode
+        run: |
+          cp -R ./app/Config/json/_MODE/mode_test.json ./app/Config/json/mode.json
+
+      - name: Upload FTP
+        uses: SamKirkland/FTP-Deploy-Action@4.0.0
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./
+          server-dir: ${{ secrets.PATH_TEST }}/
+          dangerous-clean-slate: false
+          exclude: "
+            - /.git
+            - /.github
+            - **/.git*
+            - **/.git*/**
+            - **/.github*
+            - **/.github*/**
+            - .gitignore
+            - .git-ftp-ignore
+            "

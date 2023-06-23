@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basketticket_ENG"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKETTICKET_NOT_FOUND"
+msgstr "ticket in cart not found"
+
+msgid "INFO_BASKETTICKET_SAVE"
+msgstr "ticket in cart saved"
+
+msgid "ERROR_BASKETTICKET_SAVE"
+msgstr "It was not possible to save the ticket in cart"
+
+msgid "INFO_BASKETTICKET_EDIT"
+msgstr "ticket in cart changed"
+
+msgid "ERROR_BASKETTICKET_EDIT"
+msgstr "It was not possible to change the ticket in cart"
+
+msgid "INFO_BASKETTICKET_DELETE"
+msgstr "ticket in cart eliminated"
+
+msgid "ERROR_BASKETTICKET_DELETE"
+msgstr "It was not possible to cancel the ticket in cart"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "permission_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_PERMISSION_NOT_FOUND"
+msgstr "User permission not found"
+
+msgid "INFO_PERMISSION_SAVE"
+msgstr "User permission saved"
+
+msgid "ERROR_PERMISSION_SAVE"
+msgstr "The User Permission could not be saved"
+
+msgid "INFO_PERMISSION_EDIT"
+msgstr "User permission changed"
+
+msgid "ERROR_PERMISSION_EDIT"
+msgstr "It was not possible to change the User Permission"
+
+msgid "INFO_PERMISSION_DELETE"
+msgstr "User permission deleted"
+
+msgid "ERROR_PERMISSION_DELETE"
+msgstr "The User Permission could not be deleted"

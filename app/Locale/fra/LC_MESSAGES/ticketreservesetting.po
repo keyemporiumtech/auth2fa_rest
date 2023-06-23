@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticketreservesetting_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETRESERVESETTING_NOT_FOUND"
+msgstr "réservation de billet introuvable"
+
+msgid "INFO_TICKETRESERVESETTING_SAVE"
+msgstr "réservation de billets enregistrée"
+
+msgid "ERROR_TICKETRESERVESETTING_SAVE"
+msgstr "La réservation du billet n'a pas pu être enregistrée"
+
+msgid "INFO_TICKETRESERVESETTING_EDIT"
+msgstr "réservation de billet modifiée"
+
+msgid "ERROR_TICKETRESERVESETTING_EDIT"
+msgstr "Il n'a pas été possible de modifier la réservation du billet"
+
+msgid "INFO_TICKETRESERVESETTING_DELETE"
+msgstr "réservation de billets annulée"
+
+msgid "ERROR_TICKETRESERVESETTING_DELETE"
+msgstr "La réservation de billet n'a pas pu être supprimée"

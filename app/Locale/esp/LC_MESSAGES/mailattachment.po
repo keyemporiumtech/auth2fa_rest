@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailattachment_ESP"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILATTACHMENT_NOT_FOUND"
+msgstr "Archivo adjunto de correo electrónico no encontrado"
+
+msgid "INFO_MAILATTACHMENT_SAVE"
+msgstr "Archivo adjunto de correo electrónico guardado"
+
+msgid "ERROR_MAILATTACHMENT_SAVE"
+msgstr "No se pudo guardar el archivo adjunto de correo electrónico"
+
+msgid "INFO_MAILATTACHMENT_EDIT"
+msgstr "Adjunto de correo electrónico modificado"
+
+msgid "ERROR_MAILATTACHMENT_EDIT"
+msgstr "No fue posible editar el Adjunto del correo electrónico"
+
+msgid "INFO_MAILATTACHMENT_DELETE"
+msgstr "Archivo adjunto de correo electrónico eliminado"
+
+msgid "ERROR_MAILATTACHMENT_DELETE"
+msgstr "No se pudo eliminar el archivo adjunto de correo electrónico"

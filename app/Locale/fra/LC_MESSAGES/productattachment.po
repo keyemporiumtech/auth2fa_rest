@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "productattachment_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRODUCTATTACHMENT_NOT_FOUND"
+msgstr "Pièce jointe introuvable"
+
+msgid "INFO_PRODUCTATTACHMENT_SAVE"
+msgstr "Pièce jointe enregistrée"
+
+msgid "ERROR_PRODUCTATTACHMENT_SAVE"
+msgstr "La pièce jointe n'a pas pu être enregistrée"
+
+msgid "INFO_PRODUCTATTACHMENT_EDIT"
+msgstr "Pièce jointe modifiée"
+
+msgid "ERROR_PRODUCTATTACHMENT_EDIT"
+msgstr "Il n'a pas été possible de modifier la pièce jointe"
+
+msgid "INFO_PRODUCTATTACHMENT_DELETE"
+msgstr "Pièce jointe supprimée"
+
+msgid "ERROR_PRODUCTATTACHMENT_DELETE"
+msgstr "Il n'a pas été possible de supprimer la pièce jointe"

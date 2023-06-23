@@ -1,0 +1,29 @@
+msgid "FILE_NAME_LAN"
+msgstr "tpcontactreference_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "TPCONTACTREFERENCE_TEL"
+msgstr "Telefono"
+
+msgid "TPCONTACTREFERENCE_CEL"
+msgstr "Cellulare"
+
+msgid "TPCONTACTREFERENCE_FAX"
+msgstr "Fax"
+
+msgid "TPCONTACTREFERENCE_EMAIL"
+msgstr "Indirizzo Email"
+
+msgid "TPCONTACTREFERENCE_SITE"
+msgstr "Sito Web"
+
+msgid "TPCONTACTREFERENCE_SOCIAL"
+msgstr "Pagina Social"
+
+msgid "TPCONTACTREFERENCE_BLOG"
+msgstr "Blog"
+
+msgid "TPCONTACTREFERENCE_PEC"
+msgstr "Indirizzo Email PEC"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "grouprelation_ESP"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_GROUPRELATION_NOT_FOUND"
+msgstr "Relación de grupo de entidades no encontrada"
+
+msgid "INFO_GROUPRELATION_SAVE"
+msgstr "Relación de grupo de entidades guardada"
+
+msgid "ERROR_GROUPRELATION_SAVE"
+msgstr "No se pudo guardar la relación del grupo de entidades"
+
+msgid "INFO_GROUPRELATION_EDIT"
+msgstr "La relación del grupo de entidades cambió"
+
+msgid "ERROR_GROUPRELATION_EDIT"
+msgstr "La relación del grupo de entidades no se pudo editar"
+
+msgid "INFO_GROUPRELATION_DELETE"
+msgstr "Relación de grupo de entidades eliminada"
+
+msgid "ERROR_GROUPRELATION_DELETE"
+msgstr "No se pudo eliminar la relación del grupo de entidades"

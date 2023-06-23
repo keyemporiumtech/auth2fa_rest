@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pockettax_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKETTAX_NOT_FOUND"
+msgstr "Steuer nicht gefunden"
+
+msgid "INFO_POCKETTAX_SAVE"
+msgstr "Steuer gespart"
+
+msgid "ERROR_POCKETTAX_SAVE"
+msgstr "Es war nicht möglich, die Steuer zu sparen"
+
+msgid "INFO_POCKETTAX_EDIT"
+msgstr "Steuer geändert"
+
+msgid "ERROR_POCKETTAX_EDIT"
+msgstr "Es war nicht möglich, die Steuer zu ändern"
+
+msgid "INFO_POCKETTAX_DELETE"
+msgstr "Steuer gelöscht"
+
+msgid "ERROR_POCKETTAX_DELETE"
+msgstr "Es war nicht möglich, die Steuer zu beseitigen"

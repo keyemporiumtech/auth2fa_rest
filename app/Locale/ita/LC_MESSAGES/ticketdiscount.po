@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticketdiscount_ITA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETDISCOUNT_NOT_FOUND"
+msgstr "sconto biglietto non trovato"
+
+msgid "INFO_TICKETDISCOUNT_SAVE"
+msgstr "sconto biglietto salvato"
+
+msgid "ERROR_TICKETDISCOUNT_SAVE"
+msgstr "Non è stato possibile salvare il sconto biglietto"
+
+msgid "INFO_TICKETDISCOUNT_EDIT"
+msgstr "sconto biglietto modificato"
+
+msgid "ERROR_TICKETDISCOUNT_EDIT"
+msgstr "Non è stato possibile modificare il sconto biglietto"
+
+msgid "INFO_TICKETDISCOUNT_DELETE"
+msgstr "sconto biglietto eliminato"
+
+msgid "ERROR_TICKETDISCOUNT_DELETE"
+msgstr "Non è stato possibile eliminare il sconto biglietto"

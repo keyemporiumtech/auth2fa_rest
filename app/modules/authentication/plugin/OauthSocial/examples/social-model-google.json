@@ -1,0 +1,16 @@
+{
+  "id": "104155857554057665469",
+  "provider": "GOOGLE",
+  "photoUrl": "https://lh3.googleusercontent.com/a-/AOh14GirbYCoiAwdKQfIeqWu_6VFOjsYi57JmRe_y7Dmaw=s96-c",
+  "authToken": "ya29.a0ARrdaM-CnuZvpUrKpPyIwUB1eBB3h5UdlRtAnPIQzghUndIhx-LByHUOnqKsfE5Nbvk7lVCFmg-BQyM1Tv8kMBnObUEpAlfiWhaxPQbbhYj-PtJPT8Cd3A3O0uX4Wv2cod-4OL7T4TFz-EdaL-bdQj_fSnR0Gg",
+  "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImMzMTA0YzY4OGMxNWU2YjhlNThlNjdhMzI4NzgwOTUyYjIxNzQwMTciLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiMzI2NTI1NTk1NzgxLW51aHJjczNuNWNhNjF1MWQzY2M4dGNoZ3Y5a3FjaWpqLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiMzI2NTI1NTk1NzgxLW51aHJjczNuNWNhNjF1MWQzY2M4dGNoZ3Y5a3FjaWpqLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA0MTU1ODU3NTU0MDU3NjY1NDY5IiwiZW1haWwiOiJnaXVzZXBwZXNhc3NvbmUwMEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6ImdZM1ZsOWFyeVpvd2JOaGZtRTdkUkEiLCJuYW1lIjoiZ2l1c2VwcGUgc2Fzc29uZSIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQU9oMTRHaXJiWUNvaUF3ZEtRZkllcVd1XzZWRk9qc1lpNTdKbVJlX3k3RG1hdz1zOTYtYyIsImdpdmVuX25hbWUiOiJnaXVzZXBwZSIsImZhbWlseV9uYW1lIjoic2Fzc29uZSIsImxvY2FsZSI6Iml0IiwiaWF0IjoxNjMyODM5NTQwLCJleHAiOjE2MzI4NDMxNDAsImp0aSI6IjA1MjYzNjgzN2MxOWU2YjE3ZDI4NWVkZDgxY2MxNTgyY2RmNWFmZGMifQ.d_Luv8vKdlkNGc4jWJmvCMaIkTxg1a0grEL2yFQ4O1Z1Q87tn_do56MqvpZfAhDzeOF59EO3kaezt09iGyBJM-lgBb8Ixi8ZnPVK4im7c-YsQVG-SW_F5Wre28NVoaYVlOxyBv2Li7SvR8uEmpUDT1EHlKCG8eKhD8MkUnZQqi7sD0_EUKWRmYu6ucMqww865mjOvpZ6oRDdcxZ5YeuFb9cfxmRDS-BGg5aSUfDDxX6JcwBByw6DmoyGvD147Hh4Nqo3KSb2M1A5Ka6ozw8Vfb41gU66N8xd9JjRmlavOv6G9hXiBFTht3lRFQORP9TU3xIUX_AjMmlcVLzZotPJpA",
+  "user": {
+    "username": "giuseppesassone00@gmail.com",
+    "name": "giuseppe",
+    "surname": "sassone",
+    "sex": "M",
+    "born": "1981-05-25 00:00:00+02:00"
+  },
+  "addresses": [],
+  "phones": []
+}

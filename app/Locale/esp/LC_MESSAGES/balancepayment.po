@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "balancepayment_ESP"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BALANCEPAYMENT_NOT_FOUND"
+msgstr "pago de saldo no encontrado"
+
+msgid "INFO_BALANCEPAYMENT_SAVE"
+msgstr "pago de saldo ahorrado"
+
+msgid "ERROR_BALANCEPAYMENT_SAVE"
+msgstr "No fue posible guardar el pago de saldo"
+
+msgid "INFO_BALANCEPAYMENT_EDIT"
+msgstr "pago de saldo cambiado"
+
+msgid "ERROR_BALANCEPAYMENT_EDIT"
+msgstr "No fue posible cambiar el pago de saldo."
+
+msgid "INFO_BALANCEPAYMENT_DELETE"
+msgstr "pago de saldo eliminado"
+
+msgid "ERROR_BALANCEPAYMENT_DELETE"
+msgstr "No fue posible eliminar el pago de saldo."

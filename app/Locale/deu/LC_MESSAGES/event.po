@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "event_DEU"
+
+msgid "MODULE"
+msgstr "calendar"
+
+msgid "ERROR_EVENT_NOT_FOUND"
+msgstr "Veranstaltung nicht gefunden"
+
+msgid "INFO_EVENT_SAVE"
+msgstr "Veranstaltung gespeichert"
+
+msgid "ERROR_EVENT_SAVE"
+msgstr "Das Ereignis konnte nicht gespeichert werden"
+
+msgid "INFO_EVENT_EDIT"
+msgstr "Ereignis geändert"
+
+msgid "ERROR_EVENT_EDIT"
+msgstr "Das Ereignis konnte nicht geändert werden"
+
+msgid "INFO_EVENT_DELETE"
+msgstr "Veranstaltung gelöscht"
+
+msgid "ERROR_EVENT_DELETE"
+msgstr "Das Ereignis konnte nicht gelöscht werden"

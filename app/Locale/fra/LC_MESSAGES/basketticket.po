@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basketticket_FRA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKETTICKET_NOT_FOUND"
+msgstr "ticket dans le panier introuvable"
+
+msgid "INFO_BASKETTICKET_SAVE"
+msgstr "ticket dans le panier enregistré"
+
+msgid "ERROR_BASKETTICKET_SAVE"
+msgstr "Le ticket n'a pas pu être enregistré dans le panier"
+
+msgid "INFO_BASKETTICKET_EDIT"
+msgstr "ticket dans le panier modifié"
+
+msgid "ERROR_BASKETTICKET_EDIT"
+msgstr "Il n'a pas été possible de modifier le ticket dans le panier"
+
+msgid "INFO_BASKETTICKET_DELETE"
+msgstr "ticket dans le panier supprimé"
+
+msgid "ERROR_BASKETTICKET_DELETE"
+msgstr "Il n'a pas été possible de supprimer le ticket dans le panier"

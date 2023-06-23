@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "service_ITA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICE_NOT_FOUND"
+msgstr "Servizio non trovato"
+
+msgid "INFO_SERVICE_SAVE"
+msgstr "Servizio salvato"
+
+msgid "ERROR_SERVICE_SAVE"
+msgstr "Non è stato possibile salvare il Servizio"
+
+msgid "INFO_SERVICE_EDIT"
+msgstr "Servizio modificato"
+
+msgid "ERROR_SERVICE_EDIT"
+msgstr "Non è stato possibile modificare il Servizio"
+
+msgid "INFO_SERVICE_DELETE"
+msgstr "Servizio eliminato"
+
+msgid "ERROR_SERVICE_DELETE"
+msgstr "Non è stato possibile eliminare il Servizio"

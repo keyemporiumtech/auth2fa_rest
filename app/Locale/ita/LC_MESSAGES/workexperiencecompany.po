@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperiencecompany_ITA"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_NOT_FOUND"
+msgstr "Azienda non trovata"
+
+msgid "INFO_WORKEXPERIENCECOMPANY_SAVE"
+msgstr "Azienda salvata"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_SAVE"
+msgstr "Non è stato possibile salvare l'Azienda"
+
+msgid "INFO_WORKEXPERIENCECOMPANY_EDIT"
+msgstr "Azienda modificata"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_EDIT"
+msgstr "Non è stato possibile modificare l'Azienda"
+
+msgid "INFO_WORKEXPERIENCECOMPANY_DELETE"
+msgstr "Azienda eliminata"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_DELETE"
+msgstr "Non è stato possibile eliminare l'Azienda"

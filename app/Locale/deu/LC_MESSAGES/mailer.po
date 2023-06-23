@@ -1,0 +1,27 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailer_DEU"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILER_NOT_FOUND"
+msgstr "E-Mail-Anbieter nicht gefunden"
+
+msgid "INFO_MAILER_SAVE"
+msgstr "Mailanbieter gespeichert"
+
+msgid "ERROR_MAILER_SAVE"
+msgstr "Der Mailprovider konnte nicht gespeichert werden"
+
+msgid "INFO_MAILER_EDIT"
+msgstr "Mailanbieter geändert"
+
+msgid "ERROR_MAILER_EDIT"
+msgstr "Der Mailprovider konnte nicht geändert werden"
+
+msgid "INFO_MAILER_DELETE"
+msgstr "Mailanbieter gelöscht"
+
+msgid "ERROR_MAILER_DELETE"
+msgstr "Der Mailprovider konnte nicht gelöscht werden"
+

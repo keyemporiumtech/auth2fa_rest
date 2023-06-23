@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticket_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKET_NOT_FOUND"
+msgstr "Ticket not found"
+
+msgid "INFO_TICKET_SAVE"
+msgstr "Ticket saved"
+
+msgid "ERROR_TICKET_SAVE"
+msgstr "The Ticket could not be saved"
+
+msgid "INFO_TICKET_EDIT"
+msgstr "Ticket changed"
+
+msgid "ERROR_TICKET_EDIT"
+msgstr "It was not possible to change the Ticket"
+
+msgid "INFO_TICKET_DELETE"
+msgstr "Ticket deleted"
+
+msgid "ERROR_TICKET_DELETE"
+msgstr "The Ticket could not be deleted"

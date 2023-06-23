@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "eventattachment_DEU"
+
+msgid "MODULE"
+msgstr "calendar"
+
+msgid "ERROR_EVENTATTACHMENT_NOT_FOUND"
+msgstr "Ereignisanhang nicht gefunden"
+
+msgid "INFO_EVENTATTACHMENT_SAVE"
+msgstr "Ereignisanhang gespeichert"
+
+msgid "ERROR_EVENTATTACHMENT_SAVE"
+msgstr "Der Ereignisanhang konnte nicht gespeichert werden"
+
+msgid "INFO_EVENTATTACHMENT_EDIT"
+msgstr "geänderter Ereignisanhang"
+
+msgid "ERROR_EVENTATTACHMENT_EDIT"
+msgstr "Der Ereignisanhang konnte nicht bearbeitet werden"
+
+msgid "INFO_EVENTATTACHMENT_DELETE"
+msgstr "Ereignisanhang gelöscht"
+
+msgid "ERROR_EVENTATTACHMENT_DELETE"
+msgstr "Der Ereignisanhang konnte nicht gelöscht werden"

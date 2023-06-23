@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "productdiscount_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRODUCTDISCOUNT_NOT_FOUND"
+msgstr "Réduction introuvable"
+
+msgid "INFO_PRODUCTDISCOUNT_SAVE"
+msgstr "Réduction enregistrée"
+
+msgid "ERROR_PRODUCTDISCOUNT_SAVE"
+msgstr "La réduction n'a pas pu être enregistrée"
+
+msgid "INFO_PRODUCTDISCOUNT_EDIT"
+msgstr "Réduction modifiée"
+
+msgid "ERROR_PRODUCTDISCOUNT_EDIT"
+msgstr "Il n'a pas été possible de modifier la réduction"
+
+msgid "INFO_PRODUCTDISCOUNT_DELETE"
+msgstr "Réduction supprimée"
+
+msgid "ERROR_PRODUCTDISCOUNT_DELETE"
+msgstr "La réduction n'a pas pu être supprimée"

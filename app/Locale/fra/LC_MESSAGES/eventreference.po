@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "eventreference_FRA"
+
+msgid "MODULE"
+msgstr "calendar"
+
+msgid "ERROR_EVENTREFERENCE_NOT_FOUND"
+msgstr "contact de l'événement introuvable"
+
+msgid "INFO_EVENTREFERENCE_SAVE"
+msgstr "contact de l'événement enregistré"
+
+msgid "ERROR_EVENTREFERENCE_SAVE"
+msgstr "Le contact de l'événement n'a pas pu être enregistré"
+
+msgid "INFO_EVENTREFERENCE_EDIT"
+msgstr "le contact de l'événement a changé"
+
+msgid "ERROR_EVENTREFERENCE_EDIT"
+msgstr "Impossible de modifier le contact de l'événement"
+
+msgid "INFO_EVENTREFERENCE_DELETE"
+msgstr "contact d'événement supprimé"
+
+msgid "ERROR_EVENTREFERENCE_DELETE"
+msgstr "Le contact de l'événement n'a pas pu être supprimé"

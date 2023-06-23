@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityreference_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYREFERENCE_NOT_FOUND"
+msgstr "Contact introuvable"
+
+msgid "INFO_ACTIVITYREFERENCE_SAVE"
+msgstr "Contact enregistré"
+
+msgid "ERROR_ACTIVITYREFERENCE_SAVE"
+msgstr "Le contact n'a pas pu être enregistré"
+
+msgid "INFO_ACTIVITYREFERENCE_EDIT"
+msgstr "Contact modifié"
+
+msgid "ERROR_ACTIVITYREFERENCE_EDIT"
+msgstr "Il n'a pas été possible de modifier le contact"
+
+msgid "INFO_ACTIVITYREFERENCE_DELETE"
+msgstr "Contact supprimé"
+
+msgid "ERROR_ACTIVITYREFERENCE_DELETE"
+msgstr "Le contact n'a pas pu être supprimé"

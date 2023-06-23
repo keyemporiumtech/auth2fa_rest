@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionrole_ENG"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONROLE_NOT_FOUND"
+msgstr "Business role not found"
+
+msgid "INFO_PROFESSIONROLE_SAVE"
+msgstr "Business role saved"
+
+msgid "ERROR_PROFESSIONROLE_SAVE"
+msgstr "It was not possible to save the Business role"
+
+msgid "INFO_PROFESSIONROLE_EDIT"
+msgstr "Business role changed"
+
+msgid "ERROR_PROFESSIONROLE_EDIT"
+msgstr "It was not possible to change the Business role"
+
+msgid "INFO_PROFESSIONROLE_DELETE"
+msgstr "Business role deleted"
+
+msgid "ERROR_PROFESSIONROLE_DELETE"
+msgstr "It was not possible to delete the Business role"

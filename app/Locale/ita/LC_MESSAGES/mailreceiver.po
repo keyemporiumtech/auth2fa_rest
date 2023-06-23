@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailreceiver_ITA"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILRECEIVER_NOT_FOUND"
+msgstr "Destinatario dell'email non trovato"
+
+msgid "INFO_MAILRECEIVER_SAVE"
+msgstr "Destinatario dell'email salvato"
+
+msgid "ERROR_MAILRECEIVER_SAVE"
+msgstr "Non è stato possibile salvare il Destinatario dell'email"
+
+msgid "INFO_MAILRECEIVER_EDIT"
+msgstr "Destinatario dell'email modificato"
+
+msgid "ERROR_MAILRECEIVER_EDIT"
+msgstr "Non è stato possibile modificare il Destinatario dell'email"
+
+msgid "INFO_MAILRECEIVER_DELETE"
+msgstr "Destinatario dell'email eliminato"
+
+msgid "ERROR_MAILRECEIVER_DELETE"
+msgstr "Non è stato possibile eliminare il Destinatario dell'email"

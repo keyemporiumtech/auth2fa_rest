@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "typological_ENG"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_TYPOLOGICAL_NOT_FOUND"
+msgstr "Type not found"
+
+msgid "INFO_TYPOLOGICAL_SAVE"
+msgstr "Type saved"
+
+msgid "ERROR_TYPOLOGICAL_SAVE"
+msgstr "The Type could not be saved"
+
+msgid "INFO_TYPOLOGICAL_EDIT"
+msgstr "Type changed"
+
+msgid "ERROR_TYPOLOGICAL_EDIT"
+msgstr "The Type could not be changed"
+
+msgid "INFO_TYPOLOGICAL_DELETE"
+msgstr "Type deleted"
+
+msgid "ERROR_TYPOLOGICAL_DELETE"
+msgstr "The Type could not be deleted"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "userattachment_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERATTACHMENT_NOT_FOUND"
+msgstr "Allegato non trovato"
+
+msgid "INFO_USERATTACHMENT_SAVE"
+msgstr "Allegato salvato"
+
+msgid "ERROR_USERATTACHMENT_SAVE"
+msgstr "Non è stato possibile salvare l'Allegato"
+
+msgid "INFO_USERATTACHMENT_EDIT"
+msgstr "Allegato modificato"
+
+msgid "ERROR_USERATTACHMENT_EDIT"
+msgstr "Non è stato possibile modificare l'Allegato"
+
+msgid "INFO_USERATTACHMENT_DELETE"
+msgstr "Allegato eliminato"
+
+msgid "ERROR_USERATTACHMENT_DELETE"
+msgstr "Non è stato possibile eliminare l'Allegato"

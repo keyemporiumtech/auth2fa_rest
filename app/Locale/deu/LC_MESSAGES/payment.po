@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "payment_DEU"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_PAYMENT_NOT_FOUND"
+msgstr "Zahlung nicht gefunden"
+
+msgid "INFO_PAYMENT_SAVE"
+msgstr "Zahlung gespeichert"
+
+msgid "ERROR_PAYMENT_SAVE"
+msgstr "Die Zahlung konnte nicht gespeichert werden"
+
+msgid "INFO_PAYMENT_EDIT"
+msgstr "Zahlung geändert"
+
+msgid "ERROR_PAYMENT_EDIT"
+msgstr "Es war nicht möglich, die Zahlung zu ändern"
+
+msgid "INFO_PAYMENT_DELETE"
+msgstr "Zahlung eliminiert"
+
+msgid "ERROR_PAYMENT_DELETE"
+msgstr "Es war nicht möglich, die Zahlung zu stornieren"

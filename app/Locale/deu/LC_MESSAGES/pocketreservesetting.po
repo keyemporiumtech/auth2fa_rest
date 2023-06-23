@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pocketreservesetting_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKETRESERVESETTING_NOT_FOUND"
+msgstr "Einstellung nicht gefunden"
+
+msgid "INFO_POCKETRESERVESETTING_SAVE"
+msgstr "Einstellung gespeichert"
+
+msgid "ERROR_POCKETRESERVESETTING_SAVE"
+msgstr "Einstellung konnte nicht gespeichert werden"
+
+msgid "INFO_POCKETRESERVESETTING_EDIT"
+msgstr "Einstellung geänderte"
+
+msgid "ERROR_POCKETRESERVESETTING_EDIT"
+msgstr "Einstellung konnte nicht geändert werden"
+
+msgid "INFO_POCKETRESERVESETTING_DELETE"
+msgstr "Einstellung gelöscht"
+
+msgid "ERROR_POCKETRESERVESETTING_DELETE"
+msgstr "Einstellung konnte nicht gelöscht werden"

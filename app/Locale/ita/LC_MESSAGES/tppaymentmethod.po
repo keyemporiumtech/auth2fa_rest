@@ -1,0 +1,14 @@
+msgid "FILE_NAME_LAN"
+msgstr "tppaymentmethod_ITA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "TPPAYMENTMETHOD_WEB"
+msgstr "Web Account di pagamento"
+
+msgid "TPPAYMENTMETHOD_BNK"
+msgstr "Filiale di pagamento"
+
+msgid "TPPAYMENTMETHOD_CRD"
+msgstr "Carta di credito personale"

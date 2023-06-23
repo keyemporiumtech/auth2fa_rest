@@ -1,0 +1,11 @@
+msgid "FILE_NAME_LAN"
+msgstr "excel_DEU"
+
+msgid "MODULE"
+msgstr "util_excel"
+
+msgid "EXCEL_PAGE"
+msgstr "Buchseite"
+
+msgid "ERROR_EXCEL_READY"
+msgstr "Die Datei wurde nicht richtig definiert, ihr fehlt die Erweiterung"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "productattachment_ITA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRODUCTATTACHMENT_NOT_FOUND"
+msgstr "Allegato non trovato"
+
+msgid "INFO_PRODUCTATTACHMENT_SAVE"
+msgstr "Allegato salvato"
+
+msgid "ERROR_PRODUCTATTACHMENT_SAVE"
+msgstr "Non è stato possibile salvare l'Allegato"
+
+msgid "INFO_PRODUCTATTACHMENT_EDIT"
+msgstr "Allegato modificato"
+
+msgid "ERROR_PRODUCTATTACHMENT_EDIT"
+msgstr "Non è stato possibile modificare l'Allegato"
+
+msgid "INFO_PRODUCTATTACHMENT_DELETE"
+msgstr "Allegato eliminato"
+
+msgid "ERROR_PRODUCTATTACHMENT_DELETE"
+msgstr "Non è stato possibile eliminare l'Allegato"

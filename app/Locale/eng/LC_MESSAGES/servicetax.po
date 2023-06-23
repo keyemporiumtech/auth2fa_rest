@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "servicetax_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICETAX_NOT_FOUND"
+msgstr "Tax not found"
+
+msgid "INFO_SERVICETAX_SAVE"
+msgstr "Tax saved"
+
+msgid "ERROR_SERVICETAX_SAVE"
+msgstr "It was not possible to save the Tax"
+
+msgid "INFO_SERVICETAX_EDIT"
+msgstr "Tax changed"
+
+msgid "ERROR_SERVICETAX_EDIT"
+msgstr "It was not possible to change the Tax"
+
+msgid "INFO_SERVICETAX_DELETE"
+msgstr "Tax deleted"
+
+msgid "ERROR_SERVICETAX_DELETE"
+msgstr "It was not possible to delete the tax"

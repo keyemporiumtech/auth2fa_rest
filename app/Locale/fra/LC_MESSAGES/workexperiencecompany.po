@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperiencecompany_FRA"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_NOT_FOUND"
+msgstr "Entreprise introuvable"
+
+msgid "INFO_WORKEXPERIENCECOMPANY_SAVE"
+msgstr "Entreprise enregistré"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer le Entreprise"
+
+msgid "INFO_WORKEXPERIENCECOMPANY_EDIT"
+msgstr "Entreprise modifié"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_EDIT"
+msgstr "Il n'a pas été possible de modifier le Entreprise"
+
+msgid "INFO_WORKEXPERIENCECOMPANY_DELETE"
+msgstr "Entreprise supprimé"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_DELETE"
+msgstr "Il n'a pas été possible de supprimer le Entreprise"

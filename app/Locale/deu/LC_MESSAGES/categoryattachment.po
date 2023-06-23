@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "categoryattachment_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_CATEGORYATTACHMENT_NOT_FOUND"
+msgstr "Anhang nicht gefunden"
+
+msgid "INFO_CATEGORYATTACHMENT_SAVE"
+msgstr "Anhang gespeichert"
+
+msgid "ERROR_CATEGORYATTACHMENT_SAVE"
+msgstr "Der Anhang konnte nicht gespeichert werden"
+
+msgid "INFO_CATEGORYATTACHMENT_EDIT"
+msgstr "Anhang geändert"
+
+msgid "ERROR_CATEGORYATTACHMENT_EDIT"
+msgstr "Der Anhang konnte nicht bearbeitet werden"
+
+msgid "INFO_CATEGORYATTACHMENT_DELETE"
+msgstr "Anhang gelöscht"
+
+msgid "ERROR_CATEGORYATTACHMENT_DELETE"
+msgstr "Der Anhang konnte nicht gelöscht werden"

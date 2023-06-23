@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityrelation_ESP"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYRELATION_NOT_FOUND"
+msgstr "relación usuario-empresa no encontrada"
+
+msgid "INFO_ACTIVITYRELATION_SAVE"
+msgstr "relación usuario-empresa guardada"
+
+msgid "ERROR_ACTIVITYRELATION_SAVE"
+msgstr "No fue posible guardar la relación usuario-empresa"
+
+msgid "INFO_ACTIVITYRELATION_EDIT"
+msgstr "relación usuario-empresa modificada"
+
+msgid "ERROR_ACTIVITYRELATION_EDIT"
+msgstr "No fue posible modificar la relación usuario-empresa"
+
+msgid "INFO_ACTIVITYRELATION_DELETE"
+msgstr "relación usuario-empresa eliminada"
+
+msgid "ERROR_ACTIVITYRELATION_DELETE"
+msgstr "No fue posible eliminar la relación usuario-empresa"

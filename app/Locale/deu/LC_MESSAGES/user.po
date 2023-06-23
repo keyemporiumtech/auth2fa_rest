@@ -1,0 +1,101 @@
+msgid "FILE_NAME_LAN"
+msgstr "user_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USER_NOT_FOUND"
+msgstr "Benutzer nicht gefunden"
+
+msgid "INFO_USER_SAVE"
+msgstr "Benutzer gespeichert"
+
+msgid "ERROR_USER_SAVE"
+msgstr "Der Benutzer konnte nicht gespeichert werden"
+
+msgid "INFO_USER_EDIT"
+msgstr "Benutzer geändert"
+
+msgid "ERROR_USER_EDIT"
+msgstr "Der Benutzer konnte nicht geändert werden"
+
+msgid "INFO_USER_DELETE"
+msgstr "Benutzer gelöscht"
+
+msgid "ERROR_USER_DELETE"
+msgstr "Der Benutzer konnte nicht gelöscht werden"
+
+msgid "INFO_USER_LOGIN"
+msgstr "Angemeldet von %s mit Token %s"
+
+msgid "ERROR_USER_LOGIN_NOT_VALID"
+msgstr "Anmeldung mit Benutzername %s und Passwort %s nicht gefunden"
+
+msgid "ERROR_CONFIRMLOGIN_TOKEN_EXPIRED"
+msgstr "Die Prüfsumme ist abgelaufen. Wiederholen Sie den Anmeldevorgang"
+
+msgid "ERROR_CONTROL_CODE_EXPIRED"
+msgstr "Der Operationscode %s wurde im Archiv gefunden, aber das Token ist abgelaufen"
+
+msgid "INFO_USER_LOGOUT"
+msgstr "Von %s mit Token %s abgemeldet"
+
+msgid "INFO_SESSION_EXPIRED"
+msgstr "Sitzungszeitüberschreitung für %s mit Token %s"
+
+msgid "INFO_USER_PASSWORD_RESTORED"
+msgstr "Benutzer %s hat Passwort %s in %s wiederhergestellt"
+
+msgid "INFO_RESTORE_PASSWORD"
+msgstr "Passwort wiederhergestellt"
+
+msgid "ERROR_RESTORE_PASSWORD"
+msgstr "Das Passwort konnte nicht wiederhergestellt werden"
+
+msgid "INFO_USER_PASSWORD_CHANGED"
+msgstr "Benutzer %s hat das Passwort %s in %s geändert"
+
+msgid "INFO_CHANGE_PASSWORD"
+msgstr "Passwort geändert"
+
+msgid "ERROR_CHANGE_PASSWORD"
+msgstr "Das Passwort konnte nicht geändert werden"
+
+msgid "ERROR_CHANGE_PASSWORD_OLD_PASSWORD"
+msgstr "Das alte Passwort stimmt nicht überein"
+
+msgid "ERROR_OLD_PASSWORD_NOT_EQUAL"
+msgstr "Das alte Passwort %s stimmt nicht mit dem registrierten %s überein"
+
+msgid "ERROR_REMIND_PASSWORD"
+msgstr "Das Passwort konnte nicht gespeichert werden"
+
+msgid "INFO_SEND_CODE_LOGIN"
+msgstr "Wir haben einen Verifizierungscode gesendet, um Ihre Identität zu verifizieren"
+
+msgid "ERROR_CHANGE_PROFILE"
+msgstr "Das Profil konnte nicht geändert werden"
+
+msgid "ERROR_CHANGE_PROFILE_USER_NOT_SESSION"
+msgstr "Sie versuchen, das Profil %s dem Benutzer %s zuzuweisen, der nicht am System angemeldet ist"
+
+msgid "INFO_CHANGE_PROFILE"
+msgstr "Profil geändert zu %s"
+
+msgid "ERROR_PROFILE_NOT_FOUND"
+msgstr "Das Profil konnte nicht abgerufen werden"
+
+msgid "ERROR_USER_NOT_PERMISSION"
+msgstr "Benutzer nicht für den Vorgang autorisiert"
+
+msgid "ERROR_USER_NOT_PERMISSION_DETAIL"
+msgstr "Benutzer %s hat keine %s-Berechtigungen"
+
+msgid "ERROR_USER_NOT_LOGGED"
+msgstr "Benutzer nicht angemeldet"
+
+msgid "ERROR_SESSION_USERNAME"
+msgstr "Für den Benutzer war eine andere Sitzung aktiv. Bitte melden Sie sich erneut an"
+
+msgid "ERROR_SESSION_LOGIN_NOT_VALID"
+msgstr "Für den Benutzer mit dem Benutzernamen %s war eine andere Sitzung aktiv"

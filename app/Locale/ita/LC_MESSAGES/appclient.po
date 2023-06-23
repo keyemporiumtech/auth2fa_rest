@@ -1,0 +1,30 @@
+msgid "FILE_NAME_LAN"
+msgstr "appclient_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_CLIENT_TOKEN"
+msgstr "Questa applicazione non è autorizzata ad accedere alle risorse di sistema"
+
+msgid "ERROR_CLIENTTOKEN_NOT_FOUND"
+msgstr "Applicazione Client non trovata"
+
+msgid "INFO_CLIENTTOKEN_SAVE"
+msgstr "Applicazione Client salvata"
+
+msgid "ERROR_CLIENTTOKEN_SAVE"
+msgstr "Non è stato possibile salvare l'Applicazione Client"
+
+msgid "INFO_CLIENTTOKEN_EDIT"
+msgstr "Applicazione Client modificata"
+
+msgid "ERROR_CLIENTTOKEN_EDIT"
+msgstr "Non è stato possibile modificare l'Applicazione Client"
+
+msgid "INFO_CLIENTTOKEN_DELETE"
+msgstr "Applicazione Client eliminata"
+
+msgid "ERROR_CLIENTTOKEN_DELETE"
+msgstr "Non è stato possibile eliminare l'Applicazione Client"
+

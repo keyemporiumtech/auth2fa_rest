@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityuser_DEU"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_ACTIVITYUSER_NOT_FOUND"
+msgstr "Mitarbeiter nicht gefunden"
+
+msgid "INFO_ACTIVITYUSER_SAVE"
+msgstr "Mitarbeiter gespeichert"
+
+msgid "ERROR_ACTIVITYUSER_SAVE"
+msgstr "Der Mitarbeiter konnte nicht gespeichert werden"
+
+msgid "INFO_ACTIVITYUSER_EDIT"
+msgstr "Mitarbeiter geändert"
+
+msgid "ERROR_ACTIVITYUSER_EDIT"
+msgstr "Der Mitarbeiter konnten nicht geändert werden"
+
+msgid "INFO_ACTIVITYUSER_DELETE"
+msgstr "Mitarbeiter gelöschte"
+
+msgid "ERROR_ACTIVITYUSER_DELETE"
+msgstr "Der Mitarbeiter konnte nicht gelöscht werden"

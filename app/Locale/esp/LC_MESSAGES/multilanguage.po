@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "multilanguage_ESP"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_MULTILANGUAGE_NOT_FOUND"
+msgstr "Línea traducida no encontrada"
+
+msgid "INFO_MULTILANGUAGE_SAVE"
+msgstr "Línea traducida guardada"
+
+msgid "ERROR_MULTILANGUAGE_SAVE"
+msgstr "La Línea traducida no se pudo guardar"
+
+msgid "INFO_MULTILANGUAGE_EDIT"
+msgstr "Línea traducida cambiada"
+
+msgid "ERROR_MULTILANGUAGE_EDIT"
+msgstr "La línea traducida no se pudo editar"
+
+msgid "INFO_MULTILANGUAGE_DELETE"
+msgstr "Línea traducida eliminada"
+
+msgid "ERROR_MULTILANGUAGE_DELETE"
+msgstr "No se pudo eliminar la línea traducida"

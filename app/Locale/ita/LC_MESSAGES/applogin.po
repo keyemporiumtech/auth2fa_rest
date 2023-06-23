@@ -1,0 +1,15 @@
+msgid "FILE_NAME_LAN"
+msgstr "applogin_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_LOGIN_TOKEN"
+msgstr "Utente non abilitato. Controllare di aver effettuato correttamente il login"
+
+msgid "ERROR_SESSION_EXPIRED"
+msgstr "Sessione utente scaduta"
+
+msgid "ERROR_PROFILE_DEFAULT"
+msgstr "Nessun profilo trovato per l'utente"
+

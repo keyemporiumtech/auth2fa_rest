@@ -1,0 +1,47 @@
+msgid "FILE_NAME_LAN"
+msgstr "mail_FRA"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_PHPMAIL_NOT_SENDED"
+msgstr "Le plugin Phpmailer n'a pas envoyé l'e-mail"
+
+msgid "ERROR_MAIL_NOT_FOUND"
+msgstr "Email non trouvé"
+
+msgid "INFO_MAIL_SAVE"
+msgstr "E-mail enregistré"
+
+msgid "ERROR_MAIL_SAVE"
+msgstr "L'e-mail n'a pas pu être enregistré"
+
+msgid "INFO_MAIL_EDIT"
+msgstr "Adresse e-mail modifiée"
+
+msgid "ERROR_MAIL_EDIT"
+msgstr "Il n'a pas été possible de changer l'e-mail"
+
+msgid "INFO_MAIL_DELETE"
+msgstr "E-mail supprimé"
+
+msgid "ERROR_MAIL_DELETE"
+msgstr "L'e-mail n'a pas pu être supprimé"
+
+msgid "INFO_MAIL_SEND"
+msgstr "E-mail correctement envoyé"
+
+msgid "ERROR_MAIL_SEND"
+msgstr "L'e-mail n'a pas été envoyé correctement"
+
+msgid "ERROR_MAIL_SEND_NOT_SENDER"
+msgstr "Paramètre expéditeur non valorisé"
+
+msgid "ERROR_MAIL_SEND_NOT_DESTINATORS"
+msgstr "Tableau des destinataires vide"
+
+msgid "ERROR_MAIL_SEND_NOT_SUBJECT"
+msgstr "Sujette non fourni"
+
+msgid "ERROR_MAIL_SEND_NOT_BODY"
+msgstr "Aucun texte de message fourni"

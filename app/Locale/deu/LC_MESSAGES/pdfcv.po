@@ -1,0 +1,123 @@
+msgid "FILE_NAME_LAN"
+msgstr "pdfcv_DEU"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "CV_TITLE"
+msgstr "Lebenslauf"
+
+msgid "CV_OTHER_INFOS"
+msgstr "Für mehr Informationen"
+
+msgid "CV_FOOTER"
+msgstr "Ich genehmige die Verarbeitung meiner personenbezogenen Daten gemäß Gesetzesdekret vom 30. Juni 2003, Nr. 196 \"Personenbezogener Datenschutzcode\""
+
+msgid "CV_PERIOD_DAY"
+msgstr "Tag"
+
+msgid "CV_PERIOD_DAYS"
+msgstr "Tage"
+
+msgid "CV_PERIOD_MONTH"
+msgstr "Monat"
+
+msgid "CV_PERIOD_MONTHS"
+msgstr "Monate"
+
+msgid "CV_PERIOD_YEAR"
+msgstr "Jahr"
+
+msgid "CV_PERIOD_YEARS"
+msgstr "Jahre"
+
+msgid "CV_PERIOD_ONGOING"
+msgstr "im Gange"
+
+msgid "CV_INFO"
+msgstr "Persönliche Informationen"
+
+msgid "CV_INFO_NAME"
+msgstr "Namen"
+
+msgid "CV_INFO_ADDRESS"
+msgstr "Adresse"
+
+msgid "CV_INFO_PHONE"
+msgstr "Telefon"
+
+msgid "CV_INFO_EMAIL"
+msgstr "Email"
+
+msgid "CV_INFO_NATION"
+msgstr "Geburtsland"
+
+msgid "CV_INFO_BORN"
+msgstr "Geburtsdatum"
+
+msgid "CV_ROLES"
+msgstr "Berufliche Rollen und Figuren"
+
+msgid "CV_EXPERIENCE"
+msgstr "Persönliche Erfahrung"
+
+msgid "CV_EXPERIENCE_PERIOD"
+msgstr "Datum [von - bis]"
+
+msgid "CV_EXPERIENCE_COMPANY"
+msgstr "Werbungsfirma"
+
+msgid "CV_EXPERIENCE_SECTOR"
+msgstr "Tätigkeitsbereich oder Branche"
+
+msgid "CV_EXPERIENCE_PLACE"
+msgstr "Ort"
+
+msgid "CV_EXPERIENCE_ROLE"
+msgstr "Art der Anstellung und Aufgaben"
+
+msgid "CV_EXPERIENCE_SKILL_KNW"
+msgstr "Erworbene Fähigkeiten"
+
+msgid "CV_EXPERIENCE_SKILL_PRD"
+msgstr "Verwendete Produkte"
+
+msgid "CV_SCHOOL"
+msgstr "Schul-und Berufsbildung"
+
+msgid "CV_SCHOOL_DATE"
+msgstr "Datum"
+
+msgid "CV_SCHOOL_INSTITUTE1"
+msgstr "Name und Art des Instituts"
+
+msgid "CV_SCHOOL_INSTITUTE2"
+msgstr "der Erziehung oder Ausbildung"
+
+msgid "CV_SCHOOL_DESCRIPTION"
+msgstr "Fächer/Fähigkeiten, die studiert werden"
+
+msgid "CV_SCHOOL_NAME"
+msgstr "Qualifikation erreicht"
+
+msgid "CV_SCHOOL_LEVEL"
+msgstr "Stufe erreicht"
+
+msgid "CV_SKILL"
+msgstr "Fähigkeiten und Kompetenzen"
+
+msgid "CV_SKILL_LAN"
+msgstr "Bekannte Sprachen"
+
+msgid "CV_SKILL_KNW"
+msgstr "Erworbene Fähigkeiten"
+
+msgid "CV_SKILL_PRD"
+msgstr "Verwendete Produkte und Werkzeuge"
+
+msgid "CV_SKILL_PERIOD"
+msgstr "Zeitraum"
+
+msgid "CV_SKILL_LEVEL"
+msgstr "Eben"
+

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "servicediscount_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICEDISCOUNT_NOT_FOUND"
+msgstr "Réduction introuvable"
+
+msgid "INFO_SERVICEDISCOUNT_SAVE"
+msgstr "Réduction enregistrée"
+
+msgid "ERROR_SERVICEDISCOUNT_SAVE"
+msgstr "La réduction n'a pas pu être enregistrée"
+
+msgid "INFO_SERVICEDISCOUNT_EDIT"
+msgstr "Réduction modifiée"
+
+msgid "ERROR_SERVICEDISCOUNT_EDIT"
+msgstr "Il n'a pas été possible de modifier la réduction"
+
+msgid "INFO_SERVICEDISCOUNT_DELETE"
+msgstr "Réduction supprimée"
+
+msgid "ERROR_SERVICEDISCOUNT_DELETE"
+msgstr "La réduction n'a pas pu être supprimée"

@@ -1,0 +1,15 @@
+msgid "FILE_NAME_LAN"
+msgstr "applogin_ESP"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_LOGIN_TOKEN"
+msgstr "Usuario no habilitado. Comprueba que has iniciado sesión correctamente"
+
+msgid "ERROR_SESSION_EXPIRED"
+msgstr "Sesión de usuario caducada"
+
+msgid "ERROR_PROFILE_DEFAULT"
+msgstr "No se encontraron perfiles para el usuario"
+

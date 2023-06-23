@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityrelation_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYRELATION_NOT_FOUND"
+msgstr "Benutzer-Unternehmen-Beziehung nicht gefunden"
+
+msgid "INFO_ACTIVITYRELATION_SAVE"
+msgstr "Benutzer-Unternehmen-Beziehung gespeichert"
+
+msgid "ERROR_ACTIVITYRELATION_SAVE"
+msgstr "Die/Das/Der Benutzer-Unternehmen-Beziehung konnte nicht gespeichert werden"
+
+msgid "INFO_ACTIVITYRELATION_EDIT"
+msgstr "Benutzer-Unternehmen-Beziehung geändert"
+
+msgid "ERROR_ACTIVITYRELATION_EDIT"
+msgstr "Die/Das/Der Benutzer-Unternehmen-Beziehung konnten nicht geändert werden"
+
+msgid "INFO_ACTIVITYRELATION_DELETE"
+msgstr "Benutzer-Unternehmen-Beziehung gelöschte"
+
+msgid "ERROR_ACTIVITYRELATION_DELETE"
+msgstr "Die/Das/Der Benutzer-Unternehmen-Beziehung konnte nicht gelöscht werden"

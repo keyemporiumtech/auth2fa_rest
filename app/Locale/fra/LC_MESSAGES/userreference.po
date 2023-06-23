@@ -1,0 +1,32 @@
+msgid "FILE_NAME_LAN"
+msgstr "userreference_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERREFERENCE_NOT_FOUND"
+msgstr "Contact introuvable"
+
+msgid "INFO_USERREFERENCE_SAVE"
+msgstr "Contact enregistré"
+
+msgid "ERROR_USERREFERENCE_SAVE"
+msgstr "Le contact n'a pas pu être enregistré"
+
+msgid "INFO_USERREFERENCE_EDIT"
+msgstr "Contact modifié"
+
+msgid "ERROR_USERREFERENCE_EDIT"
+msgstr "Il n'a pas été possible de modifier le contact"
+
+msgid "INFO_USERREFERENCE_DELETE"
+msgstr "Contact supprimé"
+
+msgid "ERROR_USERREFERENCE_DELETE"
+msgstr "Le contact n'a pas pu être supprimé"
+
+msgid "ERROR_USERREFERENCE_SET_PRINCIPAL"
+msgstr "Le contact de l'utilisateur n'a pas pu être mis à jour en tant que contact principal"
+
+msgid "INFO_USERREFERENCE_SET_PRINCIPAL"
+msgstr "Le contact de l'utilisateur a été défini comme principal"

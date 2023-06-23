@@ -1,0 +1,27 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailer_ESP"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILER_NOT_FOUND"
+msgstr "Proveedor de correo no encontrado"
+
+msgid "INFO_MAILER_SAVE"
+msgstr "Proveedor de correo guardado"
+
+msgid "ERROR_MAILER_SAVE"
+msgstr "No se pudo guardar el proveedor de correo"
+
+msgid "INFO_MAILER_EDIT"
+msgstr "Provider di posta modificato"
+
+msgid "ERROR_MAILER_EDIT"
+msgstr "No fue posible cambiar el proveedor de correo"
+
+msgid "INFO_MAILER_DELETE"
+msgstr "Proveedor de correo eliminado"
+
+msgid "ERROR_MAILER_DELETE"
+msgstr "No se pudo eliminar el proveedor de correo"
+

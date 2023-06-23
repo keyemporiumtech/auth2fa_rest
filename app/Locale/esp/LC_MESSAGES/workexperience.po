@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperience_ESP"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCE_NOT_FOUND"
+msgstr "Experiencia laboral no encontrada"
+
+msgid "INFO_WORKEXPERIENCE_SAVE"
+msgstr "Experiencia laboral guardada"
+
+msgid "ERROR_WORKEXPERIENCE_SAVE"
+msgstr "No fue posible guardar la Experiencia laboral"
+
+msgid "INFO_WORKEXPERIENCE_EDIT"
+msgstr "Experiencia laboral modificada"
+
+msgid "ERROR_WORKEXPERIENCE_EDIT"
+msgstr "No fue posible modificar la Experiencia laboral"
+
+msgid "INFO_WORKEXPERIENCE_DELETE"
+msgstr "Experiencia laboral eliminada"
+
+msgid "ERROR_WORKEXPERIENCE_DELETE"
+msgstr "No fue posible eliminar la Experiencia laboral"

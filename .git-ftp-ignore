@@ -1,0 +1,7 @@
+index.html
+indexOLD.html
+.infomaniak-maintenance.html
+.user.ini
+bitbucket-pipelines.yml
+/app/Config/json/mode.json
+/app/modules/app_authutils

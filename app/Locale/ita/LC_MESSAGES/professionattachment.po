@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionattachment_ITA"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONATTACHMENT_NOT_FOUND"
+msgstr "Allegato non trovato"
+
+msgid "INFO_PROFESSIONATTACHMENT_SAVE"
+msgstr "Allegato salvato"
+
+msgid "ERROR_PROFESSIONATTACHMENT_SAVE"
+msgstr "Non è stato possibile salvare l'Allegato"
+
+msgid "INFO_PROFESSIONATTACHMENT_EDIT"
+msgstr "Allegato modificato"
+
+msgid "ERROR_PROFESSIONATTACHMENT_EDIT"
+msgstr "Non è stato possibile modificare l'Allegato"
+
+msgid "INFO_PROFESSIONATTACHMENT_DELETE"
+msgstr "Allegato eliminato"
+
+msgid "ERROR_PROFESSIONATTACHMENT_DELETE"
+msgstr "Non è stato possibile eliminare l'Allegato"

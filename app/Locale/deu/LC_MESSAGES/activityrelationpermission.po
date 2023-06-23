@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityrelationpermission_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_NOT_FOUND"
+msgstr "Erlaubnis zur Beziehung zwischen Benutzer und Unternehmen nicht gefunden"
+
+msgid "INFO_ACTIVITYRELATIONPERMISSION_SAVE"
+msgstr "Erlaubnis zur Beziehung zwischen Benutzer und Unternehmen gespeichert"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_SAVE"
+msgstr "Die/Das/Der Erlaubnis zur Beziehung zwischen Benutzer und Unternehmen konnte nicht gespeichert werden"
+
+msgid "INFO_ACTIVITYRELATIONPERMISSION_EDIT"
+msgstr "Erlaubnis zur Beziehung zwischen Benutzer und Unternehmen geändert"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_EDIT"
+msgstr "Die/Das/Der Erlaubnis zur Beziehung zwischen Benutzer und Unternehmen konnten nicht geändert werden"
+
+msgid "INFO_ACTIVITYRELATIONPERMISSION_DELETE"
+msgstr "Erlaubnis zur Beziehung zwischen Benutzer und Unternehmen gelöschte"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_DELETE"
+msgstr "Die/Das/Der Erlaubnis zur Beziehung zwischen Benutzer und Unternehmen konnte nicht gelöscht werden"

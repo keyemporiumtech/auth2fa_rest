@@ -1,0 +1,35 @@
+msgid "FILE_NAME_LAN"
+msgstr "tppayment_ESP"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "TPPAYMENT_BON"
+msgstr "Transferencia bancaria"
+
+msgid "TPPAYMENT_BOL"
+msgstr "carta de pago"
+
+msgid "TPPAYMENT_RID"
+msgstr "RID o SEPA"
+
+msgid "TPPAYMENT_WEB"
+msgstr "Banca Web"
+
+msgid "TPPAYMENT_CNT"
+msgstr "Dinero"
+
+msgid "TPPAYMENT_ASS"
+msgstr "cheque bancario"
+
+msgid "TPPAYMENT_ASC"
+msgstr "Cheque de caja"
+
+msgid "TPPAYMENT_CMB"
+msgstr "Facturas o giros"
+
+msgid "TPPAYMENT_RCV"
+msgstr "recibo del banco"
+
+msgid "TPPAYMENT_MAV"
+msgstr "MAV"

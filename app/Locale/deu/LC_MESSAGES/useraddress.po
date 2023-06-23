@@ -1,0 +1,32 @@
+msgid "FILE_NAME_LAN"
+msgstr "useraddress_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERADDRESS_NOT_FOUND"
+msgstr "Benutzeradresse nicht gefunden"
+
+msgid "INFO_USERADDRESS_SAVE"
+msgstr "Benutzeradresse gespeichert"
+
+msgid "ERROR_USERADDRESS_SAVE"
+msgstr "Die Benutzeradresse konnte nicht gespeichert werden"
+
+msgid "INFO_USERADDRESS_EDIT"
+msgstr "Benutzeradresse geändert"
+
+msgid "ERROR_USERADDRESS_EDIT"
+msgstr "Die Benutzeradresse konnte nicht geändert werden"
+
+msgid "INFO_USERADDRESS_DELETE"
+msgstr "Benutzeradresse gelöscht"
+
+msgid "ERROR_USERADDRESS_DELETE"
+msgstr "Die Benutzeradresse konnte nicht gelöscht werden"
+
+msgid "ERROR_USERADDRESS_SET_PRINCIPAL"
+msgstr "Es war nicht möglich, meine Benutzeradresse als primäre Adresse zu aktualisieren"
+
+msgid "INFO_USERADDRESS_SET_PRINCIPAL"
+msgstr "Die Benutzeradresse wurde als primär festgelegt"

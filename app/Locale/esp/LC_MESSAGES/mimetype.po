@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "mimetype_ESP"
+
+msgid "MODULE"
+msgstr "resources"
+
+msgid "ERROR_MIMETYPE_NOT_FOUND"
+msgstr "Mimetype no encontrado"
+
+msgid "INFO_MIMETYPE_SAVE"
+msgstr "Mimetype guardado"
+
+msgid "ERROR_MIMETYPE_SAVE"
+msgstr "Mimetype no se pudo guardar"
+
+msgid "INFO_MIMETYPE_EDIT"
+msgstr "Mimetype modificado"
+
+msgid "ERROR_MIMETYPE_EDIT"
+msgstr "Mimetype no se pudo cambiar"
+
+msgid "INFO_MIMETYPE_DELETE"
+msgstr "Mimetype eliminado"
+
+msgid "ERROR_MIMETYPE_DELETE"
+msgstr "Mimetype no se pudo eliminar"

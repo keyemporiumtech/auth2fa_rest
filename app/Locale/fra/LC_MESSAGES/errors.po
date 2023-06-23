@@ -1,0 +1,44 @@
+msgid "FILE_NAME_LAN"
+msgstr "errors_FRA"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_GENERIC"
+msgstr "Si è verificato un errore"
+
+msgid "ERROR_ACCESS"
+msgstr "Accès refusé"
+
+msgid "ERROR_MESSAGE"
+msgstr "Exception générée par le serveur. %s<br/>Contactez le service technique en indiquant le code d'erreur %s"
+
+msgid "ERROR_NO_DATA_FOUND"
+msgstr "Données introuvables"
+
+msgid "ERROR_THROW_EXCEPTION"
+msgstr "Une exception s'est produite"
+
+msgid "ERROR_SAVE"
+msgstr "La sauvegarde des données demandée n'a pas réussi"
+
+msgid "ERROR_EDIT"
+msgstr "La modification de données demandée n'a pas abouti"
+
+msgid "ERROR_DELETE"
+msgstr "La suppression demandée des données n'a pas été effectuée correctement"
+
+msgid "ERROR_SAVE_OBJECT_NULL"
+msgstr "L'objet à enregistrer est vide"
+
+msgid "ERROR_EDIT_OBJECT_NULL"
+msgstr "L'objet à modifier est vide"
+
+msgid "ERROR_DELETE_ID_NULL"
+msgstr "L'identifiant à supprimer n'a pas été fourni"
+
+msgid "ERROR_PARAMS_NULL"
+msgstr "Aucun paramètre d'entrée obligatoire fourni"
+
+msgid "ERROR_API_NULL"
+msgstr "L'API %s n'est pas enregistrée"

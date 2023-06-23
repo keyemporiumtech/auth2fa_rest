@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "paymentmethod_FRA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_PAYMENTMETHOD_NOT_FOUND"
+msgstr "mode de paiement introuvable"
+
+msgid "INFO_PAYMENTMETHOD_SAVE"
+msgstr "mode de paiement enregistré"
+
+msgid "ERROR_PAYMENTMETHOD_SAVE"
+msgstr "Le mode de paiement n'a pas pu être enregistré"
+
+msgid "INFO_PAYMENTMETHOD_EDIT"
+msgstr "mode de paiement modifié"
+
+msgid "ERROR_PAYMENTMETHOD_EDIT"
+msgstr "Le mode de paiement n'a pas pu être modifié"
+
+msgid "INFO_PAYMENTMETHOD_DELETE"
+msgstr "mode de paiement supprimé"
+
+msgid "ERROR_PAYMENTMETHOD_DELETE"
+msgstr "Le mode de paiement n'a pas pu être supprimé"

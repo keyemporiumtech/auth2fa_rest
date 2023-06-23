@@ -1,0 +1,20 @@
+msgid "FILE_NAME_LAN"
+msgstr "tpwebpayment_ESP"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "TPWEBPAYMENT_PAYPAL"
+msgstr "Paypal"
+
+msgid "TPWEBPAYMENT_POSTFINANCE"
+msgstr "Postfinance"
+
+msgid "TPWEBPAYMENT_NEXY"
+msgstr "Nexy"
+
+msgid "TPWEBPAYMENT_SOFORT"
+msgstr "Sofort"
+
+msgid "TPWEBPAYMENT_TWINT"
+msgstr "Twint"

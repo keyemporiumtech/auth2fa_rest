@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "tickettax_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETTAX_NOT_FOUND"
+msgstr "ticket tax not found"
+
+msgid "INFO_TICKETTAX_SAVE"
+msgstr "ticket tax saved"
+
+msgid "ERROR_TICKETTAX_SAVE"
+msgstr "The ticket tax could not be saved"
+
+msgid "INFO_TICKETTAX_EDIT"
+msgstr "ticket tax changed"
+
+msgid "ERROR_TICKETTAX_EDIT"
+msgstr "It was not possible to change the attached ticket"
+
+msgid "INFO_TICKETTAX_DELETE"
+msgstr "ticket tax removed"
+
+msgid "ERROR_TICKETTAX_DELETE"
+msgstr "The ticket tax could not be deleted"

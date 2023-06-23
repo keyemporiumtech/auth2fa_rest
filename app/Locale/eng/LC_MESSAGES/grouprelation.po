@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "grouprelation_ENG"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_GROUPRELATION_NOT_FOUND"
+msgstr "Entity group relationship not found"
+
+msgid "INFO_GROUPRELATION_SAVE"
+msgstr "Entity group relationship saved"
+
+msgid "ERROR_GROUPRELATION_SAVE"
+msgstr "The Entity Group Relationship could not be saved"
+
+msgid "INFO_GROUPRELATION_EDIT"
+msgstr "Entity group relationship modified"
+
+msgid "ERROR_GROUPRELATION_EDIT"
+msgstr "The Entity Group Relationship could not be edited"
+
+msgid "INFO_GROUPRELATION_DELETE"
+msgstr "Entity group relationship deleted"
+
+msgid "ERROR_GROUPRELATION_DELETE"
+msgstr "The Entity Group Relationship could not be deleted"

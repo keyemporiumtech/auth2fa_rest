@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basketproduct_DEU"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKETPRODUCT_NOT_FOUND"
+msgstr "Produkt im Warenkorb nicht gefunden"
+
+msgid "INFO_BASKETPRODUCT_SAVE"
+msgstr "Produkt im Warenkorb gespeichert"
+
+msgid "ERROR_BASKETPRODUCT_SAVE"
+msgstr "Das Produkt konnte nicht im Warenkorb gespeichert werden"
+
+msgid "INFO_BASKETPRODUCT_EDIT"
+msgstr "Produkt im Warenkorb geändert"
+
+msgid "ERROR_BASKETPRODUCT_EDIT"
+msgstr "Es war nicht möglich, das Produkt im Warenkorb zu ändern"
+
+msgid "INFO_BASKETPRODUCT_DELETE"
+msgstr "Produkt im Warenkorb eliminiert"
+
+msgid "ERROR_BASKETPRODUCT_DELETE"
+msgstr "Es war nicht möglich, das Produkt im Warenkorb zu stornieren"

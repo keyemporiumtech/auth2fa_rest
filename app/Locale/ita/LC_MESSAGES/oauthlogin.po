@@ -1,0 +1,44 @@
+msgid "FILE_NAME_LAN"
+msgstr "oauthlogin_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USER_EMPTY"
+msgstr "Utente non presente"
+
+msgid "ERROR_OAUTH_ID_EMPTY"
+msgstr "Id di autenticazione non presente"
+
+msgid "ERROR_USERNAME_EMPTY"
+msgstr "Email di autenticazione non presente"
+
+msgid "ERROR_NAME_EMPTY"
+msgstr "Nome dell'utente non presente"
+
+msgid "ERROR_SURNAME_EMPTY"
+msgstr "Cognome dell'utente non presente"
+
+msgid "ERROR_BORN_EMPTY"
+msgstr "Data di nascita dell'utente non presente"
+
+msgid "ERROR_SAVE_OAUTH"
+msgstr "Oauth non salvato"
+
+msgid "ERROR_SAVE_EMAIL"
+msgstr "Email non salvata"
+
+msgid "ERROR_SAVE_PHONE"
+msgstr "Telefono non salvato"
+
+msgid "ERROR_SAVE_ADDRESS"
+msgstr "Indirizzo non salvato"
+
+msgid "ERROR_SAVE_IMAGE"
+msgstr "Foto profilo non salvato"
+
+msgid "ERROR_OAUTH_CHECK"
+msgstr "Non è stato possibile recuperare l'utente dai nostri sistemi"
+
+msgid "ERROR_OAUTH_REGISTER"
+msgstr "Non è stato possibile registrare l'utente nei nostri sistemi"

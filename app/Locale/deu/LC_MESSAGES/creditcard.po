@@ -1,0 +1,24 @@
+msgid "FILE_NAME_LAN"
+msgstr "creditcard_DEU"
+
+msgid "MODULE"
+msgstr "validator_creditcard"
+
+msgid "ERRON_VALIDATE"
+msgstr "Eine Validierung der angegebenen Kartennummer ist nicht möglich"
+
+msgid "ERRON_VALIDATE_NOT_VALID"
+msgstr "Ungültige Kartennummer"
+
+msgid "ERRON_VALIDATE_NOT_FOUND"
+msgstr "Kartennummer nicht gefunden"
+
+msgid "ERRON_VALIDATE_LENGTH"
+msgstr "Ungültige Kartennummer: Falsche Zeichenanzahl"
+
+msgid "ERRON_VALIDATE_EXPIRATION"
+msgstr "Ungültige Kartennummer: Falsches Ablaufdatum"
+
+msgid "ERRON_VALIDATE_CVC"
+msgstr "Ungültige Kartennummer: Falscher Sicherheitscode"
+

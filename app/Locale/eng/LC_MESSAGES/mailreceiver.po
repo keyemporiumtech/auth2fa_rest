@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailreceiver_ENG"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILRECEIVER_NOT_FOUND"
+msgstr "Email recipient not found"
+
+msgid "INFO_MAILRECEIVER_SAVE"
+msgstr "Email recipient saved"
+
+msgid "ERROR_MAILRECEIVER_SAVE"
+msgstr "It was not possible to save the Recipient of the email"
+
+msgid "INFO_MAILRECEIVER_EDIT"
+msgstr "Email recipient changed"
+
+msgid "ERROR_MAILRECEIVER_EDIT"
+msgstr "It was not possible to change the Recipient of the email"
+
+msgid "INFO_MAILRECEIVER_DELETE"
+msgstr "Email recipient deleted"
+
+msgid "ERROR_MAILRECEIVER_DELETE"
+msgstr "It was not possible to delete the Recipient of the email"

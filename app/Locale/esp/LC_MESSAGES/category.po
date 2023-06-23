@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "category_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_CATEGORY_NOT_FOUND"
+msgstr "Categoría no encontrada"
+
+msgid "INFO_CATEGORY_SAVE"
+msgstr "Categoría guardada"
+
+msgid "ERROR_CATEGORY_SAVE"
+msgstr "No se pudo guardar la categoría"
+
+msgid "INFO_CATEGORY_EDIT"
+msgstr "Categoría cambiada"
+
+msgid "ERROR_CATEGORY_EDIT"
+msgstr "No fue posible cambiar la Categoría"
+
+msgid "INFO_CATEGORY_DELETE"
+msgstr "Categoría eliminada"
+
+msgid "ERROR_CATEGORY_DELETE"
+msgstr "No se pudo eliminar la categoría"

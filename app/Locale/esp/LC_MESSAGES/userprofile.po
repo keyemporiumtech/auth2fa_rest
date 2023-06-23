@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "userprofile_ESP"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERPROFILE_NOT_FOUND"
+msgstr "Perfil de usuario no encontrado"
+
+msgid "INFO_USERPROFILE_SAVE"
+msgstr "Perfil de usuario guardado"
+
+msgid "ERROR_USERPROFILE_SAVE"
+msgstr "No se pudo guardar el perfil de usuario"
+
+msgid "INFO_USERPROFILE_EDIT"
+msgstr "Perfil de usuario cambiado"
+
+msgid "ERROR_USERPROFILE_EDIT"
+msgstr "No fue posible editar el perfil de usuario"
+
+msgid "INFO_USERPROFILE_DELETE"
+msgstr "Perfil de usuario eliminado"
+
+msgid "ERROR_USERPROFILE_DELETE"
+msgstr "No se pudo eliminar el perfil de usuario"

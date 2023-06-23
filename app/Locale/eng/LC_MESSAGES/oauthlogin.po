@@ -1,0 +1,44 @@
+msgid "FILE_NAME_LAN"
+msgstr "oauthlogin_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USER_EMPTY"
+msgstr "User not present"
+
+msgid "ERROR_OAUTH_ID_EMPTY"
+msgstr "Authentication ID not present"
+
+msgid "ERROR_USERNAME_EMPTY"
+msgstr "Authentication email not present"
+
+msgid "ERROR_NAME_EMPTY"
+msgstr "User name not present"
+
+msgid "ERROR_SURNAME_EMPTY"
+msgstr "User last name not present"
+
+msgid "ERROR_BORN_EMPTY"
+msgstr "User's date of birth not present"
+
+msgid "ERROR_SAVE_OAUTH"
+msgstr "Oauth not saved"
+
+msgid "ERROR_SAVE_EMAIL"
+msgstr "Email not saved"
+
+msgid "ERROR_SAVE_PHONE"
+msgstr "Phone not saved"
+
+msgid "ERROR_SAVE_ADDRESS"
+msgstr "Address not saved"
+
+msgid "ERROR_SAVE_IMAGE"
+msgstr "Profile picture not saved"
+
+msgid "ERROR_OAUTH_CHECK"
+msgstr "The user could not be recovered from our systems"
+
+msgid "ERROR_OAUTH_REGISTER"
+msgstr "It was not possible to register the user in our systems"

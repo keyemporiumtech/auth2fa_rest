@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityrelationpermission_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_NOT_FOUND"
+msgstr "permesso relazione utente-azienda non trovato"
+
+msgid "INFO_ACTIVITYRELATIONPERMISSION_SAVE"
+msgstr "permesso relazione utente-azienda salvato"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_SAVE"
+msgstr "Non è stato possibile salvare il permesso relazione utente-azienda"
+
+msgid "INFO_ACTIVITYRELATIONPERMISSION_EDIT"
+msgstr "permesso relazione utente-azienda modificato"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_EDIT"
+msgstr "Non è stato possibile modificare il permesso relazione utente-azienda"
+
+msgid "INFO_ACTIVITYRELATIONPERMISSION_DELETE"
+msgstr "permesso relazione utente-azienda eliminato"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_DELETE"
+msgstr "Non è stato possibile eliminare il permesso relazione utente-azienda"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionschool_FRA"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONSCHOOL_NOT_FOUND"
+msgstr "Éducation introuvable"
+
+msgid "INFO_PROFESSIONSCHOOL_SAVE"
+msgstr "Éducation enregistré"
+
+msgid "ERROR_PROFESSIONSCHOOL_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer l'Éducation"
+
+msgid "INFO_PROFESSIONSCHOOL_EDIT"
+msgstr "Éducation modifié"
+
+msgid "ERROR_PROFESSIONSCHOOL_EDIT"
+msgstr "Il n'a pas été possible de modifier l'Éducation"
+
+msgid "INFO_PROFESSIONSCHOOL_DELETE"
+msgstr "Éducation supprimé"
+
+msgid "ERROR_PROFESSIONSCHOOL_DELETE"
+msgstr "Il n'a pas été possible de supprimer l'Éducation"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "city_ESP"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_CITY_NOT_FOUND"
+msgstr "Ciudad no encontrada"
+
+msgid "INFO_CITY_SAVE"
+msgstr "Ciudad guardada"
+
+msgid "ERROR_CITY_SAVE"
+msgstr "La ciudad no se pudo salvar"
+
+msgid "INFO_CITY_EDIT"
+msgstr "Ciudad cambiada"
+
+msgid "ERROR_CITY_EDIT"
+msgstr "La ciudad no se podía cambiar"
+
+msgid "INFO_CITY_DELETE"
+msgstr "Ciudad eliminada"
+
+msgid "ERROR_CITY_DELETE"
+msgstr "La ciudad no se pudo eliminar"

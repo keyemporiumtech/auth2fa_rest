@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "permission_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_PERMISSION_NOT_FOUND"
+msgstr "Autorisation utilisateur introuvable"
+
+msgid "INFO_PERMISSION_SAVE"
+msgstr "Autorisation utilisateur enregistrée"
+
+msgid "ERROR_PERMISSION_SAVE"
+msgstr "L'autorisation de l'utilisateur n'a pas pu être enregistrée"
+
+msgid "INFO_PERMISSION_EDIT"
+msgstr "L'autorisation de l'utilisateur a été modifiée"
+
+msgid "ERROR_PERMISSION_EDIT"
+msgstr "Il n'a pas été possible de modifier l'autorisation de l'utilisateur"
+
+msgid "INFO_PERMISSION_DELETE"
+msgstr "Autorisation utilisateur supprimée"
+
+msgid "ERROR_PERMISSION_DELETE"
+msgstr "L'autorisation de l'utilisateur n'a pas pu être supprimée"

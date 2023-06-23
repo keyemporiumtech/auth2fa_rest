@@ -1,0 +1,44 @@
+msgid "FILE_NAME_LAN"
+msgstr "oauthlogin_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USER_EMPTY"
+msgstr "Benutzer nicht anwesend"
+
+msgid "ERROR_OAUTH_ID_EMPTY"
+msgstr "Authentifizierungs-ID nicht vorhanden"
+
+msgid "ERROR_USERNAME_EMPTY"
+msgstr "Authentifizierungs-E-Mail nicht vorhanden"
+
+msgid "ERROR_NAME_EMPTY"
+msgstr "Benutzername nicht vorhanden"
+
+msgid "ERROR_SURNAME_EMPTY"
+msgstr "Nachname des Benutzers nicht vorhanden"
+
+msgid "ERROR_BORN_EMPTY"
+msgstr "Geburtsdatum des Benutzers nicht vorhanden"
+
+msgid "ERROR_SAVE_OAUTH"
+msgstr "Oauth nicht gespeichert"
+
+msgid "ERROR_SAVE_EMAIL"
+msgstr "E-Mail nicht gespeichert"
+
+msgid "ERROR_SAVE_PHONE"
+msgstr "Telefon nicht gespeichert"
+
+msgid "ERROR_SAVE_ADDRESS"
+msgstr "Adresse nicht gespeichert"
+
+msgid "ERROR_SAVE_IMAGE"
+msgstr "Profilbild nicht gespeichert"
+
+msgid "ERROR_OAUTH_CHECK"
+msgstr "Der Benutzer konnte nicht von unseren Systemen wiederhergestellt werden"
+
+msgid "ERROR_OAUTH_REGISTER"
+msgstr "Es war nicht möglich, den Benutzer in unseren Systemen zu registrieren"

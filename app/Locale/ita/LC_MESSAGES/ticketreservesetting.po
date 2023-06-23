@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticketreservesetting_ITA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETRESERVESETTING_NOT_FOUND"
+msgstr "prenotazione biglietto non trovata"
+
+msgid "INFO_TICKETRESERVESETTING_SAVE"
+msgstr "prenotazione biglietto salvata"
+
+msgid "ERROR_TICKETRESERVESETTING_SAVE"
+msgstr "Non è stato possibile salvare la prenotazione biglietto"
+
+msgid "INFO_TICKETRESERVESETTING_EDIT"
+msgstr "prenotazione biglietto modificata"
+
+msgid "ERROR_TICKETRESERVESETTING_EDIT"
+msgstr "Non è stato possibile modificare la prenotazione biglietto"
+
+msgid "INFO_TICKETRESERVESETTING_DELETE"
+msgstr "prenotazione biglietto eliminata"
+
+msgid "ERROR_TICKETRESERVESETTING_DELETE"
+msgstr "Non è stato possibile eliminare la prenotazione biglietto"

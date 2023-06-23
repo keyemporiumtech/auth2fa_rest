@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityattachment_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYATTACHMENT_NOT_FOUND"
+msgstr "Anhang nicht gefunden"
+
+msgid "INFO_ACTIVITYATTACHMENT_SAVE"
+msgstr "Anhang gespeichert"
+
+msgid "ERROR_ACTIVITYATTACHMENT_SAVE"
+msgstr "Der Anhang konnte nicht gespeichert werden"
+
+msgid "INFO_ACTIVITYATTACHMENT_EDIT"
+msgstr "Anhang geändert"
+
+msgid "ERROR_ACTIVITYATTACHMENT_EDIT"
+msgstr "Der Anhang konnte nicht bearbeitet werden"
+
+msgid "INFO_ACTIVITYATTACHMENT_DELETE"
+msgstr "Anhang gelöscht"
+
+msgid "ERROR_ACTIVITYATTACHMENT_DELETE"
+msgstr "Der Anhang konnte nicht gelöscht werden"

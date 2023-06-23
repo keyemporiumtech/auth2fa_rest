@@ -1,0 +1,11 @@
+msgid "FILE_NAME_LAN"
+msgstr "sole24ore_ENG"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "ERROR_CURL_CONVERT"
+msgstr "The rest CurrentRate call generated an empty response"
+
+msgid "EXCEPTION_CONVERT_CURRENCY_EMPTY"
+msgstr "The sole24ore plugin did not make any conversion calls as one or both of the requested currencies were not provided (from: %s, to:%s)"

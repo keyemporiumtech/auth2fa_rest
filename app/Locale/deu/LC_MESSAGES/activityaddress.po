@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityaddress_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYADDRESS_NOT_FOUND"
+msgstr "Adresse nicht gefunden"
+
+msgid "INFO_ACTIVITYADDRESS_SAVE"
+msgstr "Adresse gespeichert"
+
+msgid "ERROR_ACTIVITYADDRESS_SAVE"
+msgstr "Die Adresse konnte nicht gespeichert werden"
+
+msgid "INFO_ACTIVITYADDRESS_EDIT"
+msgstr "Adresse geändert"
+
+msgid "ERROR_ACTIVITYADDRESS_EDIT"
+msgstr "Die Adresse konnte nicht geändert werden"
+
+msgid "INFO_ACTIVITYADDRESS_DELETE"
+msgstr "Adresse gelöscht"
+
+msgid "ERROR_ACTIVITYADDRESS_DELETE"
+msgstr "Die Adresse konnte nicht gelöscht werden"

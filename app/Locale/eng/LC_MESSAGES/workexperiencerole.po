@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperiencerole_ENG"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCEROLE_NOT_FOUND"
+msgstr "Business role not found"
+
+msgid "INFO_WORKEXPERIENCEROLE_SAVE"
+msgstr "Business role saved"
+
+msgid "ERROR_WORKEXPERIENCEROLE_SAVE"
+msgstr "It was not possible to save the Business role"
+
+msgid "INFO_WORKEXPERIENCEROLE_EDIT"
+msgstr "Business role changed"
+
+msgid "ERROR_WORKEXPERIENCEROLE_EDIT"
+msgstr "It was not possible to change the Business role"
+
+msgid "INFO_WORKEXPERIENCEROLE_DELETE"
+msgstr "Business role deleted"
+
+msgid "ERROR_WORKEXPERIENCEROLE_DELETE"
+msgstr "It was not possible to delete the Business role"

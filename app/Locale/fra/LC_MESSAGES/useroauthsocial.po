@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "useroauthsocial_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USEROAUTHSOCIAL_NOT_FOUND"
+msgstr "développeur oauth introuvable"
+
+msgid "INFO_USEROAUTHSOCIAL_SAVE"
+msgstr "développeur oauth enregistré"
+
+msgid "ERROR_USEROAUTHSOCIAL_SAVE"
+msgstr "Le développeur oauth n'a pas pu être enregistré"
+
+msgid "INFO_USEROAUTHSOCIAL_EDIT"
+msgstr "développeur oauth modifié"
+
+msgid "ERROR_USEROAUTHSOCIAL_EDIT"
+msgstr "Le développeur oauth n'a pas pu être modifié"
+
+msgid "INFO_USEROAUTHSOCIAL_DELETE"
+msgstr "développeur oauth éliminé"
+
+msgid "ERROR_USEROAUTHSOCIAL_DELETE"
+msgstr "Le développeur oauth n'a pas pu être supprimé"

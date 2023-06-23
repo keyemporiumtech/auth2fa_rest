@@ -1,0 +1,29 @@
+msgid "FILE_NAME_LAN"
+msgstr "price_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRICE_NOT_FOUND"
+msgstr "Prix ​​introuvable"
+
+msgid "INFO_PRICE_SAVE"
+msgstr "Prix ​​enregistré"
+
+msgid "ERROR_PRICE_SAVE"
+msgstr "Le prix n'a pas pu être enregistré"
+
+msgid "INFO_PRICE_EDIT"
+msgstr "Le prix a changé"
+
+msgid "ERROR_PRICE_EDIT"
+msgstr "Il n'était pas possible de changer le prix"
+
+msgid "INFO_PRICE_DELETE"
+msgstr "Prix ​​supprimé"
+
+msgid "ERROR_PRICE_DELETE"
+msgstr "Le prix n'a pas pu être supprimé"
+
+msgid "ERROR_PRICE_CALC"
+msgstr "Le montant demandé n'a pas pu être calculé"

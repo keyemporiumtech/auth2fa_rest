@@ -1,0 +1,47 @@
+msgid "FILE_NAME_LAN"
+msgstr "mail_DEU"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_PHPMAIL_NOT_SENDED"
+msgstr "Das Phpmailer-Plugin hat die E-Mail nicht gesendet"
+
+msgid "ERROR_MAIL_NOT_FOUND"
+msgstr "Email wurde nicht gefunden"
+
+msgid "INFO_MAIL_SAVE"
+msgstr "E-Mail gespeichert"
+
+msgid "ERROR_MAIL_SAVE"
+msgstr "Die E-Mail konnte nicht gespeichert werden"
+
+msgid "INFO_MAIL_EDIT"
+msgstr "E-Mail geändert"
+
+msgid "ERROR_MAIL_EDIT"
+msgstr "Die E-Mail konnte nicht geändert werden"
+
+msgid "INFO_MAIL_DELETE"
+msgstr "E-Mail gelöscht"
+
+msgid "ERROR_MAIL_DELETE"
+msgstr "Die E-Mail konnte nicht gelöscht werden"
+
+msgid "INFO_MAIL_SEND"
+msgstr "E-Mail korrekt gesendet"
+
+msgid "ERROR_MAIL_SEND"
+msgstr "E-Mail nicht korrekt gesendet"
+
+msgid "ERROR_MAIL_SEND_NOT_SENDER"
+msgstr "Absenderparameter nicht bewertet"
+
+msgid "ERROR_MAIL_SEND_NOT_DESTINATORS"
+msgstr "Leeres Empfänger-Array"
+
+msgid "ERROR_MAIL_SEND_NOT_SUBJECT"
+msgstr "Betreff nicht angegeben"
+
+msgid "ERROR_MAIL_SEND_NOT_BODY"
+msgstr "Kein Nachrichtentext angegeben"

@@ -1,0 +1,24 @@
+msgid "FILE_NAME_LAN"
+msgstr "creditcard_ENG"
+
+msgid "MODULE"
+msgstr "validator_creditcard"
+
+msgid "ERRON_VALIDATE"
+msgstr "It is not possible to validate the card number provided"
+
+msgid "ERRON_VALIDATE_NOT_VALID"
+msgstr "Invalid card number"
+
+msgid "ERRON_VALIDATE_NOT_FOUND"
+msgstr "Card number not found"
+
+msgid "ERRON_VALIDATE_LENGTH"
+msgstr "Invalid card number: Wrong number of characters"
+
+msgid "ERRON_VALIDATE_EXPIRATION"
+msgstr "Invalid card number: Wrong expiration date"
+
+msgid "ERRON_VALIDATE_CVC"
+msgstr "Invalid card number: Wrong security code"
+

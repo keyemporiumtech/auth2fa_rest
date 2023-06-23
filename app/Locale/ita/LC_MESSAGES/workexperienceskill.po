@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperienceskill_ITA"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCESKILL_NOT_FOUND"
+msgstr "Competenza non trovata"
+
+msgid "INFO_WORKEXPERIENCESKILL_SAVE"
+msgstr "Competenza salvata"
+
+msgid "ERROR_WORKEXPERIENCESKILL_SAVE"
+msgstr "Non è stato possibile salvare la Competenza"
+
+msgid "INFO_WORKEXPERIENCESKILL_EDIT"
+msgstr "Competenza modificata"
+
+msgid "ERROR_WORKEXPERIENCESKILL_EDIT"
+msgstr "Non è stato possibile modificare la Competenza"
+
+msgid "INFO_WORKEXPERIENCESKILL_DELETE"
+msgstr "Competenza eliminata"
+
+msgid "ERROR_WORKEXPERIENCESKILL_DELETE"
+msgstr "Non è stato possibile eliminare la Competenza"

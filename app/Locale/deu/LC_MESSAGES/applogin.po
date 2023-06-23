@@ -1,0 +1,15 @@
+msgid "FILE_NAME_LAN"
+msgstr "applogin_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_LOGIN_TOKEN"
+msgstr "Benutzer nicht aktiviert. Überprüfen Sie, ob Sie korrekt angemeldet sind"
+
+msgid "ERROR_SESSION_EXPIRED"
+msgstr "Benutzersitzung abgelaufen"
+
+msgid "ERROR_PROFILE_DEFAULT"
+msgstr "Keine Profile für den Benutzer gefunden"
+

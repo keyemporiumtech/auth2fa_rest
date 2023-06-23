@@ -1,0 +1,27 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailer_FRA"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILER_NOT_FOUND"
+msgstr "Fournisseur de messagerie introuvable"
+
+msgid "INFO_MAILER_SAVE"
+msgstr "Fournisseur de messagerie enregistré"
+
+msgid "ERROR_MAILER_SAVE"
+msgstr "Le fournisseur de messagerie n'a pas pu être enregistré"
+
+msgid "INFO_MAILER_EDIT"
+msgstr "Le fournisseur de messagerie a changé"
+
+msgid "ERROR_MAILER_EDIT"
+msgstr "Il n'a pas été possible de changer de fournisseur de messagerie"
+
+msgid "INFO_MAILER_DELETE"
+msgstr "Fournisseur de messagerie supprimé"
+
+msgid "ERROR_MAILER_DELETE"
+msgstr "Le fournisseur de messagerie n'a pas pu être supprimé"
+

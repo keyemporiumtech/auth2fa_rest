@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "phonereceiver_DEU"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_PHONERECEIVER_NOT_FOUND"
+msgstr "Nachrichtenempfänger nicht gefunden"
+
+msgid "INFO_PHONERECEIVER_SAVE"
+msgstr "Empfänger der gespeicherten Nachricht"
+
+msgid "ERROR_PHONERECEIVER_SAVE"
+msgstr "Der Empfänger der Nachricht konnte nicht gespeichert werden"
+
+msgid "INFO_PHONERECEIVER_EDIT"
+msgstr "Nachrichtenempfänger geändert"
+
+msgid "ERROR_PHONERECEIVER_EDIT"
+msgstr "Der Empfänger der Nachricht konnte nicht geändert werden"
+
+msgid "INFO_PHONERECEIVER_DELETE"
+msgstr "Empfänger der gelöschten Nachricht"
+
+msgid "ERROR_PHONERECEIVER_DELETE"
+msgstr "Der Empfänger der Nachricht konnte nicht gelöscht werden"

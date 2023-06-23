@@ -1,0 +1,20 @@
+msgid "FILE_NAME_LAN"
+msgstr "cookie_ESP"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_COOKIES_UPDATE"
+msgstr "No fue posible actualizar las preferencias de cookies"
+
+msgid "ERROR_COOKIES_LIST"
+msgstr "No fue posible recuperar la lista de cookies."
+
+msgid "ERROR_COOKIES_STATUS"
+msgstr "No ha sido posible leer el estado de las cookies"
+
+msgid "ERROR_COOKIE_NOT_FOUND"
+msgstr "Cookie no encontrado"
+
+msgid "LOG_COOKIE_NOT_FOUND"
+msgstr "Cookie %s no encontrado"

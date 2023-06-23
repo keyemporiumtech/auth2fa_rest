@@ -1,0 +1,38 @@
+msgid "FILE_NAME_LAN"
+msgstr "activity_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITY_NOT_FOUND"
+msgstr "Company not found"
+
+msgid "INFO_ACTIVITY_SAVE"
+msgstr "Company saved"
+
+msgid "ERROR_ACTIVITY_SAVE"
+msgstr "It was not possible to save the company"
+
+msgid "INFO_ACTIVITY_EDIT"
+msgstr "Company changed"
+
+msgid "ERROR_ACTIVITY_EDIT"
+msgstr "It was not possible to change the Company"
+
+msgid "INFO_ACTIVITY_DELETE"
+msgstr "Company deleted"
+
+msgid "ERROR_ACTIVITY_DELETE"
+msgstr "It was not possible to delete the Company"
+
+msgid "ERROR_CHANGE_ACTIVITY"
+msgstr "It was not possible to memorize the Company"
+
+msgid "ERROR_CHANGE_ACTIVITY_USER_NOT_SESSION"
+msgstr "You are trying to assign the task %s to user %s who is not logged in to the system"
+
+msgid "INFO_CHANGE_ACTIVITY"
+msgstr "System activity changed to %s"
+
+msgid "ERROR_EMPLOYERS"
+msgstr "Company employee data could not be recovered"

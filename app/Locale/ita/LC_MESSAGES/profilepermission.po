@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "profilepermission_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_PROFILEPERMISSION_NOT_FOUND"
+msgstr "Permesso del profilo non trovato"
+
+msgid "INFO_PROFILEPERMISSION_SAVE"
+msgstr "Permesso del profilo salvato"
+
+msgid "ERROR_PROFILEPERMISSION_SAVE"
+msgstr "Non è stato possibile salvare il Permesso del profilo"
+
+msgid "INFO_PROFILEPERMISSION_EDIT"
+msgstr "Permesso del profilo modificato"
+
+msgid "ERROR_PROFILEPERMISSION_EDIT"
+msgstr "Non è stato possibile modificare il Permesso del profilo"
+
+msgid "INFO_PROFILEPERMISSION_DELETE"
+msgstr "Permesso del profilo eliminato"
+
+msgid "ERROR_PROFILEPERMISSION_DELETE"
+msgstr "Non è stato possibile eliminare il Permesso del profilo"

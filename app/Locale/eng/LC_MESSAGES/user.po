@@ -1,0 +1,101 @@
+msgid "FILE_NAME_LAN"
+msgstr "user_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USER_NOT_FOUND"
+msgstr "User not found"
+
+msgid "INFO_USER_SAVE"
+msgstr "User saved"
+
+msgid "ERROR_USER_SAVE"
+msgstr "The user could not be saved"
+
+msgid "INFO_USER_EDIT"
+msgstr "User changed"
+
+msgid "ERROR_USER_EDIT"
+msgstr "The user could not be changed"
+
+msgid "INFO_USER_DELETE"
+msgstr "User deleted"
+
+msgid "ERROR_USER_DELETE"
+msgstr "The user could not be deleted"
+
+msgid "INFO_USER_LOGIN"
+msgstr "Logged in by %s with token %s"
+
+msgid "ERROR_USER_LOGIN_NOT_VALID"
+msgstr "Login not found with username %s and password %s"
+
+msgid "ERROR_CONFIRMLOGIN_TOKEN_EXPIRED"
+msgstr "The checksum has expired. Repeat the login operation"
+
+msgid "ERROR_CONTROL_CODE_EXPIRED"
+msgstr "The operation code %s was found in the archive but the token has expired"
+
+msgid "INFO_USER_LOGOUT"
+msgstr "Logged out of %s with token %s"
+
+msgid "INFO_SESSION_EXPIRED"
+msgstr "Session timed out for %s with token %s"
+
+msgid "INFO_USER_PASSWORD_RESTORED"
+msgstr "User %s recovered password %s in %s"
+
+msgid "INFO_RESTORE_PASSWORD"
+msgstr "Password recovered"
+
+msgid "ERROR_RESTORE_PASSWORD"
+msgstr "The password could not be recovered"
+
+msgid "INFO_USER_PASSWORD_CHANGED"
+msgstr "User %s changed password %s to %s"
+
+msgid "INFO_CHANGE_PASSWORD"
+msgstr "Password changed"
+
+msgid "ERROR_CHANGE_PASSWORD"
+msgstr "The password could not be changed"
+
+msgid "ERROR_CHANGE_PASSWORD_OLD_PASSWORD"
+msgstr "The old password does not match"
+
+msgid "ERROR_OLD_PASSWORD_NOT_EQUAL"
+msgstr "The old password provided %s does not match the registered one %s"
+
+msgid "ERROR_REMIND_PASSWORD"
+msgstr "It was not possible to remember the password"
+
+msgid "INFO_SEND_CODE_LOGIN"
+msgstr "We have sent a verification code to verify your identity"
+
+msgid "ERROR_CHANGE_PROFILE"
+msgstr "The profile could not be changed"
+
+msgid "ERROR_CHANGE_PROFILE_USER_NOT_SESSION"
+msgstr "You are trying to assign profile %s to user %s who is not logged in to the system"
+
+msgid "INFO_CHANGE_PROFILE"
+msgstr "Profile changed to %s"
+
+msgid "ERROR_PROFILE_NOT_FOUND"
+msgstr "The profile could not be retrieved"
+
+msgid "ERROR_USER_NOT_PERMISSION"
+msgstr "User not authorized for the operation"
+
+msgid "ERROR_USER_NOT_PERMISSION_DETAIL"
+msgstr "User %s does not have %s permissions"
+
+msgid "ERROR_USER_NOT_LOGGED"
+msgstr "User not logged in"
+
+msgid "ERROR_SESSION_USERNAME"
+msgstr "Another session was active for the user. Please log in again"
+
+msgid "ERROR_SESSION_LOGIN_NOT_VALID"
+msgstr "Another session was active for the user with username %s"

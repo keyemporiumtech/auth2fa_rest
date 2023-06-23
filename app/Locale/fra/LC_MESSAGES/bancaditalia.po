@@ -1,0 +1,20 @@
+msgid "FILE_NAME_LAN"
+msgstr "bancaditalia_FRA"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "ERROR_CURL_LATEST"
+msgstr "L'appel rest latest a abouti à une réponse vide"
+
+msgid "INFO_CACHED_CURRENCIES"
+msgstr "Mise en cache quotidienne des devises"
+
+msgid "ERROR_LATESTRATES_NOT_EXISTS"
+msgstr "La clé 'latestRates' n'existe pas dans le tableau"
+
+msgid "ERROR_LATESTRATES_KEY_NOT_FOUND"
+msgstr "La devise %s n'a pas été trouvée dans le tableau 'latestRates'"
+
+msgid "EXCEPTION_CONVERT_CURRENCY_NOT_FOUND"
+msgstr "Le plug-in Bancaditalia n'a pas pu trouver l'une ou les deux devises demandées (de: %s, à: %s)"

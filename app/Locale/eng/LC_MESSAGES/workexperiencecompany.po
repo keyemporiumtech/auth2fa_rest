@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperiencecompany_ENG"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_NOT_FOUND"
+msgstr "Work company not found"
+
+msgid "INFO_WORKEXPERIENCECOMPANY_SAVE"
+msgstr "Work company saved"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_SAVE"
+msgstr "It was not possible to save the Work company"
+
+msgid "INFO_WORKEXPERIENCECOMPANY_EDIT"
+msgstr "Work company changed"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_EDIT"
+msgstr "It was not possible to change the Work company"
+
+msgid "INFO_WORKEXPERIENCECOMPANY_DELETE"
+msgstr "Work company deleted"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_DELETE"
+msgstr "It was not possible to delete the Work company"

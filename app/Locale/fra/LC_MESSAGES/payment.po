@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "payment_FRA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_PAYMENT_NOT_FOUND"
+msgstr "paiement introuvable"
+
+msgid "INFO_PAYMENT_SAVE"
+msgstr "paiement enregistré"
+
+msgid "ERROR_PAYMENT_SAVE"
+msgstr "Le paiement n'a pas pu être enregistré"
+
+msgid "INFO_PAYMENT_EDIT"
+msgstr "paiement modifié"
+
+msgid "ERROR_PAYMENT_EDIT"
+msgstr "Le paiement n'a pas pu être modifié"
+
+msgid "INFO_PAYMENT_DELETE"
+msgstr "paiement supprimé"
+
+msgid "ERROR_PAYMENT_DELETE"
+msgstr "Le paiement n'a pas pu être supprimé"

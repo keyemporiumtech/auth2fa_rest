@@ -1,0 +1,32 @@
+msgid "FILE_NAME_LAN"
+msgstr "useraddress_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERADDRESS_NOT_FOUND"
+msgstr "Indirizzo utente non trovato"
+
+msgid "INFO_USERADDRESS_SAVE"
+msgstr "Indirizzo utente salvato"
+
+msgid "ERROR_USERADDRESS_SAVE"
+msgstr "Non è stato possibile salvare l'Indirizzo utente"
+
+msgid "INFO_USERADDRESS_EDIT"
+msgstr "Indirizzo utente modificato"
+
+msgid "ERROR_USERADDRESS_EDIT"
+msgstr "Non è stato possibile modificare l'Indirizzo utente"
+
+msgid "INFO_USERADDRESS_DELETE"
+msgstr "Indirizzo utente eliminato"
+
+msgid "ERROR_USERADDRESS_DELETE"
+msgstr "Non è stato possibile eliminare l'Indirizzo utente"
+
+msgid "ERROR_USERADDRESS_SET_PRINCIPAL"
+msgstr "Non è stato possibile aggiorname l'Indirizzo utente come principale"
+
+msgid "INFO_USERADDRESS_SET_PRINCIPAL"
+msgstr "l'Indirizzo utente è stato impostato come principale"

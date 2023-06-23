@@ -1,0 +1,41 @@
+msgid "FILE_NAME_LAN"
+msgstr "date_ENG"
+
+msgid "MODULE"
+msgstr "coreutils"
+
+msgid "MONTH_1"
+msgstr "January"
+
+msgid "MONTH_2"
+msgstr "February"
+
+msgid "MONTH_3"
+msgstr "March"
+
+msgid "MONTH_4"
+msgstr "April"
+
+msgid "MONTH_5"
+msgstr "May"
+
+msgid "MONTH_6"
+msgstr "June"
+
+msgid "MONTH_7"
+msgstr "July"
+
+msgid "MONTH_8"
+msgstr "August"
+
+msgid "MONTH_9"
+msgstr "September"
+
+msgid "MONTH_10"
+msgstr "October"
+
+msgid "MONTH_11"
+msgstr "November"
+
+msgid "MONTH_12"
+msgstr "December"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticketattachment_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETATTACHMENT_NOT_FOUND"
+msgstr "Ticketanhang nicht gefunden"
+
+msgid "INFO_TICKETATTACHMENT_SAVE"
+msgstr "Ticketanhang gespeichert"
+
+msgid "ERROR_TICKETATTACHMENT_SAVE"
+msgstr "Der Ticketanhang konnte nicht gespeichert werden"
+
+msgid "INFO_TICKETATTACHMENT_EDIT"
+msgstr "Ticketanhang geändert"
+
+msgid "ERROR_TICKETATTACHMENT_EDIT"
+msgstr "Das beigefügte Ticket konnte nicht geändert werden"
+
+msgid "INFO_TICKETATTACHMENT_DELETE"
+msgstr "Ticketanhang gelöscht"
+
+msgid "ERROR_TICKETATTACHMENT_DELETE"
+msgstr "Der Ticketanhang konnte nicht gelöscht werden"

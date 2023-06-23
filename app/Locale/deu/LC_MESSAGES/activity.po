@@ -1,0 +1,38 @@
+msgid "FILE_NAME_LAN"
+msgstr "activity_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITY_NOT_FOUND"
+msgstr "Firma nicht gefunden"
+
+msgid "INFO_ACTIVITY_SAVE"
+msgstr "Firma gespeichert"
+
+msgid "ERROR_ACTIVITY_SAVE"
+msgstr "Das Unternehmen konnte nicht gerettet werden"
+
+msgid "INFO_ACTIVITY_EDIT"
+msgstr "Firma geändert"
+
+msgid "ERROR_ACTIVITY_EDIT"
+msgstr "Ein Wechsel des Unternehmens war nicht möglich"
+
+msgid "INFO_ACTIVITY_DELETE"
+msgstr "Unternehmen eliminiert"
+
+msgid "ERROR_ACTIVITY_DELETE"
+msgstr "Das Unternehmen konnte nicht gelöscht werden"
+
+msgid "ERROR_CHANGE_ACTIVITY"
+msgstr "Es war nicht möglich, sich die Firma zu merken"
+
+msgid "ERROR_CHANGE_ACTIVITY_USER_NOT_SESSION"
+msgstr "Sie versuchen, die Aufgabe %s dem Benutzer %s zuzuweisen, der nicht am System angemeldet ist"
+
+msgid "INFO_CHANGE_ACTIVITY"
+msgstr "Die Systemaktivität wurde auf %s geändert"
+
+msgid "ERROR_EMPLOYERS"
+msgstr "Die Daten der Mitarbeiter des Unternehmens konnten nicht wiederhergestellt werden"

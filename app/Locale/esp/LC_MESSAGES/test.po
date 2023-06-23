@@ -1,0 +1,12 @@
+msgid "FILE_NAME_LAN"
+msgstr "test_ESP"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "TEST"
+msgstr "test_ESP"
+
+msgid "TEST_PARAM"
+msgstr "parámetro %s"
+

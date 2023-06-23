@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionschool_ITA"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONSCHOOL_NOT_FOUND"
+msgstr "Istruzione non trovata"
+
+msgid "INFO_PROFESSIONSCHOOL_SAVE"
+msgstr "Istruzione salvata"
+
+msgid "ERROR_PROFESSIONSCHOOL_SAVE"
+msgstr "Non è stato possibile salvare l'Istruzione"
+
+msgid "INFO_PROFESSIONSCHOOL_EDIT"
+msgstr "Istruzione modificata"
+
+msgid "ERROR_PROFESSIONSCHOOL_EDIT"
+msgstr "Non è stato possibile modificare l'Istruzione"
+
+msgid "INFO_PROFESSIONSCHOOL_DELETE"
+msgstr "Istruzione eliminata"
+
+msgid "ERROR_PROFESSIONSCHOOL_DELETE"
+msgstr "Non è stato possibile eliminare l'Istruzione"

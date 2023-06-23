@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailattachment_FRA"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILATTACHMENT_NOT_FOUND"
+msgstr "Pièce jointe à l'e-mail introuvable"
+
+msgid "INFO_MAILATTACHMENT_SAVE"
+msgstr "Pièce jointe enregistrée"
+
+msgid "ERROR_MAILATTACHMENT_SAVE"
+msgstr "La pièce jointe à l'e-mail n'a pas pu être enregistrée"
+
+msgid "INFO_MAILATTACHMENT_EDIT"
+msgstr "Pièce jointe à l'e-mail modifiée"
+
+msgid "ERROR_MAILATTACHMENT_EDIT"
+msgstr "Il n'a pas été possible de modifier la pièce jointe de l'e-mail"
+
+msgid "INFO_MAILATTACHMENT_DELETE"
+msgstr "Pièce jointe supprimée"
+
+msgid "ERROR_MAILATTACHMENT_DELETE"
+msgstr "La pièce jointe n'a pas pu être supprimée"

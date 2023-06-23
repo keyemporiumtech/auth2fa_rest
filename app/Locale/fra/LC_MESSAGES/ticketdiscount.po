@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticketdiscount_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETDISCOUNT_NOT_FOUND"
+msgstr "réduction sur les billets introuvable"
+
+msgid "INFO_TICKETDISCOUNT_SAVE"
+msgstr "réduction sur les billets enregistrés"
+
+msgid "ERROR_TICKETDISCOUNT_SAVE"
+msgstr "La réduction sur le billet n'a pas pu être enregistrée"
+
+msgid "INFO_TICKETDISCOUNT_EDIT"
+msgstr "réduction billet modifié"
+
+msgid "ERROR_TICKETDISCOUNT_EDIT"
+msgstr "Il n'a pas été possible de modifier la réduction du billet"
+
+msgid "INFO_TICKETDISCOUNT_DELETE"
+msgstr "remise sur les billets éliminée"
+
+msgid "ERROR_TICKETDISCOUNT_DELETE"
+msgstr "La réduction sur le billet n'a pas pu être supprimée"

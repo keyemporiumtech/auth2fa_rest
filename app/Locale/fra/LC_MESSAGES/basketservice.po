@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basketservice_FRA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKETSERVICE_NOT_FOUND"
+msgstr "service dans le panier introuvable"
+
+msgid "INFO_BASKETSERVICE_SAVE"
+msgstr "service dans le panier enregistré"
+
+msgid "ERROR_BASKETSERVICE_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer le service dans le panier"
+
+msgid "INFO_BASKETSERVICE_EDIT"
+msgstr "service dans le panier modifié"
+
+msgid "ERROR_BASKETSERVICE_EDIT"
+msgstr "Il n'a pas été possible de changer le service dans le panier"
+
+msgid "INFO_BASKETSERVICE_DELETE"
+msgstr "service dans le panier supprimé"
+
+msgid "ERROR_BASKETSERVICE_DELETE"
+msgstr "Il n'a pas été possible de supprimer le service dans le panier"

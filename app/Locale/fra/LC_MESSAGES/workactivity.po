@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workactivity_FRA"
+
+msgid "MODULE"
+msgstr "work_profile"
+
+msgid "ERROR_WORKACTIVITY_NOT_FOUND"
+msgstr "Gestion d'entreprise introuvable"
+
+msgid "INFO_WORKACTIVITY_SAVE"
+msgstr "Gestion d'entreprise enregistré"
+
+msgid "ERROR_WORKACTIVITY_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer la Gestion d'entreprise"
+
+msgid "INFO_WORKACTIVITY_EDIT"
+msgstr "Gestion d'entreprise modifié"
+
+msgid "ERROR_WORKACTIVITY_EDIT"
+msgstr "Il n'a pas été possible de modifier la Gestion d'entreprise"
+
+msgid "INFO_WORKACTIVITY_DELETE"
+msgstr "Gestion d'entreprise supprimé"
+
+msgid "ERROR_WORKACTIVITY_DELETE"
+msgstr "Il n'a pas été possible de supprimer la Gestion d'entreprise"

@@ -1,0 +1,32 @@
+msgid "FILE_NAME_LAN"
+msgstr "tpaddress_DEU"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "TPADDRESS_HOME"
+msgstr "Residenz"
+
+msgid "TPADDRESS_DOMICILE"
+msgstr "Domizil"
+
+msgid "TPADDRESS_BORN"
+msgstr "Geburtsort"
+
+msgid "TPADDRESS_LEGAL"
+msgstr "Eingetragener Sitz"
+
+msgid "TPADDRESS_OFFICE"
+msgstr "Hauptsitz des Büros"
+
+msgid "TPADDRESS_SECONDARY_OFFICE"
+msgstr "Standort Sonstiges Büro"
+
+msgid "TPADDRESS_WORK_SITE"
+msgstr "Ort der Berufserfahrung"
+
+msgid "TPADDRESS_INSTRUCTION_SITE"
+msgstr "Ort des Kurses"
+
+msgid "TPADDRESS_SECONDARY_HOME"
+msgstr "Zweitwohnung oder andere Wohnung"

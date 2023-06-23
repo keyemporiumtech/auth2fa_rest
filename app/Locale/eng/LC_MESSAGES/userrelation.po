@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "userrelation_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERRELATION_NOT_FOUND"
+msgstr "user relation not found"
+
+msgid "INFO_USERRELATION_SAVE"
+msgstr "user relation saved"
+
+msgid "ERROR_USERRELATION_SAVE"
+msgstr "It was not possible to save the user relation"
+
+msgid "INFO_USERRELATION_EDIT"
+msgstr "user relation changed"
+
+msgid "ERROR_USERRELATION_EDIT"
+msgstr "It was not possible to change the user relation"
+
+msgid "INFO_USERRELATION_DELETE"
+msgstr "user relation deleted"
+
+msgid "ERROR_USERRELATION_DELETE"
+msgstr "It was not possible to delete the user relation"

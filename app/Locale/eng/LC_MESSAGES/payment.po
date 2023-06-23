@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "payment_ENG"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_PAYMENT_NOT_FOUND"
+msgstr "payment not found"
+
+msgid "INFO_PAYMENT_SAVE"
+msgstr "payment saved"
+
+msgid "ERROR_PAYMENT_SAVE"
+msgstr "It was not possible to save the payment"
+
+msgid "INFO_PAYMENT_EDIT"
+msgstr "payment changed"
+
+msgid "ERROR_PAYMENT_EDIT"
+msgstr "It was not possible to change the payment"
+
+msgid "INFO_PAYMENT_DELETE"
+msgstr "payment eliminated"
+
+msgid "ERROR_PAYMENT_DELETE"
+msgstr "It was not possible to cancel the payment"

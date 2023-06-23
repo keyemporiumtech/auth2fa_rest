@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionreference_ESP"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONREFERENCE_NOT_FOUND"
+msgstr "Contacto no encontrado"
+
+msgid "INFO_PROFESSIONREFERENCE_SAVE"
+msgstr "Contacto guardado"
+
+msgid "ERROR_PROFESSIONREFERENCE_SAVE"
+msgstr "No fue posible guardar el Contacto"
+
+msgid "INFO_PROFESSIONREFERENCE_EDIT"
+msgstr "Contacto modificado"
+
+msgid "ERROR_PROFESSIONREFERENCE_EDIT"
+msgstr "No fue posible modificar el Contacto"
+
+msgid "INFO_PROFESSIONREFERENCE_DELETE"
+msgstr "Contacto eliminado"
+
+msgid "ERROR_PROFESSIONREFERENCE_DELETE"
+msgstr "No fue posible eliminar el Contacto"

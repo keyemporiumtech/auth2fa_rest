@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "cryptnote_FRA"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_CRYPTNOTE_NOT_FOUND"
+msgstr "Remarque introuvable"
+
+msgid "INFO_CRYPTNOTE_SAVE"
+msgstr "Remarque enregistrée"
+
+msgid "ERROR_CRYPTNOTE_SAVE"
+msgstr "La note n'a pas pu être enregistrée"
+
+msgid "INFO_CRYPTNOTE_EDIT"
+msgstr "Remarque modifiée"
+
+msgid "ERROR_CRYPTNOTE_EDIT"
+msgstr "La note n'a pas pu être modifiée"
+
+msgid "INFO_CRYPTNOTE_DELETE"
+msgstr "Remarque supprimée"
+
+msgid "ERROR_CRYPTNOTE_DELETE"
+msgstr "La note n'a pas pu être supprimée"

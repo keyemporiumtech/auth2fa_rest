@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pockettax_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKETTAX_NOT_FOUND"
+msgstr "Tax not found"
+
+msgid "INFO_POCKETTAX_SAVE"
+msgstr "Tax saved"
+
+msgid "ERROR_POCKETTAX_SAVE"
+msgstr "It was not possible to save the Tax"
+
+msgid "INFO_POCKETTAX_EDIT"
+msgstr "Tax changed"
+
+msgid "ERROR_POCKETTAX_EDIT"
+msgstr "It was not possible to change the Tax"
+
+msgid "INFO_POCKETTAX_DELETE"
+msgstr "Tax deleted"
+
+msgid "ERROR_POCKETTAX_DELETE"
+msgstr "It was not possible to delete the tax"

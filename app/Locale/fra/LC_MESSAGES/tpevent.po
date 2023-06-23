@@ -1,0 +1,32 @@
+msgid "FILE_NAME_LAN"
+msgstr "tpevent_FRA"
+
+msgid "MODULE"
+msgstr "calendar"
+
+msgid "TPEVENT_EVT"
+msgstr "Événement"
+
+msgid "TPEVENT_APP"
+msgstr "Rendez-vous"
+
+msgid "TPEVENT_NOT"
+msgstr "Remarque à retenir"
+
+msgid "TPEVENT_DTA"
+msgstr "Date à retenir"
+
+msgid "TPEVENT_BND"
+msgstr "Annonce publique"
+
+msgid "TPEVENT_PRG"
+msgstr "Projet"
+
+msgid "TPEVENT_OFF"
+msgstr "Offre d'emploi"
+
+msgid "TPEVENT_CNT"
+msgstr "Concours public"
+
+msgid "TPEVENT_PRM"
+msgstr "Événement promotionnel"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "balancepayment_FRA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BALANCEPAYMENT_NOT_FOUND"
+msgstr "paiement dans le budget introuvable"
+
+msgid "INFO_BALANCEPAYMENT_SAVE"
+msgstr "paiement dans le budget enregistré"
+
+msgid "ERROR_BALANCEPAYMENT_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer le paiement dans le budget"
+
+msgid "INFO_BALANCEPAYMENT_EDIT"
+msgstr "paiement dans le budget modifié"
+
+msgid "ERROR_BALANCEPAYMENT_EDIT"
+msgstr "Il n'a pas été possible de modifier le paiement dans le budget"
+
+msgid "INFO_BALANCEPAYMENT_DELETE"
+msgstr "paiement dans le budget éliminé"
+
+msgid "ERROR_BALANCEPAYMENT_DELETE"
+msgstr "Il n'a pas été possible d'annuler le paiement dans le budget"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "contactreference_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_CONTACTREFERENCE_NOT_FOUND"
+msgstr "Contact not found"
+
+msgid "INFO_CONTACTREFERENCE_SAVE"
+msgstr "Contact saved"
+
+msgid "ERROR_CONTACTREFERENCE_SAVE"
+msgstr "The Contact could not be saved"
+
+msgid "INFO_CONTACTREFERENCE_EDIT"
+msgstr "Contact changed"
+
+msgid "ERROR_CONTACTREFERENCE_EDIT"
+msgstr "It was not possible to edit the Contact"
+
+msgid "INFO_CONTACTREFERENCE_DELETE"
+msgstr "Contact deleted"
+
+msgid "ERROR_CONTACTREFERENCE_DELETE"
+msgstr "The Contact could not be deleted"

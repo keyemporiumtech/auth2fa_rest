@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workrole_ITA"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKROLE_NOT_FOUND"
+msgstr "Ruolo non trovato"
+
+msgid "INFO_WORKROLE_SAVE"
+msgstr "Ruolo salvato"
+
+msgid "ERROR_WORKROLE_SAVE"
+msgstr "Non è stato possibile salvare il Ruolo"
+
+msgid "INFO_WORKROLE_EDIT"
+msgstr "Ruolo modificato"
+
+msgid "ERROR_WORKROLE_EDIT"
+msgstr "Non è stato possibile modificare il Ruolo"
+
+msgid "INFO_WORKROLE_DELETE"
+msgstr "Ruolo eliminato"
+
+msgid "ERROR_WORKROLE_DELETE"
+msgstr "Non è stato possibile eliminare il Ruolo"

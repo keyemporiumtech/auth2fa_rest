@@ -1,0 +1,32 @@
+msgid "FILE_NAME_LAN"
+msgstr "useraddress_ESP"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERADDRESS_NOT_FOUND"
+msgstr "Dirección de usuario no encontrada"
+
+msgid "INFO_USERADDRESS_SAVE"
+msgstr "Dirección de usuario guardada"
+
+msgid "ERROR_USERADDRESS_SAVE"
+msgstr "No se pudo guardar la dirección de usuario"
+
+msgid "INFO_USERADDRESS_EDIT"
+msgstr "Dirección de usuario cambiada"
+
+msgid "ERROR_USERADDRESS_EDIT"
+msgstr "La dirección de usuario no se pudo cambiar"
+
+msgid "INFO_USERADDRESS_DELETE"
+msgstr "Dirección de usuario eliminada"
+
+msgid "ERROR_USERADDRESS_DELETE"
+msgstr "La dirección de usuario no se pudo eliminar"
+
+msgid "ERROR_USERADDRESS_SET_PRINCIPAL"
+msgstr "No fue posible actualizar mi dirección de usuario como principal"
+
+msgid "INFO_USERADDRESS_SET_PRINCIPAL"
+msgstr "La dirección del usuario se ha establecido como principal"

@@ -1,0 +1,30 @@
+msgid "FILE_NAME_LAN"
+msgstr "appclient_ESP"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_CLIENT_TOKEN"
+msgstr "Esta aplicación no está autorizada para acceder a los recursos del sistema."
+
+msgid "ERROR_CLIENTTOKEN_NOT_FOUND"
+msgstr "Aplicación cliente no encontrada"
+
+msgid "INFO_CLIENTTOKEN_SAVE"
+msgstr "Aplicación cliente guardada"
+
+msgid "ERROR_CLIENTTOKEN_SAVE"
+msgstr "No se pudo guardar la aplicación del cliente"
+
+msgid "INFO_CLIENTTOKEN_EDIT"
+msgstr "La aplicación del cliente cambió"
+
+msgid "ERROR_CLIENTTOKEN_EDIT"
+msgstr "La aplicación del cliente no se pudo cambiar"
+
+msgid "INFO_CLIENTTOKEN_DELETE"
+msgstr "Aplicación de cliente eliminada"
+
+msgid "ERROR_CLIENTTOKEN_DELETE"
+msgstr "No se pudo eliminar la aplicación cliente"
+

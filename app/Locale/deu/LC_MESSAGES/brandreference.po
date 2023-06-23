@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "brandreference_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_BRANDREFERENCE_NOT_FOUND"
+msgstr "Kontakt nicht gefunden"
+
+msgid "INFO_BRANDREFERENCE_SAVE"
+msgstr "Kontakt gespeichert"
+
+msgid "ERROR_BRANDREFERENCE_SAVE"
+msgstr "Der Kontakt konnte nicht gespeichert werden"
+
+msgid "INFO_BRANDREFERENCE_EDIT"
+msgstr "Kontakt geändert"
+
+msgid "ERROR_BRANDREFERENCE_EDIT"
+msgstr "Der Kontakt konnte nicht bearbeitet werden"
+
+msgid "INFO_BRANDREFERENCE_DELETE"
+msgstr "Kontakt gelöscht"
+
+msgid "ERROR_BRANDREFERENCE_DELETE"
+msgstr "Der Kontakt konnte nicht gelöscht werden"

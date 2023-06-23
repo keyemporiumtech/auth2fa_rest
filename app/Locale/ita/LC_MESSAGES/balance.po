@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "balance_ITA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BALANCE_NOT_FOUND"
+msgstr "bilancio non trovato"
+
+msgid "INFO_BALANCE_SAVE"
+msgstr "bilancio salvato"
+
+msgid "ERROR_BALANCE_SAVE"
+msgstr "Non è stato possibile salvare il bilancio"
+
+msgid "INFO_BALANCE_EDIT"
+msgstr "bilancio modificato"
+
+msgid "ERROR_BALANCE_EDIT"
+msgstr "Non è stato possibile modificare il bilancio"
+
+msgid "INFO_BALANCE_DELETE"
+msgstr "bilancio eliminato"
+
+msgid "ERROR_BALANCE_DELETE"
+msgstr "Non è stato possibile eliminare il bilancio"

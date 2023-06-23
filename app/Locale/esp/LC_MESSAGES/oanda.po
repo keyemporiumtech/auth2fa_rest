@@ -1,0 +1,11 @@
+msgid "FILE_NAME_LAN"
+msgstr "oanda_ESP"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "ERROR_CURL_CONVERT"
+msgstr "La llamada rest currencies generó una respuesta vacía."
+
+msgid "EXCEPTION_CONVERT_CURRENCY_EMPTY"
+msgstr "El complemento oanda no realizó ninguna llamada de conversión porque no se proporcionaron una o ambas monedas solicitadas (de: %s a:%s)"

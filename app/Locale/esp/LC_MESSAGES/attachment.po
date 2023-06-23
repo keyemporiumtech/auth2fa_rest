@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "attachment_ESP"
+
+msgid "MODULE"
+msgstr "resources"
+
+msgid "ERROR_ATTACHMENT_NOT_FOUND"
+msgstr "Adjunto no encontrado"
+
+msgid "INFO_ATTACHMENT_SAVE"
+msgstr "Adjunto guardado"
+
+msgid "ERROR_ATTACHMENT_SAVE"
+msgstr "No se pudo guardar el archivo adjunto"
+
+msgid "INFO_ATTACHMENT_EDIT"
+msgstr "Adjunto modificado"
+
+msgid "ERROR_ATTACHMENT_EDIT"
+msgstr "No fue posible editar el Adjunto"
+
+msgid "INFO_ATTACHMENT_DELETE"
+msgstr "Adjunto eliminado"
+
+msgid "ERROR_ATTACHMENT_DELETE"
+msgstr "No fue posible eliminar el Adjunto"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pocketproduct_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKETPRODUCT_NOT_FOUND"
+msgstr "Product not found"
+
+msgid "INFO_POCKETPRODUCT_SAVE"
+msgstr "Product saved"
+
+msgid "ERROR_POCKETPRODUCT_SAVE"
+msgstr "The Product could not be saved"
+
+msgid "INFO_POCKETPRODUCT_EDIT"
+msgstr "Product changed"
+
+msgid "ERROR_POCKETPRODUCT_EDIT"
+msgstr "It was not possible to change the Product"
+
+msgid "INFO_POCKETPRODUCT_DELETE"
+msgstr "Product deleted"
+
+msgid "ERROR_POCKETPRODUCT_DELETE"
+msgstr "The Product could not be deleted"

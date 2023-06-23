@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "userreport_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERREPORT_NOT_FOUND"
+msgstr "Bericht nicht gefunden"
+
+msgid "INFO_USERREPORT_SAVE"
+msgstr "Bericht gespeichert"
+
+msgid "ERROR_USERREPORT_SAVE"
+msgstr "Der Bericht konnte nicht gespeichert werden"
+
+msgid "INFO_USERREPORT_EDIT"
+msgstr "Bericht geändert"
+
+msgid "ERROR_USERREPORT_EDIT"
+msgstr "Der Bericht konnte nicht bearbeitet werden"
+
+msgid "INFO_USERREPORT_DELETE"
+msgstr "Bericht gelöscht"
+
+msgid "ERROR_USERREPORT_DELETE"
+msgstr "Der Bericht konnte nicht gelöscht werden"

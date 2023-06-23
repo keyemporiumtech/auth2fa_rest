@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "productattachment_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRODUCTATTACHMENT_NOT_FOUND"
+msgstr "Attachment not found"
+
+msgid "INFO_PRODUCTATTACHMENT_SAVE"
+msgstr "Attachment saved"
+
+msgid "ERROR_PRODUCTATTACHMENT_SAVE"
+msgstr "The attachment could not be saved"
+
+msgid "INFO_PRODUCTATTACHMENT_EDIT"
+msgstr "Attachment modified"
+
+msgid "ERROR_PRODUCTATTACHMENT_EDIT"
+msgstr "It was not possible to edit the Attachment"
+
+msgid "INFO_PRODUCTATTACHMENT_DELETE"
+msgstr "Attachment deleted"
+
+msgid "ERROR_PRODUCTATTACHMENT_DELETE"
+msgstr "It was not possible to delete the Attachment"

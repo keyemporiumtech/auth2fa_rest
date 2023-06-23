@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityuser_ITA"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_ACTIVITYUSER_NOT_FOUND"
+msgstr "Dipendente non trovato"
+
+msgid "INFO_ACTIVITYUSER_SAVE"
+msgstr "Dipendente salvato"
+
+msgid "ERROR_ACTIVITYUSER_SAVE"
+msgstr "Non è stato possibile salvare il Dipendente"
+
+msgid "INFO_ACTIVITYUSER_EDIT"
+msgstr "Dipendente modificato"
+
+msgid "ERROR_ACTIVITYUSER_EDIT"
+msgstr "Non è stato possibile modificare il Dipendente"
+
+msgid "INFO_ACTIVITYUSER_DELETE"
+msgstr "Dipendente eliminato"
+
+msgid "ERROR_ACTIVITYUSER_DELETE"
+msgstr "Non è stato possibile eliminare il Dipendente"

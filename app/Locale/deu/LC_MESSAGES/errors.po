@@ -1,0 +1,44 @@
+msgid "FILE_NAME_LAN"
+msgstr "errors_DEU"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_GENERIC"
+msgstr "Ein Fehler ist aufgetreten"
+
+msgid "ERROR_ACCESS"
+msgstr "Zugriff abgelehnt"
+
+msgid "ERROR_MESSAGE"
+msgstr "Vom Server generierte Ausnahme. %s<br/>Kontaktieren Sie den technischen Kundendienst unter Angabe des Fehlercodes %s"
+
+msgid "ERROR_NO_DATA_FOUND"
+msgstr "Daten nicht gefunden"
+
+msgid "ERROR_THROW_EXCEPTION"
+msgstr "Eine Ausnahme ist aufgetreten"
+
+msgid "ERROR_SAVE"
+msgstr "Die angeforderte Datensicherung war nicht erfolgreich"
+
+msgid "ERROR_EDIT"
+msgstr "Die angeforderte Datenänderung war nicht erfolgreich"
+
+msgid "ERROR_DELETE"
+msgstr "Die angeforderte Löschung der Daten wurde nicht korrekt abgeschlossen"
+
+msgid "ERROR_SAVE_OBJECT_NULL"
+msgstr "Das zu speichernde Objekt ist leer"
+
+msgid "ERROR_EDIT_OBJECT_NULL"
+msgstr "Das zu bearbeitende Objekt ist leer"
+
+msgid "ERROR_DELETE_ID_NULL"
+msgstr "Die zu löschende ID wurde nicht angegeben"
+
+msgid "ERROR_PARAMS_NULL"
+msgstr "Keine obligatorischen Eingabeparameter angegeben"
+
+msgid "ERROR_API_NULL"
+msgstr "Die %s-API ist nicht registriert"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityuser_FRA"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_ACTIVITYUSER_NOT_FOUND"
+msgstr "Employé introuvable"
+
+msgid "INFO_ACTIVITYUSER_SAVE"
+msgstr "Employé enregistré"
+
+msgid "ERROR_ACTIVITYUSER_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer le Employé"
+
+msgid "INFO_ACTIVITYUSER_EDIT"
+msgstr "Employé modifié"
+
+msgid "ERROR_ACTIVITYUSER_EDIT"
+msgstr "Il n'a pas été possible de modifier le Employé"
+
+msgid "INFO_ACTIVITYUSER_DELETE"
+msgstr "Employé supprimé"
+
+msgid "ERROR_ACTIVITYUSER_DELETE"
+msgstr "Il n'a pas été possible de supprimer le Employé"

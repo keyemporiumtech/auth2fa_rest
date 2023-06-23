@@ -1,0 +1,11 @@
+msgid "FILE_NAME_LAN"
+msgstr "testtp_DEU"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "TESTTYPOLOGICAL_COD_TEST1"
+msgstr "Erster übersetzter Code"
+
+msgid "TESTTYPOLOGICAL_COD_TEST2"
+msgstr "Zweiter übersetzter Code"

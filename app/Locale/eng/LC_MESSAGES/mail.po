@@ -1,0 +1,47 @@
+msgid "FILE_NAME_LAN"
+msgstr "mail_ENG"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_PHPMAIL_NOT_SENDED"
+msgstr "The Phpmailer plugin didn't send the email"
+
+msgid "ERROR_MAIL_NOT_FOUND"
+msgstr "Email not found"
+
+msgid "INFO_MAIL_SAVE"
+msgstr "Email saved"
+
+msgid "ERROR_MAIL_SAVE"
+msgstr "The Email could not be saved"
+
+msgid "INFO_MAIL_EDIT"
+msgstr "Email changed"
+
+msgid "ERROR_MAIL_EDIT"
+msgstr "It was not possible to change the Email"
+
+msgid "INFO_MAIL_DELETE"
+msgstr "Email deleted"
+
+msgid "ERROR_MAIL_DELETE"
+msgstr "The Email could not be deleted"
+
+msgid "INFO_MAIL_SEND"
+msgstr "Email correctly sent"
+
+msgid "ERROR_MAIL_SEND"
+msgstr "Email not sent correctly"
+
+msgid "ERROR_MAIL_SEND_NOT_SENDER"
+msgstr "Sender parameter not valued"
+
+msgid "ERROR_MAIL_SEND_NOT_DESTINATORS"
+msgstr "Empty recipient array"
+
+msgid "ERROR_MAIL_SEND_NOT_SUBJECT"
+msgstr "Item not supplied"
+
+msgid "ERROR_MAIL_SEND_NOT_BODY"
+msgstr "No message text provided"

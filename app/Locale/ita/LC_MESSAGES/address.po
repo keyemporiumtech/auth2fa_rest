@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "address_ITA"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_ADDRESS_NOT_FOUND"
+msgstr "Indirizzo non trovato"
+
+msgid "INFO_ADDRESS_SAVE"
+msgstr "Indirizzo salvato"
+
+msgid "ERROR_ADDRESS_SAVE"
+msgstr "Non è stato possibile salvare l'Indirizzo"
+
+msgid "INFO_ADDRESS_EDIT"
+msgstr "Indirizzo modificato"
+
+msgid "ERROR_ADDRESS_EDIT"
+msgstr "Non è stato possibile modificare l'Indirizzo"
+
+msgid "INFO_ADDRESS_DELETE"
+msgstr "Indirizzo eliminato"
+
+msgid "ERROR_ADDRESS_DELETE"
+msgstr "Non è stato possibile eliminare l'Indirizzo"

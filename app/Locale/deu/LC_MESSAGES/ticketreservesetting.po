@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticketreservesetting_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETRESERVESETTING_NOT_FOUND"
+msgstr "Ticketreservierung nicht gefunden"
+
+msgid "INFO_TICKETRESERVESETTING_SAVE"
+msgstr "Ticketreservierung gespeichert"
+
+msgid "ERROR_TICKETRESERVESETTING_SAVE"
+msgstr "Der Ticketreservierung konnte nicht gespeichert werden"
+
+msgid "INFO_TICKETRESERVESETTING_EDIT"
+msgstr "Ticketreservierung geändert"
+
+msgid "ERROR_TICKETRESERVESETTING_EDIT"
+msgstr "Der Ticketreservierung konnte nicht geändert werden"
+
+msgid "INFO_TICKETRESERVESETTING_DELETE"
+msgstr "Ticketreservierung gelöscht"
+
+msgid "ERROR_TICKETRESERVESETTING_DELETE"
+msgstr "Der Ticketreservierung konnte nicht gelöscht werden"

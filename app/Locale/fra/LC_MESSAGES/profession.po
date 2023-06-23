@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "profession_FRA"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSION_NOT_FOUND"
+msgstr "Profession introuvable"
+
+msgid "INFO_PROFESSION_SAVE"
+msgstr "Profession enregistré"
+
+msgid "ERROR_PROFESSION_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer la Profession"
+
+msgid "INFO_PROFESSION_EDIT"
+msgstr "Profession modifié"
+
+msgid "ERROR_PROFESSION_EDIT"
+msgstr "Il n'a pas été possible de modifier la Profession"
+
+msgid "INFO_PROFESSION_DELETE"
+msgstr "Profession supprimé"
+
+msgid "ERROR_PROFESSION_DELETE"
+msgstr "Il n'a pas été possible de supprimer la Profession"

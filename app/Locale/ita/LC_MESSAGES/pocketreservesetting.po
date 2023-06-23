@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pocketreservesetting_ITA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKETRESERVESETTING_NOT_FOUND"
+msgstr "Impostazione non trovata"
+
+msgid "INFO_POCKETRESERVESETTING_SAVE"
+msgstr "Impostazione salvata"
+
+msgid "ERROR_POCKETRESERVESETTING_SAVE"
+msgstr "Non è stato possibile salvare l'Impostazione"
+
+msgid "INFO_POCKETRESERVESETTING_EDIT"
+msgstr "Impostazione modificata"
+
+msgid "ERROR_POCKETRESERVESETTING_EDIT"
+msgstr "Non è stato possibile modificare l'Impostazione"
+
+msgid "INFO_POCKETRESERVESETTING_DELETE"
+msgstr "Impostazione eliminata"
+
+msgid "ERROR_POCKETRESERVESETTING_DELETE"
+msgstr "Non è stato possibile eliminare l'Impostazione"

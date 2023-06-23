@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "multilanguage_ENG"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_MULTILANGUAGE_NOT_FOUND"
+msgstr "Translated line not found"
+
+msgid "INFO_MULTILANGUAGE_SAVE"
+msgstr "Translated line saved"
+
+msgid "ERROR_MULTILANGUAGE_SAVE"
+msgstr "The translated Row could not be saved"
+
+msgid "INFO_MULTILANGUAGE_EDIT"
+msgstr "Translated line changed"
+
+msgid "ERROR_MULTILANGUAGE_EDIT"
+msgstr "The Translated line could not be edited"
+
+msgid "INFO_MULTILANGUAGE_DELETE"
+msgstr "Translated line deleted"
+
+msgid "ERROR_MULTILANGUAGE_DELETE"
+msgstr "Translated line could not be deleted"

@@ -1,0 +1,42 @@
+msgid "FILE_NAME_LAN"
+msgstr "confirmoperation_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_CONFIRMOPERATION_NOT_FOUND"
+msgstr "Vorgang nicht gefunden"
+
+msgid "INFO_CONFIRMOPERATION_SAVE"
+msgstr "Vorgang gespeichert"
+
+msgid "ERROR_CONFIRMOPERATION_SAVE"
+msgstr "Der Vorgang konnte nicht gespeichert werden"
+
+msgid "INFO_CONFIRMOPERATION_EDIT"
+msgstr "Betrieb geändert"
+
+msgid "ERROR_CONFIRMOPERATION_EDIT"
+msgstr "Die Transaktion konnte nicht geändert werden"
+
+msgid "INFO_CONFIRMOPERATION_DELETE"
+msgstr "Vorgang gelöscht"
+
+msgid "ERROR_CONFIRMOPERATION_DELETE"
+msgstr "Der Vorgang konnte nicht gelöscht werden"
+
+msgid "INFO_CONFIRMOPERATION_CODELOGIN_SUBJECT_MAIL"
+msgstr "Bestätigungscode für Login senden"
+
+msgid "INFO_CONFIRMOPERATION_CODELOGIN_MESSAGE_MAIL"
+msgstr "Um auf das System zuzugreifen, geben Sie den Bestätigungscode %s ein"
+
+msgid "INFO_CONFIRMOPERATION_CODELOGIN_MESSAGE_PHONE"
+msgstr "Um auf das System zuzugreifen, geben Sie den Bestätigungscode %s ein"
+
+msgid "ERROR_CONFIRMOPERATION_CHECK_PIN"
+msgstr "Der angegebene Kontrollcode ist ungültig"
+
+msgid "ERROR_CONTROL_CODE_NOT_VALID"
+msgstr "Der Operationscode %s wurde im Archiv mit der Prüfsumme %s nicht gefunden"
+

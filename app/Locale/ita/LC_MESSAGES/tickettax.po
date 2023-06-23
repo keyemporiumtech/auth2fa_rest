@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "tickettax_ITA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETTAX_NOT_FOUND"
+msgstr "tassa biglietto non trovata"
+
+msgid "INFO_TICKETTAX_SAVE"
+msgstr "tassa biglietto salvata"
+
+msgid "ERROR_TICKETTAX_SAVE"
+msgstr "Non è stato possibile salvare la tassa biglietto"
+
+msgid "INFO_TICKETTAX_EDIT"
+msgstr "tassa biglietto modificata"
+
+msgid "ERROR_TICKETTAX_EDIT"
+msgstr "Non è stato possibile modificare la tassa biglietto"
+
+msgid "INFO_TICKETTAX_DELETE"
+msgstr "tassa biglietto eliminata"
+
+msgid "ERROR_TICKETTAX_DELETE"
+msgstr "Non è stato possibile eliminare la tassa biglietto"

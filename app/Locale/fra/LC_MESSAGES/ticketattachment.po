@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticketattachment_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETATTACHMENT_NOT_FOUND"
+msgstr "pièce jointe du ticket introuvable"
+
+msgid "INFO_TICKETATTACHMENT_SAVE"
+msgstr "pièce jointe au ticket enregistrée"
+
+msgid "ERROR_TICKETATTACHMENT_SAVE"
+msgstr "La pièce jointe du ticket n'a pas pu être enregistrée"
+
+msgid "INFO_TICKETATTACHMENT_EDIT"
+msgstr "pièce jointe au billet modifiée"
+
+msgid "ERROR_TICKETATTACHMENT_EDIT"
+msgstr "Il n'a pas été possible de modifier le billet joint"
+
+msgid "INFO_TICKETATTACHMENT_DELETE"
+msgstr "pièce jointe au ticket supprimée"
+
+msgid "ERROR_TICKETATTACHMENT_DELETE"
+msgstr "La pièce jointe au ticket n'a pas pu être supprimée"

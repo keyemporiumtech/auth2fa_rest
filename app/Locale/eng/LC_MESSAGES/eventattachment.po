@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "eventattachment_ENG"
+
+msgid "MODULE"
+msgstr "calendar"
+
+msgid "ERROR_EVENTATTACHMENT_NOT_FOUND"
+msgstr "event attachment not found"
+
+msgid "INFO_EVENTATTACHMENT_SAVE"
+msgstr "event attachment saved"
+
+msgid "ERROR_EVENTATTACHMENT_SAVE"
+msgstr "The event attachment could not be saved"
+
+msgid "INFO_EVENTATTACHMENT_EDIT"
+msgstr "event attachment modified"
+
+msgid "ERROR_EVENTATTACHMENT_EDIT"
+msgstr "The event attachment could not be edited"
+
+msgid "INFO_EVENTATTACHMENT_DELETE"
+msgstr "event attachment deleted"
+
+msgid "ERROR_EVENTATTACHMENT_DELETE"
+msgstr "The event attachment could not be deleted"

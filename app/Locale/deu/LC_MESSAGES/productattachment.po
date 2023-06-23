@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "productattachment_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRODUCTATTACHMENT_NOT_FOUND"
+msgstr "Anhang nicht gefunden"
+
+msgid "INFO_PRODUCTATTACHMENT_SAVE"
+msgstr "Anhang gespeichert"
+
+msgid "ERROR_PRODUCTATTACHMENT_SAVE"
+msgstr "Der Anhang konnte nicht gespeichert werden"
+
+msgid "INFO_PRODUCTATTACHMENT_EDIT"
+msgstr "Anhang geändert"
+
+msgid "ERROR_PRODUCTATTACHMENT_EDIT"
+msgstr "Der Anhang konnte nicht bearbeitet werden"
+
+msgid "INFO_PRODUCTATTACHMENT_DELETE"
+msgstr "Anhang gelöscht"
+
+msgid "ERROR_PRODUCTATTACHMENT_DELETE"
+msgstr "Der Anhang konnte nicht gelöscht werden"

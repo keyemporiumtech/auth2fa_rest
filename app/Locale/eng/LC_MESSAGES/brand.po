@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "brand_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_BRAND_NOT_FOUND"
+msgstr "Brand not found"
+
+msgid "INFO_BRAND_SAVE"
+msgstr "Brand saved"
+
+msgid "ERROR_BRAND_SAVE"
+msgstr "It was not possible to save the Marca"
+
+msgid "INFO_BRAND_EDIT"
+msgstr "Brand changed"
+
+msgid "ERROR_BRAND_EDIT"
+msgstr "It was not possible to change the Brand"
+
+msgid "INFO_BRAND_DELETE"
+msgstr "Brand removed"
+
+msgid "ERROR_BRAND_DELETE"
+msgstr "It was not possible to delete the Brand"

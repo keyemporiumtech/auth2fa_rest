@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pocketreservesetting_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKETRESERVESETTING_NOT_FOUND"
+msgstr "Paramètre introuvable"
+
+msgid "INFO_POCKETRESERVESETTING_SAVE"
+msgstr "Paramètre enregistré"
+
+msgid "ERROR_POCKETRESERVESETTING_SAVE"
+msgstr "La configuration n'a pas pu être enregistrée"
+
+msgid "INFO_POCKETRESERVESETTING_EDIT"
+msgstr "Paramètre modifié"
+
+msgid "ERROR_POCKETRESERVESETTING_EDIT"
+msgstr "Impossible de modifier le paramètre"
+
+msgid "INFO_POCKETRESERVESETTING_DELETE"
+msgstr "Paramètre supprimé"
+
+msgid "ERROR_POCKETRESERVESETTING_DELETE"
+msgstr "Impossible de supprimer le paramètre"

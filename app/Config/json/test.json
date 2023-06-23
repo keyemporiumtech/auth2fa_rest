@@ -1,0 +1,15 @@
+{
+	"language": "fra",
+	"currency": "chf",
+	"prop": "jenkins",
+	"timezone": "Berlin",
+	"complex": {
+		"value": "due",
+		"other": {
+			"key": "other"
+		},
+		"another": {
+			"key": "other"
+		}
+	}
+}

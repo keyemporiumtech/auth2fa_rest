@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "userreport_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERREPORT_NOT_FOUND"
+msgstr "Report not found"
+
+msgid "INFO_USERREPORT_SAVE"
+msgstr "Report saved"
+
+msgid "ERROR_USERREPORT_SAVE"
+msgstr "The report could not be saved"
+
+msgid "INFO_USERREPORT_EDIT"
+msgstr "Report changed"
+
+msgid "ERROR_USERREPORT_EDIT"
+msgstr "It was not possible to edit the report"
+
+msgid "INFO_USERREPORT_DELETE"
+msgstr "Report deleted"
+
+msgid "ERROR_USERREPORT_DELETE"
+msgstr "The report could not be deleted"

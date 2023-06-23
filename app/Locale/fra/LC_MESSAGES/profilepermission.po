@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "profilepermission_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_PROFILEPERMISSION_NOT_FOUND"
+msgstr "Autorisation de profil introuvable"
+
+msgid "INFO_PROFILEPERMISSION_SAVE"
+msgstr "Autorisation de profil enregistrée"
+
+msgid "ERROR_PROFILEPERMISSION_SAVE"
+msgstr "L'autorisation de profil n'a pas pu être enregistrée"
+
+msgid "INFO_PROFILEPERMISSION_EDIT"
+msgstr "L'autorisation du profil a été modifiée"
+
+msgid "ERROR_PROFILEPERMISSION_EDIT"
+msgstr "Il n'a pas été possible de modifier l'autorisation du profil"
+
+msgid "INFO_PROFILEPERMISSION_DELETE"
+msgstr "Autorisation de profil supprimée"
+
+msgid "ERROR_PROFILEPERMISSION_DELETE"
+msgstr "L'autorisation de profil n'a pas pu être supprimée"

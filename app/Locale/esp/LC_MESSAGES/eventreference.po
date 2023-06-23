@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "eventreference_ESP"
+
+msgid "MODULE"
+msgstr "calendar"
+
+msgid "ERROR_EVENTREFERENCE_NOT_FOUND"
+msgstr "contacto de evento no encontrado"
+
+msgid "INFO_EVENTREFERENCE_SAVE"
+msgstr "contacto de evento guardado"
+
+msgid "ERROR_EVENTREFERENCE_SAVE"
+msgstr "No se pudo guardar el contacto del evento"
+
+msgid "INFO_EVENTREFERENCE_EDIT"
+msgstr "cambio de contacto del evento"
+
+msgid "ERROR_EVENTREFERENCE_EDIT"
+msgstr "No se pudo cambiar el contacto del evento."
+
+msgid "INFO_EVENTREFERENCE_DELETE"
+msgstr "contacto de evento eliminado"
+
+msgid "ERROR_EVENTREFERENCE_DELETE"
+msgstr "No se pudo eliminar el contacto del evento"

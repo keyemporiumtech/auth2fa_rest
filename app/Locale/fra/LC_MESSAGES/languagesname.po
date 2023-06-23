@@ -1,0 +1,272 @@
+msgid "FILE_NAME_LAN"
+msgstr "languagesname_FRA"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "LANGUAGE-IT"
+msgstr "Italien"
+
+msgid "LANGUAGE-ITCH"
+msgstr "Italien (Suisse)"
+
+msgid "LANGUAGE-EN"
+msgstr "Anglais"
+
+msgid "LANGUAGE-ENAU"
+msgstr "Anglais (Australie)"
+
+msgid "LANGUAGE-ENBW"
+msgstr "Anglais (Botswana)"
+
+msgid "LANGUAGE-ENCA"
+msgstr "Anglais (Canada)"
+
+msgid "LANGUAGE-ENHK"
+msgstr "Anglais (Hong Kong SAR China)"
+
+msgid "LANGUAGE-ENIE"
+msgstr "Anglais (Irlande)"
+
+msgid "LANGUAGE-ENIN"
+msgstr "Anglais (Inde)"
+
+msgid "LANGUAGE-ENNZ"
+msgstr "Anglais (Nouvelle Zélande)"
+
+msgid "LANGUAGE-ENPH"
+msgstr "Anglais (Philippines)"
+
+msgid "LANGUAGE-ENSG"
+msgstr "Anglais (Singapour)"
+
+msgid "LANGUAGE-ENUS"
+msgstr "Anglais (les états-unis d'Amérique)"
+
+msgid "LANGUAGE-ENZA"
+msgstr "Anglais (Afrique du Sud)"
+
+msgid "LANGUAGE-ENZW"
+msgstr "Anglais (Zimbabwe)"
+
+msgid "LANGUAGE-FR"
+msgstr "Français"
+
+msgid "LANGUAGE-FRBE"
+msgstr "Français (Belgique)"
+
+msgid "LANGUAGE-FRCA"
+msgstr "Français (Canada)"
+
+msgid "LANGUAGE-FRCH"
+msgstr "Français (Suisse)"
+
+msgid "LANGUAGE-FRLU"
+msgstr "Français (Luxembourg)"
+
+msgid "LANGUAGE-DE"
+msgstr "Allemand"
+
+msgid "LANGUAGE-DEAT"
+msgstr "Allemand (L'Autriche)"
+
+msgid "LANGUAGE-DEBE"
+msgstr "Allemand (Belgique)"
+
+msgid "LANGUAGE-DECH"
+msgstr "Allemand (Suisse)"
+
+msgid "LANGUAGE-DELU"
+msgstr "Allemand (Luxembourg)"
+
+msgid "LANGUAGE-ES"
+msgstr "Espagnol"
+
+msgid "LANGUAGE-ESAR"
+msgstr "Espagnol (Argentine)"
+
+msgid "LANGUAGE-ESBO"
+msgstr "Espagnol (Bolivie)"
+
+msgid "LANGUAGE-ESCL"
+msgstr "Espagnol (Chili)"
+
+msgid "LANGUAGE-ESCO"
+msgstr "Espagnol (Colombie)"
+
+msgid "LANGUAGE-ESCR"
+msgstr "Espagnol (Costa Rica)"
+
+msgid "LANGUAGE-ESDO"
+msgstr "Espagnol (République dominicaine)"
+
+msgid "LANGUAGE-ESEC"
+msgstr "Espagnol (Equateur)"
+
+msgid "LANGUAGE-ESGT"
+msgstr "Espagnol (Guatemala)"
+
+msgid "LANGUAGE-ESHN"
+msgstr "Espagnol (Honduras)"
+
+msgid "LANGUAGE-ESMX"
+msgstr "Espagnol (Mexique)"
+
+msgid "LANGUAGE-ESNI"
+msgstr "Espagnol (Nicaragua)"
+
+msgid "LANGUAGE-ESPA"
+msgstr "Espagnol (Panama)"
+
+msgid "LANGUAGE-ESPE"
+msgstr "Espagnol (Pérou)"
+
+msgid "LANGUAGE-ESPR"
+msgstr "Espagnol (Porto Rico)"
+
+msgid "LANGUAGE-ESSV"
+msgstr "Espagnol (Le Salvador)"
+
+msgid "LANGUAGE-ESPY"
+msgstr "Espagnol (Paraguay)"
+
+msgid "LANGUAGE-ESUS"
+msgstr "Espagnol (les états-unis d'Amérique)"
+
+msgid "LANGUAGE-ESUY"
+msgstr "Espagnol (Uruguay)"
+
+msgid "LANGUAGE-ESVE"
+msgstr "Espagnol (Venezuela)"
+
+msgid "LANGUAGE-ZH"
+msgstr "Chinois"
+
+msgid "LANGUAGE-RU"
+msgstr "Russe"
+
+msgid "LANGUAGE-RUUA"
+msgstr "Ukrainien"
+
+msgid "LANGUAGE-POR"
+msgstr "Portugais"
+
+msgid "LANGUAGE-PORBR"
+msgstr "Portugais (Brésil)"
+
+msgid "LANGUAGE-JP"
+msgstr "Japonais"
+
+msgid "LANGUAGE-AR"
+msgstr "Arabe (Emirats Arabes Unis)"
+
+msgid "LANGUAGE-ARBH"
+msgstr "Arabe (Bahreïn)"
+
+msgid "LANGUAGE-ARDZ"
+msgstr "Arabe (Algérie)"
+
+msgid "LANGUAGE-AREG"
+msgstr "Arabe (Egypte)"
+
+msgid "LANGUAGE-ARIQ"
+msgstr "Arabe (Irak)"
+
+msgid "LANGUAGE-ARJO"
+msgstr "Arabe (Jordan)"
+
+msgid "LANGUAGE-ARKW"
+msgstr "Arabe (Koweit)"
+
+msgid "LANGUAGE-ARLY"
+msgstr "Arabe (Libye)"
+
+msgid "LANGUAGE-ARMA"
+msgstr "Arabe (Maroc)"
+
+msgid "LANGUAGE-AROM"
+msgstr "Arabe (Oman)"
+
+msgid "LANGUAGE-ARQA"
+msgstr "Arabe (Qatar)"
+
+msgid "LANGUAGE-ARSA"
+msgstr "Arabe (Arabie Saoudite)"
+
+msgid "LANGUAGE-ARSD"
+msgstr "Arabe (Soudan)"
+
+msgid "LANGUAGE-ARSY"
+msgstr "Arabe (Syrie)"
+
+msgid "LANGUAGE-ARTN"
+msgstr "Arabe (Tunisie)"
+
+msgid "LANGUAGE-ARYE"
+msgstr "Arabe (Yémen)"
+
+msgid "LANGUAGE-HIN"
+msgstr "Hindou"
+
+msgid "LANGUAGE-IND"
+msgstr "Indonésien"
+
+msgid "LANGUAGE-BEN"
+msgstr "Bengali (Bangladesh)"
+
+msgid "LANGUAGE-BENIN"
+msgstr "Bengali (Inde)"
+
+msgid "LANGUAGE-VIE"
+msgstr "Vietnamien"
+
+msgid "LANGUAGE-THA"
+msgstr "Thaïlandais"
+
+msgid "LANGUAGE-TUR"
+msgstr "Turc"
+
+msgid "LANGUAGE-POL"
+msgstr "Polonais"
+
+msgid "LANGUAGE-ROM"
+msgstr "Roumain"
+
+msgid "LANGUAGE-MAL"
+msgstr "Malaisien"
+
+msgid "LANGUAGE-FIN"
+msgstr "Finlandais"
+
+msgid "LANGUAGE-DAN"
+msgstr "Danois"
+
+msgid "LANGUAGE-SWE"
+msgstr "Suédois"
+
+msgid "LANGUAGE-SWEFI"
+msgstr "Suédois (Finlande)"
+
+msgid "LANGUAGE-BUL"
+msgstr "Bulgare"
+
+msgid "LANGUAGE-CES"
+msgstr "Tchèque"
+
+msgid "LANGUAGE-GR"
+msgstr "Grec"
+
+msgid "LANGUAGE-GRCY"
+msgstr "Grec (Chypre)"
+
+msgid "LANGUAGE-HUN"
+msgstr "Hongrois"
+
+msgid "LANGUAGE-NL"
+msgstr "Olandese"
+
+msgid "LANGUAGE-NLBE"
+msgstr "Olandese (Belgique)"
+
+msgid "LANGUAGE-KOR"
+msgstr "Coréen"

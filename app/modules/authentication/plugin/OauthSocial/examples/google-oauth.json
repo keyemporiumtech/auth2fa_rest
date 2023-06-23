@@ -1,0 +1,96 @@
+{
+  "origin": {
+    "ya": "104155857554057665469",
+    "$b": null,
+    "ht": {
+      "rT": "104155857554057665469",
+      "Re": "giuseppe sassone",
+      "GU": "giuseppe",
+      "XS": "sassone",
+      "kK": "https://lh3.googleusercontent.com/a-/AOh14GirbYCoiAwdKQfIeqWu_6VFOjsYi57JmRe_y7Dmaw=s96-c",
+      "St": "giuseppesassone00@gmail.com"
+    }
+  },
+  "id": "104155857554057665469",
+  "name": "giuseppe sassone",
+  "email": "giuseppesassone00@gmail.com",
+  "photoUrl": "https://lh3.googleusercontent.com/a-/AOh14GirbYCoiAwdKQfIeqWu_6VFOjsYi57JmRe_y7Dmaw=s96-c",
+  "firstName": "giuseppe",
+  "lastName": "sassone",
+  "authToken": "ya29.a0ARrdaM-pLvAC0GKsFW7MgDge-b0BwJII_Q7HSm_FT3ofpnJk0jra_fL1_wzsiJu7L4_kORMjOzm9e2yvnhbSck2HHxSv8ahMzZnGPF-Q7uwxJhytytS6iu4s8FxLunhfjDtyFCOSdcRlL0jWg-GuQByYIy7smA",
+  "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjhkOTI5YzYzZmYxMDgyYmJiOGM5OWY5OTRmYTNmZjRhZGFkYTJkMTEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiMzI2NTI1NTk1NzgxLW51aHJjczNuNWNhNjF1MWQzY2M4dGNoZ3Y5a3FjaWpqLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiMzI2NTI1NTk1NzgxLW51aHJjczNuNWNhNjF1MWQzY2M4dGNoZ3Y5a3FjaWpqLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA0MTU1ODU3NTU0MDU3NjY1NDY5IiwiZW1haWwiOiJnaXVzZXBwZXNhc3NvbmUwMEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6InlpdDdKUDd0bVF5aTlTVG5GcGdGZ2ciLCJuYW1lIjoiZ2l1c2VwcGUgc2Fzc29uZSIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQU9oMTRHaXJiWUNvaUF3ZEtRZkllcVd1XzZWRk9qc1lpNTdKbVJlX3k3RG1hdz1zOTYtYyIsImdpdmVuX25hbWUiOiJnaXVzZXBwZSIsImZhbWlseV9uYW1lIjoic2Fzc29uZSIsImxvY2FsZSI6Iml0IiwiaWF0IjoxNjMyODIyOTIzLCJleHAiOjE2MzI4MjY1MjMsImp0aSI6IjY0ZjI4Mzk0MDg3NjgzYjcwMWQ1NWZhZWZkOTAyMjMxOTlmOTEyOTQifQ.4RGm9051qN9sxkrWxpyZ0trC5Oiv3LzHIAqGDeteCstCv34-7uTduIg_IpzhLJHCKejkl8fL1B1spt9pbHpBaTtHbDQzukvv-efS_Xa3F6EYmTm4aIeRbwrQzNecb5fEiwkX27rhY7NJrYNQeCwVb-VFGy9IjqxEbzYF21s5fOkLDzASjdIyH2_aYw17zPdmjy0nhMH3In9RsYPMtZW_Yi0EvbTaqo5VCiHrWoDee0iPWklJhq8tWtGbj3tqkjmGLSQ9bu_IDsips5hWbNltzD8TqjiO_Rf_U5glvXQh2I3ZdezSfLNl6gA8U8D790EsNPzt4PvkQyhtITCosO2XZQ",
+  "response": {
+    "token_type": "Bearer",
+    "access_token": "ya29.a0ARrdaM-pLvAC0GKsFW7MgDge-b0BwJII_Q7HSm_FT3ofpnJk0jra_fL1_wzsiJu7L4_kORMjOzm9e2yvnhbSck2HHxSv8ahMzZnGPF-Q7uwxJhytytS6iu4s8FxLunhfjDtyFCOSdcRlL0jWg-GuQByYIy7smA",
+    "scope": "email profile https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/user.phonenumbers.read https://www.googleapis.com/auth/profile.emails.read https://www.googleapis.com/auth/profile.agerange.read https://www.googleapis.com/auth/user.organization.read https://www.googleapis.com/auth/user.addresses.read https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/profile.language.read openid https://www.googleapis.com/auth/user.birthday.read https://www.googleapis.com/auth/user.gender.read https://www.googleapis.com/auth/user.emails.read",
+    "login_hint": "AJDLj6J9nXGC8nvyinFBHbJdEwBhRAk2l46_krmrmrOR_coeWPTBUtuHvRlM-eQGezYmqiJtJe1q37DFaaXP6L9Rw1sjTcKKgg",
+    "expires_in": 3599,
+    "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjhkOTI5YzYzZmYxMDgyYmJiOGM5OWY5OTRmYTNmZjRhZGFkYTJkMTEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiMzI2NTI1NTk1NzgxLW51aHJjczNuNWNhNjF1MWQzY2M4dGNoZ3Y5a3FjaWpqLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiMzI2NTI1NTk1NzgxLW51aHJjczNuNWNhNjF1MWQzY2M4dGNoZ3Y5a3FjaWpqLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA0MTU1ODU3NTU0MDU3NjY1NDY5IiwiZW1haWwiOiJnaXVzZXBwZXNhc3NvbmUwMEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6InlpdDdKUDd0bVF5aTlTVG5GcGdGZ2ciLCJuYW1lIjoiZ2l1c2VwcGUgc2Fzc29uZSIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQU9oMTRHaXJiWUNvaUF3ZEtRZkllcVd1XzZWRk9qc1lpNTdKbVJlX3k3RG1hdz1zOTYtYyIsImdpdmVuX25hbWUiOiJnaXVzZXBwZSIsImZhbWlseV9uYW1lIjoic2Fzc29uZSIsImxvY2FsZSI6Iml0IiwiaWF0IjoxNjMyODIyOTIzLCJleHAiOjE2MzI4MjY1MjMsImp0aSI6IjY0ZjI4Mzk0MDg3NjgzYjcwMWQ1NWZhZWZkOTAyMjMxOTlmOTEyOTQifQ.4RGm9051qN9sxkrWxpyZ0trC5Oiv3LzHIAqGDeteCstCv34-7uTduIg_IpzhLJHCKejkl8fL1B1spt9pbHpBaTtHbDQzukvv-efS_Xa3F6EYmTm4aIeRbwrQzNecb5fEiwkX27rhY7NJrYNQeCwVb-VFGy9IjqxEbzYF21s5fOkLDzASjdIyH2_aYw17zPdmjy0nhMH3In9RsYPMtZW_Yi0EvbTaqo5VCiHrWoDee0iPWklJhq8tWtGbj3tqkjmGLSQ9bu_IDsips5hWbNltzD8TqjiO_Rf_U5glvXQh2I3ZdezSfLNl6gA8U8D790EsNPzt4PvkQyhtITCosO2XZQ",
+    "session_state": {
+      "extraQueryParams": {
+        "authuser": "0"
+      }
+    },
+    "first_issued_at": 1632822924220,
+    "expires_at": 1632826523220,
+    "idpId": "google"
+  },
+  "provider": "GOOGLE",
+  "infos": {
+    "resourceName": "people/104155857554057665469",
+    "etag": "%EgsBBQcICxAuNDc/QBoEAQIFByIMUUVCQ1RMSXNxOGM9",
+    "genders": [
+      {
+        "metadata": {
+          "primary": true,
+          "source": {
+            "type": "PROFILE",
+            "id": "104155857554057665469"
+          }
+        },
+        "value": "male",
+        "formattedValue": "Uomo"
+      }
+    ],
+    "birthdays": [
+      {
+        "metadata": {
+          "primary": true,
+          "source": {
+            "type": "PROFILE",
+            "id": "104155857554057665469"
+          }
+        },
+        "date": {
+          "month": 5,
+          "day": 25
+        }
+      },
+      {
+        "metadata": {
+          "source": {
+            "type": "ACCOUNT",
+            "id": "104155857554057665469"
+          }
+        },
+        "date": {
+          "year": 1981,
+          "month": 5,
+          "day": 25
+        }
+      }
+    ],
+    "ageRanges": [
+      {
+        "metadata": {
+          "primary": true,
+          "source": {
+            "type": "PROFILE",
+            "id": "104155857554057665469"
+          }
+        },
+        "ageRange": "TWENTY_ONE_OR_OLDER"
+      }
+    ]
+  }
+}

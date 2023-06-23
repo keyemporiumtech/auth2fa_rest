@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pocketproduct_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKETPRODUCT_NOT_FOUND"
+msgstr "Produit non trouvé"
+
+msgid "INFO_POCKETPRODUCT_SAVE"
+msgstr "Produit enregistré"
+
+msgid "ERROR_POCKETPRODUCT_SAVE"
+msgstr "Le produit n'a pas pu être enregistré"
+
+msgid "INFO_POCKETPRODUCT_EDIT"
+msgstr "Produit modifié"
+
+msgid "ERROR_POCKETPRODUCT_EDIT"
+msgstr "Il n'a pas été possible de modifier le Produit"
+
+msgid "INFO_POCKETPRODUCT_DELETE"
+msgstr "Produit supprimé"
+
+msgid "ERROR_POCKETPRODUCT_DELETE"
+msgstr "Le produit n'a pas pu être supprimé"

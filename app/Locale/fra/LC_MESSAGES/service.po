@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "service_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICE_NOT_FOUND"
+msgstr "Service non trouvé"
+
+msgid "INFO_SERVICE_SAVE"
+msgstr "Service enregistrée"
+
+msgid "ERROR_SERVICE_SAVE"
+msgstr "Le service n'a pas pu être enregistré"
+
+msgid "INFO_SERVICE_EDIT"
+msgstr "Service modifié"
+
+msgid "ERROR_SERVICE_EDIT"
+msgstr "Il n'a pas été possible de modifier le service"
+
+msgid "INFO_SERVICE_DELETE"
+msgstr "Service supprimée"
+
+msgid "ERROR_SERVICE_DELETE"
+msgstr "Le service n'a pas pu être supprimé"

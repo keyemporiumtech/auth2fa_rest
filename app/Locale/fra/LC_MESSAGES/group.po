@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "group_FRA"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_GROUP_NOT_FOUND"
+msgstr "Groupe introuvable"
+
+msgid "INFO_GROUP_SAVE"
+msgstr "Groupe enregistré"
+
+msgid "ERROR_GROUP_SAVE"
+msgstr "Le groupe n'a pas pu être sauvegardé"
+
+msgid "INFO_GROUP_EDIT"
+msgstr "Groupe modifié"
+
+msgid "ERROR_GROUP_EDIT"
+msgstr "Il n'a pas été possible de changer de groupe"
+
+msgid "INFO_GROUP_DELETE"
+msgstr "Groupe supprimé"
+
+msgid "ERROR_GROUP_DELETE"
+msgstr "Le groupe n'a pas pu être supprimé"

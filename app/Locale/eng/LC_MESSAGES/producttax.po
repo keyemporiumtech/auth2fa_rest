@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "producttax_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRODUCTTAX_NOT_FOUND"
+msgstr "Tax not found"
+
+msgid "INFO_PRODUCTTAX_SAVE"
+msgstr "Tax saved"
+
+msgid "ERROR_PRODUCTTAX_SAVE"
+msgstr "It was not possible to save the Tax"
+
+msgid "INFO_PRODUCTTAX_EDIT"
+msgstr "Tax changed"
+
+msgid "ERROR_PRODUCTTAX_EDIT"
+msgstr "It was not possible to change the Tax"
+
+msgid "INFO_PRODUCTTAX_DELETE"
+msgstr "Tax deleted"
+
+msgid "ERROR_PRODUCTTAX_DELETE"
+msgstr "It was not possible to delete the tax"

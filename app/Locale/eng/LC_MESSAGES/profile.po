@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "profile_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_PROFILE_NOT_FOUND"
+msgstr "User profile not found"
+
+msgid "INFO_PROFILE_SAVE"
+msgstr "User profile saved"
+
+msgid "ERROR_PROFILE_SAVE"
+msgstr "The User Profile could not be saved"
+
+msgid "INFO_PROFILE_EDIT"
+msgstr "User profile changed"
+
+msgid "ERROR_PROFILE_EDIT"
+msgstr "It was not possible to edit the User Profile"
+
+msgid "INFO_PROFILE_DELETE"
+msgstr "User profile deleted"
+
+msgid "ERROR_PROFILE_DELETE"
+msgstr "The User Profile could not be deleted"

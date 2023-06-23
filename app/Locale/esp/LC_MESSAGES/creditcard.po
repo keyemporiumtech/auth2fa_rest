@@ -1,0 +1,24 @@
+msgid "FILE_NAME_LAN"
+msgstr "creditcard_ESP"
+
+msgid "MODULE"
+msgstr "validator_creditcard"
+
+msgid "ERRON_VALIDATE"
+msgstr "No es posible validar el número de tarjeta facilitado"
+
+msgid "ERRON_VALIDATE_NOT_VALID"
+msgstr "numero de tarjeta invalido"
+
+msgid "ERRON_VALIDATE_NOT_FOUND"
+msgstr "Número de tarjeta no encontrado"
+
+msgid "ERRON_VALIDATE_LENGTH"
+msgstr "Número de tarjeta no válido: número de caracteres incorrecto"
+
+msgid "ERRON_VALIDATE_EXPIRATION"
+msgstr "Número de tarjeta no válido: fecha de caducidad incorrecta"
+
+msgid "ERRON_VALIDATE_CVC"
+msgstr "Número de tarjeta no válido: código de seguridad incorrecto"
+

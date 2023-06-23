@@ -1,0 +1,27 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailer_ITA"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILER_NOT_FOUND"
+msgstr "Provider di posta non trovato"
+
+msgid "INFO_MAILER_SAVE"
+msgstr "Provider di posta salvato"
+
+msgid "ERROR_MAILER_SAVE"
+msgstr "Non è stato possibile salvare il Provider di posta"
+
+msgid "INFO_MAILER_EDIT"
+msgstr "Provider di posta modificato"
+
+msgid "ERROR_MAILER_EDIT"
+msgstr "Non è stato possibile modificare il Provider di posta"
+
+msgid "INFO_MAILER_DELETE"
+msgstr "Provider di posta eliminato"
+
+msgid "ERROR_MAILER_DELETE"
+msgstr "Non è stato possibile eliminare il Provider di posta"
+

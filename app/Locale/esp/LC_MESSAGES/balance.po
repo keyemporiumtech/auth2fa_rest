@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "balance_ESP"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BALANCE_NOT_FOUND"
+msgstr "presupuesto no encontrado"
+
+msgid "INFO_BALANCE_SAVE"
+msgstr "presupuesto guardado"
+
+msgid "ERROR_BALANCE_SAVE"
+msgstr "No fue posible guardar el presupuesto"
+
+msgid "INFO_BALANCE_EDIT"
+msgstr "presupuesto cambiado"
+
+msgid "ERROR_BALANCE_EDIT"
+msgstr "No fue posible cambiar el presupuesto."
+
+msgid "INFO_BALANCE_DELETE"
+msgstr "presupuesto eliminado"
+
+msgid "ERROR_BALANCE_DELETE"
+msgstr "No fue posible eliminar el presupuesto."

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "userrelation_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERRELATION_NOT_FOUND"
+msgstr "relation utilisateur introuvable"
+
+msgid "INFO_USERRELATION_SAVE"
+msgstr "relation utilisateur enregistré"
+
+msgid "ERROR_USERRELATION_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer le relation utilisateur"
+
+msgid "INFO_USERRELATION_EDIT"
+msgstr "relation utilisateur modifié"
+
+msgid "ERROR_USERRELATION_EDIT"
+msgstr "Il n'a pas été possible de modifier le relation utilisateur"
+
+msgid "INFO_USERRELATION_DELETE"
+msgstr "relation utilisateur supprimé"
+
+msgid "ERROR_USERRELATION_DELETE"
+msgstr "Il n'a pas été possible de supprimer le relation utilisateur"

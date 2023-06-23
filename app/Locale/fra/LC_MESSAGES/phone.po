@@ -1,0 +1,41 @@
+msgid "FILE_NAME_LAN"
+msgstr "phone_FRA"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_PHONE_NOT_FOUND"
+msgstr "Numéro de téléphone introuvable"
+
+msgid "INFO_PHONE_SAVE"
+msgstr "Numéro de téléphone enregistré"
+
+msgid "ERROR_PHONE_SAVE"
+msgstr "Le numéro de téléphone n'a pas pu être enregistré"
+
+msgid "INFO_PHONE_EDIT"
+msgstr "Le numéro de téléphone a changé"
+
+msgid "ERROR_PHONE_EDIT"
+msgstr "Le numéro de téléphone n'a pas pu être modifié"
+
+msgid "INFO_PHONE_DELETE"
+msgstr "Numéro de téléphone supprimé"
+
+msgid "ERROR_PHONE_DELETE"
+msgstr "Le numéro de téléphone n'a pas pu être supprimé"
+
+msgid "INFO_PHONE_SEND"
+msgstr "SMS envoyé avec succès"
+
+msgid "ERROR_PHONE_SEND"
+msgstr "SMS pas envoyé correctement"
+
+msgid "ERROR_PHONE_SEND_NOT_SENDER"
+msgstr "Paramètre expéditeur non valorisé"
+
+msgid "ERROR_PHONE_SEND_NOT_DESTINATORS"
+msgstr "Tableau des destinataires vide"
+
+msgid "ERROR_PHONE_SEND_NOT_BODY"
+msgstr "Aucun texte de message fourni"

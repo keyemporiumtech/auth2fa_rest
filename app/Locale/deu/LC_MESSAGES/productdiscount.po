@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "productdiscount_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRODUCTDISCOUNT_NOT_FOUND"
+msgstr "Rabatt nicht gefunden"
+
+msgid "INFO_PRODUCTDISCOUNT_SAVE"
+msgstr "Rabatt gespeichert"
+
+msgid "ERROR_PRODUCTDISCOUNT_SAVE"
+msgstr "Der Rabatt konnte nicht gespeichert werden"
+
+msgid "INFO_PRODUCTDISCOUNT_EDIT"
+msgstr "Rabatt geändert"
+
+msgid "ERROR_PRODUCTDISCOUNT_EDIT"
+msgstr "Es war nicht möglich, den Rabatt zu ändern"
+
+msgid "INFO_PRODUCTDISCOUNT_DELETE"
+msgstr "Rabatt eliminiert"
+
+msgid "ERROR_PRODUCTDISCOUNT_DELETE"
+msgstr "Der Rabatt konnte nicht gelöscht werden"

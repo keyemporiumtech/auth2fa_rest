@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionrole_ESP"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONROLE_NOT_FOUND"
+msgstr "Rol comercial no encontrado"
+
+msgid "INFO_PROFESSIONROLE_SAVE"
+msgstr "Rol comercial guardado"
+
+msgid "ERROR_PROFESSIONROLE_SAVE"
+msgstr "No fue posible guardar el Rol comercial"
+
+msgid "INFO_PROFESSIONROLE_EDIT"
+msgstr "Rol comercial modificado"
+
+msgid "ERROR_PROFESSIONROLE_EDIT"
+msgstr "No fue posible modificar el Rol comercial"
+
+msgid "INFO_PROFESSIONROLE_DELETE"
+msgstr "Rol comercial eliminado"
+
+msgid "ERROR_PROFESSIONROLE_DELETE"
+msgstr "No fue posible eliminar el Rol comercial"

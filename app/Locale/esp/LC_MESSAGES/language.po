@@ -1,0 +1,41 @@
+msgid "FILE_NAME_LAN"
+msgstr "language_ESP"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_LANGUAGE_NOT_FOUND"
+msgstr "Idioma no encontrado"
+
+msgid "INFO_LANGUAGE_SAVE"
+msgstr "Idioma guardado"
+
+msgid "ERROR_LANGUAGE_SAVE"
+msgstr "No se pudo guardar el idioma"
+
+msgid "INFO_LANGUAGE_EDIT"
+msgstr "Idioma cambiado"
+
+msgid "ERROR_LANGUAGE_EDIT"
+msgstr "No se pudo cambiar el idioma"
+
+msgid "INFO_LANGUAGE_DELETE"
+msgstr "Idioma eliminado"
+
+msgid "ERROR_LANGUAGE_DELETE"
+msgstr "No se pudo eliminar el idioma"
+
+msgid "ERROR_LANGUAGE_COD"
+msgstr "No se encontró ningún idioma con el código %s"
+
+msgid "ERROR_LANGUAGE_SETUP"
+msgstr "No se pudo cambiar el idioma del sistema"
+
+msgid "INFO_LANGUAGE_CHANGE"
+msgstr "Conjunto de idiomas del sistema: %s"
+
+msgid "INFO_LANGUAGE_CHANGE_DEFAULT"
+msgstr "Idioma del sistema configurado como idioma predeterminado: %s"
+
+msgid "ERROR_LANGUAGE_CHANGE_DEFAULT"
+msgstr "Idioma predeterminado no establecido en json"

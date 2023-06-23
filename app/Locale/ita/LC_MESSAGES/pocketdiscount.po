@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pocketdiscount_ITA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKETDISCOUNT_NOT_FOUND"
+msgstr "Sconto non trovato"
+
+msgid "INFO_POCKETDISCOUNT_SAVE"
+msgstr "Sconto salvato"
+
+msgid "ERROR_POCKETDISCOUNT_SAVE"
+msgstr "Non è stato possibile salvare lo Sconto"
+
+msgid "INFO_POCKETDISCOUNT_EDIT"
+msgstr "Sconto modificato"
+
+msgid "ERROR_POCKETDISCOUNT_EDIT"
+msgstr "Non è stato possibile modificare lo Sconto"
+
+msgid "INFO_POCKETDISCOUNT_DELETE"
+msgstr "Sconto eliminato"
+
+msgid "ERROR_POCKETDISCOUNT_DELETE"
+msgstr "Non è stato possibile eliminare lo Sconto"

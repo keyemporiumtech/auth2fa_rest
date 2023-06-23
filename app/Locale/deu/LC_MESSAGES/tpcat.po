@@ -1,0 +1,47 @@
+msgid "FILE_NAME_LAN"
+msgstr "tpcat_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "TPCAT_GOV"
+msgstr "Regierung oder Gesetzgebung"
+
+msgid "TPCAT_ART"
+msgstr "Kunst und Literatur"
+
+msgid "TPCAT_FOD"
+msgstr "Essen, Catering und Schlafsaal"
+
+msgid "TPCAT_WRK"
+msgstr "Arbeit und Handel"
+
+msgid "TPCAT_SCH"
+msgstr "Schule und Lehre"
+
+msgid "TPCAT_MED"
+msgstr "Biologie und Medizin"
+
+msgid "TPCAT_SCI"
+msgstr "Wissenschaft und Astronomie"
+
+msgid "TPCAT_HIS"
+msgstr "Geschichte"
+
+msgid "TPCAT_GEO"
+msgstr "Erdkunde"
+
+msgid "TPCAT_TEC"
+msgstr "Technologie"
+
+msgid "TPCAT_MSC"
+msgstr "Musik, Kino und Unterhaltung"
+
+msgid "TPCAT_TRV"
+msgstr "Reisen und Transport"
+
+msgid "TPCAT_FIN"
+msgstr "Finanzen und Märkte"
+
+msgid "TPCAT_BEA"
+msgstr "Schönheit und Körperpflege"

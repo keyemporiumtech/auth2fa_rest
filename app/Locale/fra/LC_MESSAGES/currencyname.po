@@ -1,0 +1,314 @@
+msgid "FILE_NAME_LAN"
+msgstr "currencyname_FRA"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "CURRENCY-AFG"
+msgstr "Afghans"
+
+msgid "CURRENCY-ALL"
+msgstr "Lek"
+
+msgid "CURRENCY-AWG"
+msgstr "Florin d'Aruba"
+
+msgid "CURRENCY-AZN"
+msgstr "Manat azerbaïdjanais"
+
+msgid "CURRENCY-BYR"
+msgstr "Rouble biélorusse"
+
+msgid "CURRENCY-BZD"
+msgstr "Dollar bélizien"
+
+msgid "CURRENCY-BAM"
+msgstr "Marque bosniaque"
+
+msgid "CURRENCY-KHR"
+msgstr "Riel cambodgien"
+
+msgid "CURRENCY-HRK"
+msgstr "Kuna croate"
+
+msgid "CURRENCY-CUP"
+msgstr "Peso cubain"
+
+msgid "CURRENCY-EEK"
+msgstr "Couronne estonienne"
+
+msgid "CURRENCY-GHS"
+msgstr "Cedi ghanéen"
+
+msgid "CURRENCY-ISK"
+msgstr "couronne islandaise"
+
+msgid "CURRENCY-IRR"
+msgstr "riyal iranien"
+
+msgid "CURRENCY-ILS"
+msgstr "Nouveau Shekel israélien"
+
+msgid "CURRENCY-JMD"
+msgstr "Dollar jamaïcain"
+
+msgid "CURRENCY-KZT"
+msgstr "Tenge kazakh"
+
+msgid "CURRENCY-KGS"
+msgstr "Som kirghize"
+
+msgid "CURRENCY-LAK"
+msgstr "Kip Lao"
+
+msgid "CURRENCY-LVL"
+msgstr "Lats lettons"
+
+msgid "CURRENCY-LTL"
+msgstr "Litas lituanien"
+
+msgid "CURRENCY-MKD"
+msgstr "Denar macédonien"
+
+msgid "CURRENCY-MUR"
+msgstr "roupie mauricienne"
+
+msgid "CURRENCY-MNT"
+msgstr "Tugrik mongol"
+
+msgid "CURRENCY-MZN"
+msgstr "Metical mozambicain"
+
+msgid "CURRENCY-NPR"
+msgstr "roupie népalaise"
+
+msgid "CURRENCY-ANG"
+msgstr "Florin des Antilles néerlandaises"
+
+msgid "CURRENCY-NGN"
+msgstr "Naira nigérian"
+
+msgid "CURRENCY-NOK"
+msgstr "couronne norvégienne"
+
+msgid "CURRENCY-PKR"
+msgstr "roupie pakistanaise"
+
+msgid "CURRENCY-RSD"
+msgstr "Dinar serbe"
+
+msgid "CURRENCY-SCR"
+msgstr "Roupie seychelloise"
+
+msgid "CURRENCY-SOS"
+msgstr "Shilling somalien"
+
+msgid "CURRENCY-LKR"
+msgstr "Roupie cinghalaise"
+
+msgid "CURRENCY-TWD"
+msgstr "Dollar taïwanais"
+
+msgid "CURRENCY-TTD"
+msgstr "Dollar de Trinité-et-Tobago"
+
+msgid "CURRENCY-UZS"
+msgstr "Som ouzbek"
+
+msgid "CURRENCY-ZWD"
+msgstr "Dollar zimbabwéen"
+
+msgid "CURRENCY-EUR"
+msgstr "EUR"
+
+msgid "CURRENCY-USD"
+msgstr "Dollar"
+
+msgid "CURRENCY-CHF"
+msgstr "Franc"
+
+msgid "CURRENCY-GBP"
+msgstr "GBP"
+
+msgid "CURRENCY-AUD"
+msgstr "dollar australien"
+
+msgid "CURRENCY-BWP"
+msgstr "Pula"
+
+msgid "CURRENCY-CAD"
+msgstr "Dollar canadien"
+
+msgid "CURRENCY-HKD"
+msgstr "dollar de Hong Kong"
+
+msgid "CURRENCY-INR"
+msgstr "roupie indienne"
+
+msgid "CURRENCY-NZD"
+msgstr "dollars néo-zélandais"
+
+msgid "CURRENCY-PHP"
+msgstr "Peso philippin"
+
+msgid "CURRENCY-SGD"
+msgstr "Dollar de Singapour"
+
+msgid "CURRENCY-ZAR"
+msgstr "Rand"
+
+msgid "CURRENCY-ARS"
+msgstr "Peso argentin"
+
+msgid "CURRENCY-BOB"
+msgstr "bolivien"
+
+msgid "CURRENCY-CLP"
+msgstr "Peso chilien"
+
+msgid "CURRENCY-COP"
+msgstr "Peso colombien"
+
+msgid "CURRENCY-CRC"
+msgstr "Colon du Costa Rica"
+
+msgid "CURRENCY-DOP"
+msgstr "Peso dominicain"
+
+msgid "CURRENCY-GTQ"
+msgstr "Quetzal guatémaltèque"
+
+msgid "CURRENCY-HNL"
+msgstr "Lempira hondurien"
+
+msgid "CURRENCY-MXN"
+msgstr "Peso mexicain"
+
+msgid "CURRENCY-NIO"
+msgstr "Cordoue nicaraguayenne"
+
+msgid "CURRENCY-PAB"
+msgstr "Balboa panaméen"
+
+msgid "CURRENCY-PEN"
+msgstr "Nuevo sol péruvien"
+
+msgid "CURRENCY-PYG"
+msgstr "Guarani paraguayen"
+
+msgid "CURRENCY-SVC"
+msgstr "Colon salvadorien"
+
+msgid "CURRENCY-UYU"
+msgstr "Peso uruguayen"
+
+msgid "CURRENCY-VEF"
+msgstr "bolivar vénézuélien"
+
+msgid "CURRENCY-CNY"
+msgstr "Renminbi chinois"
+
+msgid "CURRENCY-RUB"
+msgstr "Rouble russe"
+
+msgid "CURRENCY-UAH"
+msgstr "Hryvnia ukrainienne"
+
+msgid "CURRENCY-BRL"
+msgstr "Réal brésilien"
+
+msgid "CURRENCY-JPY"
+msgstr "JPY"
+
+msgid "CURRENCY-AED"
+msgstr "Dirham des Émirats arabes unis"
+
+msgid "CURRENCY-BHD"
+msgstr "Dinar bahreïni"
+
+msgid "CURRENCY-DZD"
+msgstr "Dinar algérien"
+
+msgid "CURRENCY-EGP"
+msgstr "Livre égyptienne"
+
+msgid "CURRENCY-IQD"
+msgstr "Dinar irakien"
+
+msgid "CURRENCY-JOD"
+msgstr "Dinar jordanien"
+
+msgid "CURRENCY-KWD"
+msgstr "Dinar koweïtien"
+
+msgid "CURRENCY-LYD"
+msgstr "Dinar libyen"
+
+msgid "CURRENCY-MAD"
+msgstr "dirham marocain"
+
+msgid "CURRENCY-OMR"
+msgstr "Riyal d'Oman"
+
+msgid "CURRENCY-QAR"
+msgstr "Rial qatari"
+
+msgid "CURRENCY-SAR"
+msgstr "Rial saoudien"
+
+msgid "CURRENCY-SDG"
+msgstr "livre soudanaise"
+
+msgid "CURRENCY-SYP"
+msgstr "Lyre syrienne"
+
+msgid "CURRENCY-TND"
+msgstr "dinar tunisien"
+
+msgid "CURRENCY-YER"
+msgstr "riyal yéménite"
+
+msgid "CURRENCY-IDR"
+msgstr "Roupie indonésienne"
+
+msgid "CURRENCY-BDT"
+msgstr "Taka bangladais"
+
+msgid "CURRENCY-VND"
+msgstr "Đồng vietnamien"
+
+msgid "CURRENCY-THB"
+msgstr "Baht thaïlandais"
+
+msgid "CURRENCY-TRY"
+msgstr "Lire turque"
+
+msgid "CURRENCY-PLN"
+msgstr "Złoty polonais"
+
+msgid "CURRENCY-RON"
+msgstr "leu roumain"
+
+msgid "CURRENCY-MYR"
+msgstr "Ringgit malais"
+
+msgid "CURRENCY-DKK"
+msgstr "couronne danoise"
+
+msgid "CURRENCY-SEK"
+msgstr "Couronne suédoise"
+
+msgid "CURRENCY-BGN"
+msgstr "lev bulgare"
+
+msgid "CURRENCY-CZK"
+msgstr "Couronne tchèque"
+
+msgid "CURRENCY-HUF"
+msgstr "Forint hongrois"
+
+msgid "CURRENCY-KRW"
+msgstr "Won sud-coréen"
+
+msgid "CURRENCY-KPW"
+msgstr "Won nord-coréen"

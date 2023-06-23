@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "service_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICE_NOT_FOUND"
+msgstr "Dienst nicht gefunden"
+
+msgid "INFO_SERVICE_SAVE"
+msgstr "Dienst gespeichert"
+
+msgid "ERROR_SERVICE_SAVE"
+msgstr "Der Dienst konnte nicht gespeichert werden"
+
+msgid "INFO_SERVICE_EDIT"
+msgstr "Dienst geändert"
+
+msgid "ERROR_SERVICE_EDIT"
+msgstr "Es war nicht möglich, den Dienst zu ändern"
+
+msgid "INFO_SERVICE_DELETE"
+msgstr "Dienst gelöscht"
+
+msgid "ERROR_SERVICE_DELETE"
+msgstr "Der Dienst konnte nicht gelöscht werden"

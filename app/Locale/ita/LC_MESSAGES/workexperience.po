@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperience_ITA"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCE_NOT_FOUND"
+msgstr "Esperienza non trovata"
+
+msgid "INFO_WORKEXPERIENCE_SAVE"
+msgstr "Esperienza salvata"
+
+msgid "ERROR_WORKEXPERIENCE_SAVE"
+msgstr "Non è stato possibile salvare l'Esperienza"
+
+msgid "INFO_WORKEXPERIENCE_EDIT"
+msgstr "Esperienza modificata"
+
+msgid "ERROR_WORKEXPERIENCE_EDIT"
+msgstr "Non è stato possibile modificare l'Esperienza"
+
+msgid "INFO_WORKEXPERIENCE_DELETE"
+msgstr "Esperienza eliminata"
+
+msgid "ERROR_WORKEXPERIENCE_DELETE"
+msgstr "Non è stato possibile eliminare l'Esperienza"

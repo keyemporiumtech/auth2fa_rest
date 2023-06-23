@@ -1,0 +1,13 @@
+msgid "FILE_NAME_LAN"
+msgstr "authentication2fa_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_AF2A_GENERATE"
+msgstr "Fehler beim Generieren des Authentifizierungscodes"
+
+msgid "ERROR_AF2A_CHECK"
+msgstr "Fehler beim Verifizieren des Authentifizierungscodes"
+
+

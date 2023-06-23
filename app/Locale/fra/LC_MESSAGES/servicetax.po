@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "servicetax_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICETAX_NOT_FOUND"
+msgstr "Taxe introuvable"
+
+msgid "INFO_SERVICETAX_SAVE"
+msgstr "Taxe sauvée"
+
+msgid "ERROR_SERVICETAX_SAVE"
+msgstr "Il n'a pas été possible d'économiser la taxe"
+
+msgid "INFO_SERVICETAX_EDIT"
+msgstr "Taxe modifiée"
+
+msgid "ERROR_SERVICETAX_EDIT"
+msgstr "Il n'était pas possible de modifier la taxe"
+
+msgid "INFO_SERVICETAX_DELETE"
+msgstr "Taxe éliminée"
+
+msgid "ERROR_SERVICETAX_DELETE"
+msgstr "Il n'a pas été possible d'éliminer la taxe"

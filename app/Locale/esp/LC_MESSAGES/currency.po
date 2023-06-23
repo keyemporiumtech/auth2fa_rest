@@ -1,0 +1,45 @@
+msgid "FILE_NAME_LAN"
+msgstr "currency_ESP"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "ERROR_CURRENCY_NOT_FOUND"
+msgstr "Moneda no encontrada"
+
+msgid "INFO_CURRENCY_SAVE"
+msgstr "Moneda guardada"
+
+msgid "ERROR_CURRENCY_SAVE"
+msgstr "No se pudo guardar la moneda"
+
+msgid "INFO_CURRENCY_EDIT"
+msgstr "Moneda cambiada"
+
+msgid "ERROR_CURRENCY_EDIT"
+msgstr "No se pudo cambiar la moneda"
+
+msgid "INFO_CURRENCY_DELETE"
+msgstr "Moneda eliminada"
+
+msgid "ERROR_CURRENCY_DELETE"
+msgstr "No se pudo eliminar la moneda"
+
+msgid "ERROR_CURRENCY_COD"
+msgstr "No se encontraron monedas con el código %s"
+
+msgid "ERROR_CURRENCY_SETUP"
+msgstr "No se pudo cambiar la moneda del sistema"
+
+msgid "INFO_CURRENCY_CHANGE"
+msgstr "Conjunto de moneda del sistema: %s"
+
+msgid "INFO_CURRENCY_CHANGE_DEFAULT"
+msgstr "Moneda del sistema establecida en el idioma predeterminado: %s"
+
+msgid "ERROR_CURRENCY_CHANGE_DEFAULT"
+msgstr "Moneda predeterminada no establecida en json"
+
+msgid "ERROR_CURRENCY_CONVERTER"
+msgstr "Error de conversión de moneda"
+

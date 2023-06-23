@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "productreservesetting_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRODUCTRESERVATIONSETTING_NOT_FOUND"
+msgstr "Paramètre de réservation introuvable"
+
+msgid "INFO_PRODUCTRESERVATIONSETTING_SAVE"
+msgstr "Paramètre de réservation enregistré"
+
+msgid "ERROR_PRODUCTRESERVATIONSETTING_SAVE"
+msgstr "La configuration de la réservation n'a pas pu être enregistrée"
+
+msgid "INFO_PRODUCTRESERVATIONSETTING_EDIT"
+msgstr "Paramètre de réservation modifié"
+
+msgid "ERROR_PRODUCTRESERVATIONSETTING_EDIT"
+msgstr "Le paramètre de réservation n'a pas pu être modifié"
+
+msgid "INFO_PRODUCTRESERVATIONSETTING_DELETE"
+msgstr "Paramètre de réservation supprimé"
+
+msgid "ERROR_PRODUCTRESERVATIONSETTING_DELETE"
+msgstr "Le paramètre de réservation n'a pas pu être supprimé"

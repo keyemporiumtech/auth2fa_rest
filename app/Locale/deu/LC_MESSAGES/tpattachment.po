@@ -1,0 +1,44 @@
+msgid "FILE_NAME_LAN"
+msgstr "tpattachment_DEU"
+
+msgid "MODULE"
+msgstr "resources"
+
+msgid "TPATTACHMENT_CI"
+msgstr "Personalausweis"
+
+msgid "TPATTACHMENT_PASSPORT"
+msgstr "Reisepass"
+
+msgid "TPATTACHMENT_CF"
+msgstr "Steuer-ID-Code"
+
+msgid "TPATTACHMENT_ADDRESS"
+msgstr "Wohnsitzbescheinigung"
+
+msgid "TPATTACHMENT_CV"
+msgstr "Curriculum Vitae"
+
+msgid "TPATTACHMENT_IMAGE"
+msgstr "Foto"
+
+msgid "TPATTACHMENT_BOOK"
+msgstr "Buch"
+
+msgid "TPATTACHMENT_AUDIO"
+msgstr "Audio"
+
+msgid "TPATTACHMENT_VIDEO"
+msgstr "Video"
+
+msgid "TPATTACHMENT_DOC"
+msgstr "Dokumentieren"
+
+msgid "TPATTACHMENT_SONG"
+msgstr "Lied"
+
+msgid "TPATTACHMENT_MOVIE"
+msgstr "Film"
+
+msgid "TPATTACHMENT_DRIVING"
+msgstr "Führerschein"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "category_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_CATEGORY_NOT_FOUND"
+msgstr "Category not found"
+
+msgid "INFO_CATEGORY_SAVE"
+msgstr "Category saved"
+
+msgid "ERROR_CATEGORY_SAVE"
+msgstr "The Category could not be saved"
+
+msgid "INFO_CATEGORY_EDIT"
+msgstr "Category changed"
+
+msgid "ERROR_CATEGORY_EDIT"
+msgstr "It was not possible to change the Category"
+
+msgid "INFO_CATEGORY_DELETE"
+msgstr "Category deleted"
+
+msgid "ERROR_CATEGORY_DELETE"
+msgstr "The Category could not be deleted"

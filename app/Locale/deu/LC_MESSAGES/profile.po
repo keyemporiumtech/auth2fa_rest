@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "profile_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_PROFILE_NOT_FOUND"
+msgstr "Benutzerprofil nicht gefunden"
+
+msgid "INFO_PROFILE_SAVE"
+msgstr "Benutzerprofil gespeichert"
+
+msgid "ERROR_PROFILE_SAVE"
+msgstr "Das Benutzerprofil konnte nicht gespeichert werden"
+
+msgid "INFO_PROFILE_EDIT"
+msgstr "Benutzerprofil geändert"
+
+msgid "ERROR_PROFILE_EDIT"
+msgstr "Das Benutzerprofil konnte nicht bearbeitet werden"
+
+msgid "INFO_PROFILE_DELETE"
+msgstr "Benutzerprofil gelöscht"
+
+msgid "ERROR_PROFILE_DELETE"
+msgstr "Das Benutzerprofil konnte nicht gelöscht werden"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "useroauthsocial_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USEROAUTHSOCIAL_NOT_FOUND"
+msgstr "oauth developer not found"
+
+msgid "INFO_USEROAUTHSOCIAL_SAVE"
+msgstr "oauth developer saved"
+
+msgid "ERROR_USEROAUTHSOCIAL_SAVE"
+msgstr "The oauth developer could not be saved"
+
+msgid "INFO_USEROAUTHSOCIAL_EDIT"
+msgstr "oauth developer changed"
+
+msgid "ERROR_USEROAUTHSOCIAL_EDIT"
+msgstr "The oauth developer could not be changed"
+
+msgid "INFO_USEROAUTHSOCIAL_DELETE"
+msgstr "oauth developer eliminated"
+
+msgid "ERROR_USEROAUTHSOCIAL_DELETE"
+msgstr "The oauth developer could not be deleted"

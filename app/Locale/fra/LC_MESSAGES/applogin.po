@@ -1,0 +1,15 @@
+msgid "FILE_NAME_LAN"
+msgstr "applogin_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_LOGIN_TOKEN"
+msgstr "Utilisateur non activé. Vérifiez que vous êtes correctement connecté"
+
+msgid "ERROR_SESSION_EXPIRED"
+msgstr "Session utilisateur expirée"
+
+msgid "ERROR_PROFILE_DEFAULT"
+msgstr "Aucun profil trouvé pour l'utilisateur"
+

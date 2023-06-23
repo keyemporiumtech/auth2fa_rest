@@ -1,0 +1,20 @@
+msgid "FILE_NAME_LAN"
+msgstr "cookie_DEU"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_COOKIES_UPDATE"
+msgstr "Die Cookie-Einstellungen konnten nicht aktualisiert werden"
+
+msgid "ERROR_COOKIES_LIST"
+msgstr "Die Cookie-Liste konnte nicht abgerufen werden"
+
+msgid "ERROR_COOKIES_STATUS"
+msgstr "Der Status der Cookies konnte nicht gelesen werden"
+
+msgid "ERROR_COOKIE_NOT_FOUND"
+msgstr "Cookie nicht gefunden"
+
+msgid "LOG_COOKIE_NOT_FOUND"
+msgstr "Cookie %s nicht gefunden"

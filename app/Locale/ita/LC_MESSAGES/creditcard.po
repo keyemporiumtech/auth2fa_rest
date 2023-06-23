@@ -1,0 +1,24 @@
+msgid "FILE_NAME_LAN"
+msgstr "creditcard_ITA"
+
+msgid "MODULE"
+msgstr "validator_creditcard"
+
+msgid "ERRON_VALIDATE"
+msgstr "Non è possibile validare il numero di carta fornito"
+
+msgid "ERRON_VALIDATE_NOT_VALID"
+msgstr "Numero di carta non valido"
+
+msgid "ERRON_VALIDATE_NOT_FOUND"
+msgstr "Numero di carta non trovato"
+
+msgid "ERRON_VALIDATE_LENGTH"
+msgstr "Numero di carta non valido: Numero di caratteri errato"
+
+msgid "ERRON_VALIDATE_EXPIRATION"
+msgstr "Numero di carta non valido: Data di scadenza errata"
+
+msgid "ERRON_VALIDATE_CVC"
+msgstr "Numero di carta non valido: Codice di sicurezza errato"
+

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "grouprelation_FRA"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_GROUPRELATION_NOT_FOUND"
+msgstr "Relation de groupe d'entités introuvable"
+
+msgid "INFO_GROUPRELATION_SAVE"
+msgstr "Relation de groupe d'entités enregistrée"
+
+msgid "ERROR_GROUPRELATION_SAVE"
+msgstr "La relation de groupe d'entités n'a pas pu être enregistrée"
+
+msgid "INFO_GROUPRELATION_EDIT"
+msgstr "Relation de groupe d'entités modifiée"
+
+msgid "ERROR_GROUPRELATION_EDIT"
+msgstr "La relation de groupe d'entités n'a pas pu être modifiée"
+
+msgid "INFO_GROUPRELATION_DELETE"
+msgstr "Relation de groupe d'entités supprimée"
+
+msgid "ERROR_GROUPRELATION_DELETE"
+msgstr "La relation de groupe d'entités n'a pas pu être supprimée"

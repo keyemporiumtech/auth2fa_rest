@@ -1,0 +1,11 @@
+msgid "FILE_NAME_LAN"
+msgstr "sole24ore_FRA"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "ERROR_CURL_CONVERT"
+msgstr "L'appel rest CurrentRate a abouti à une réponse vide"
+
+msgid "EXCEPTION_CONVERT_CURRENCY_EMPTY"
+msgstr "Le plugin sole24ore n'a effectué aucun appel de conversion car l'une ou les deux devises demandées n'ont pas été fournies (de: %s, à: %s)"

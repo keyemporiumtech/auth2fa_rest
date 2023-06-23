@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "attachment_ENG"
+
+msgid "MODULE"
+msgstr "resources"
+
+msgid "ERROR_ATTACHMENT_NOT_FOUND"
+msgstr "Attachment not found"
+
+msgid "INFO_ATTACHMENT_SAVE"
+msgstr "Attachment saved"
+
+msgid "ERROR_ATTACHMENT_SAVE"
+msgstr "The attachment could not be saved"
+
+msgid "INFO_ATTACHMENT_EDIT"
+msgstr "Attachment modified"
+
+msgid "ERROR_ATTACHMENT_EDIT"
+msgstr "It was not possible to edit the Attachment"
+
+msgid "INFO_ATTACHMENT_DELETE"
+msgstr "Attachment deleted"
+
+msgid "ERROR_ATTACHMENT_DELETE"
+msgstr "It was not possible to delete the Attachment"

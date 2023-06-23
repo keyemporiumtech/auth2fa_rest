@@ -1,0 +1,29 @@
+msgid "FILE_NAME_LAN"
+msgstr "workactivity_ITA"
+
+msgid "MODULE"
+msgstr "work_profile"
+
+msgid "ERROR_WORKACTIVITY_NOT_FOUND"
+msgstr "Gestione Attività non trovata"
+
+msgid "INFO_WORKACTIVITY_SAVE"
+msgstr "Gestione Attività salvata"
+
+msgid "ERROR_WORKACTIVITY_SAVE"
+msgstr "Non è stato possibile salvare la Gestione Attività"
+
+msgid "INFO_WORKACTIVITY_EDIT"
+msgstr "Gestione Attività modificata"
+
+msgid "ERROR_WORKACTIVITY_EDIT"
+msgstr "Non è stato possibile modificare la Gestione Attività"
+
+msgid "INFO_WORKACTIVITY_DELETE"
+msgstr "Gestione Attività eliminata"
+
+msgid "ERROR_WORKACTIVITY_DELETE"
+msgstr "Non è stato possibile eliminare la Gestione Attività"
+
+msgid "ERROR_WORKACTIVITY_CREATE_BY_ACTIVITY"
+msgstr "Non è stato possibile creare la Gestione Attività"

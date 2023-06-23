@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticketreservesetting_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETRESERVESETTING_NOT_FOUND"
+msgstr "ticket reservation not found"
+
+msgid "INFO_TICKETRESERVESETTING_SAVE"
+msgstr "ticket reservation saved"
+
+msgid "ERROR_TICKETRESERVESETTING_SAVE"
+msgstr "The ticket reservation could not be saved"
+
+msgid "INFO_TICKETRESERVESETTING_EDIT"
+msgstr "ticket reservation changed"
+
+msgid "ERROR_TICKETRESERVESETTING_EDIT"
+msgstr "It was not possible to change the attached ticket"
+
+msgid "INFO_TICKETRESERVESETTING_DELETE"
+msgstr "ticket reservation removed"
+
+msgid "ERROR_TICKETRESERVESETTING_DELETE"
+msgstr "The ticket reservation could not be deleted"

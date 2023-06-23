@@ -1,0 +1,17 @@
+msgid "FILE_NAME_LAN"
+msgstr "appgenericbs_ESP"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_OBJECT_NOT_FOUND"
+msgstr "Objeto no encontrado para la clase %s"
+
+msgid "ERROR_OBJECT_CLASS_NOT_FOUND"
+msgstr "La clase %s no existe en los datos recibidos"
+
+msgid "ERROR_EMPTY_LIST"
+msgstr "No se encontraron registros"
+
+msgid "ERROR_CURL"
+msgstr "La llamada Curl rest: %s arrojó una excepción"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "cryptnote_ENG"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_CRYPTNOTE_NOT_FOUND"
+msgstr "Note not found"
+
+msgid "INFO_CRYPTNOTE_SAVE"
+msgstr "Note saved"
+
+msgid "ERROR_CRYPTNOTE_SAVE"
+msgstr "Note could not be saved"
+
+msgid "INFO_CRYPTNOTE_EDIT"
+msgstr "Note Changed"
+
+msgid "ERROR_CRYPTNOTE_EDIT"
+msgstr "Note could not be edited"
+
+msgid "INFO_CRYPTNOTE_DELETE"
+msgstr "Note deleted"
+
+msgid "ERROR_CRYPTNOTE_DELETE"
+msgstr "Note could not be deleted"

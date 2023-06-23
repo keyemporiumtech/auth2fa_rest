@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperiencerole_DEU"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCEROLE_NOT_FOUND"
+msgstr "Geschäftsrolle nicht gefunden"
+
+msgid "INFO_WORKEXPERIENCEROLE_SAVE"
+msgstr "Geschäftsrolle gespeichert"
+
+msgid "ERROR_WORKEXPERIENCEROLE_SAVE"
+msgstr "Die Geschäftsrolle konnte nicht gespeichert werden"
+
+msgid "INFO_WORKEXPERIENCEROLE_EDIT"
+msgstr "Geschäftsrolle geändert"
+
+msgid "ERROR_WORKEXPERIENCEROLE_EDIT"
+msgstr "Die Geschäftsrolle konnten nicht geändert werden"
+
+msgid "INFO_WORKEXPERIENCEROLE_DELETE"
+msgstr "Geschäftsrolle gelöschte"
+
+msgid "ERROR_WORKEXPERIENCEROLE_DELETE"
+msgstr "Die Geschäftsrolle konnte nicht gelöscht werden"

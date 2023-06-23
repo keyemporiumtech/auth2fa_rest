@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workskill_ITA"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKSKILL_NOT_FOUND"
+msgstr "Competenza non trovata"
+
+msgid "INFO_WORKSKILL_SAVE"
+msgstr "Competenza salvata"
+
+msgid "ERROR_WORKSKILL_SAVE"
+msgstr "Non è stato possibile salvare la Competenza"
+
+msgid "INFO_WORKSKILL_EDIT"
+msgstr "Competenza modificata"
+
+msgid "ERROR_WORKSKILL_EDIT"
+msgstr "Non è stato possibile modificare la Competenza"
+
+msgid "INFO_WORKSKILL_DELETE"
+msgstr "Competenza eliminata"
+
+msgid "ERROR_WORKSKILL_DELETE"
+msgstr "Non è stato possibile eliminare la Competenza"

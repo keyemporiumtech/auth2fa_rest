@@ -1,0 +1,13 @@
+msgid "FILE_NAME_LAN"
+msgstr "authentication2fa_ESP"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_AF2A_GENERATE"
+msgstr "Error al generar el código de autenticación"
+
+msgid "ERROR_AF2A_CHECK"
+msgstr "Error al verificar el código de autenticación"
+
+

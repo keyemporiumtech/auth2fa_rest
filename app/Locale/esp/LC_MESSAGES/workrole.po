@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workrole_ESP"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKROLE_NOT_FOUND"
+msgstr "Rol comercial no encontrado"
+
+msgid "INFO_WORKROLE_SAVE"
+msgstr "Rol comercial guardado"
+
+msgid "ERROR_WORKROLE_SAVE"
+msgstr "No fue posible guardar el Rol comercial"
+
+msgid "INFO_WORKROLE_EDIT"
+msgstr "Rol comercial modificado"
+
+msgid "ERROR_WORKROLE_EDIT"
+msgstr "No fue posible modificar el Rol comercial"
+
+msgid "INFO_WORKROLE_DELETE"
+msgstr "Rol comercial eliminado"
+
+msgid "ERROR_WORKROLE_DELETE"
+msgstr "No fue posible eliminar el Rol comercial"

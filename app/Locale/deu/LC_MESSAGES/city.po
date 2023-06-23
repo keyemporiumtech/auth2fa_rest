@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "city_DEU"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_CITY_NOT_FOUND"
+msgstr "Stadt nicht gefunden"
+
+msgid "INFO_CITY_SAVE"
+msgstr "Stadt gerettet"
+
+msgid "ERROR_CITY_SAVE"
+msgstr "Die Stadt konnte nicht gerettet werden"
+
+msgid "INFO_CITY_EDIT"
+msgstr "Stadt gewechselt"
+
+msgid "ERROR_CITY_EDIT"
+msgstr "Die Stadt konnte nicht geändert werden"
+
+msgid "INFO_CITY_DELETE"
+msgstr "Stadt beseitigt"
+
+msgid "ERROR_CITY_DELETE"
+msgstr "Die Stadt konnte nicht gelöscht werden"

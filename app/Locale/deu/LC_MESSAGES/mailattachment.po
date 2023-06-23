@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailattachment_DEU"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILATTACHMENT_NOT_FOUND"
+msgstr "E-Mail-Anhang nicht gefunden"
+
+msgid "INFO_MAILATTACHMENT_SAVE"
+msgstr "E-Mail-Anhang gespeichert"
+
+msgid "ERROR_MAILATTACHMENT_SAVE"
+msgstr "Der E-Mail-Anhang konnte nicht gespeichert werden"
+
+msgid "INFO_MAILATTACHMENT_EDIT"
+msgstr "E-Mail-Anhang geändert"
+
+msgid "ERROR_MAILATTACHMENT_EDIT"
+msgstr "Der Anhang der E-Mail konnte nicht bearbeitet werden"
+
+msgid "INFO_MAILATTACHMENT_DELETE"
+msgstr "E-Mail-Anhang gelöscht"
+
+msgid "ERROR_MAILATTACHMENT_DELETE"
+msgstr "Der E-Mail-Anhang konnte nicht gelöscht werden"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "nation_FRA"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_NATION_NOT_FOUND"
+msgstr "Nation introuvable"
+
+msgid "INFO_NATION_SAVE"
+msgstr "Nation sauvée"
+
+msgid "ERROR_NATION_SAVE"
+msgstr "Il n'était pas possible de sauver la nation"
+
+msgid "INFO_NATION_EDIT"
+msgstr "La nation a changé"
+
+msgid "ERROR_NATION_EDIT"
+msgstr "Il n'était pas possible de changer la nation"
+
+msgid "INFO_NATION_DELETE"
+msgstr "Nation éliminé"
+
+msgid "ERROR_NATION_DELETE"
+msgstr "Il n'était pas possible d'éliminer la nation"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperience_ENG"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCE_NOT_FOUND"
+msgstr "Work experience not found"
+
+msgid "INFO_WORKEXPERIENCE_SAVE"
+msgstr "Work experience saved"
+
+msgid "ERROR_WORKEXPERIENCE_SAVE"
+msgstr "It was not possible to save the Work experience"
+
+msgid "INFO_WORKEXPERIENCE_EDIT"
+msgstr "Work experience changed"
+
+msgid "ERROR_WORKEXPERIENCE_EDIT"
+msgstr "It was not possible to change the Work experience"
+
+msgid "INFO_WORKEXPERIENCE_DELETE"
+msgstr "Work experience deleted"
+
+msgid "ERROR_WORKEXPERIENCE_DELETE"
+msgstr "It was not possible to delete the Work experience"

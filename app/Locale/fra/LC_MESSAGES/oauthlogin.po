@@ -1,0 +1,44 @@
+msgid "FILE_NAME_LAN"
+msgstr "oauthlogin_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USER_EMPTY"
+msgstr "Utilisateur absent"
+
+msgid "ERROR_OAUTH_ID_EMPTY"
+msgstr "ID d'authentification absent"
+
+msgid "ERROR_USERNAME_EMPTY"
+msgstr "E-mail d'authentification absent"
+
+msgid "ERROR_NAME_EMPTY"
+msgstr "Nom d'utilisateur non présent"
+
+msgid "ERROR_SURNAME_EMPTY"
+msgstr "Nom de famille de l'utilisateur non présent"
+
+msgid "ERROR_BORN_EMPTY"
+msgstr "La date de naissance de l'utilisateur n'est pas présente"
+
+msgid "ERROR_SAVE_OAUTH"
+msgstr "Oauth non enregistré"
+
+msgid "ERROR_SAVE_EMAIL"
+msgstr "E-mail non enregistré"
+
+msgid "ERROR_SAVE_PHONE"
+msgstr "Téléphone non enregistré"
+
+msgid "ERROR_SAVE_ADDRESS"
+msgstr "Adresse non enregistrée"
+
+msgid "ERROR_SAVE_IMAGE"
+msgstr "Photo de profil non enregistrée"
+
+msgid "ERROR_OAUTH_CHECK"
+msgstr "L'utilisateur n'a pas pu être récupéré de nos systèmes"
+
+msgid "ERROR_OAUTH_REGISTER"
+msgstr "Il n'a pas été possible d'enregistrer l'utilisateur dans nos systèmes"

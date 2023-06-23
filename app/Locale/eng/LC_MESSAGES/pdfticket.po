@@ -1,0 +1,24 @@
+msgid "FILE_NAME_LAN"
+msgstr "pdfticket_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "TICKET_FOOTER"
+msgstr "Event ticket"
+
+msgid "TICKET_EVENT_DATE"
+msgstr "On %s"
+
+msgid "TICKET_EVENT_HOUR"
+msgstr "At %s"
+
+msgid "TICKET_EVENT_PLACE"
+msgstr "At %s"
+
+msgid "TICKET_EVENT_DESTINATOR"
+msgstr "To %s"
+
+msgid "TICKET_EVENT_PRICE"
+msgstr "Price %s"
+

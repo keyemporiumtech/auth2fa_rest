@@ -1,0 +1,9 @@
+http://www.fpdf.org/makefont/make.php
+oppure
+http://localhost/keytemplate/demo/generatore_font
+
+SCARICA I TTF DA
+http://www.cufonfonts.com
+METTILI NELLA CARTELLA E LANCIA IL GENERATOR
+
+CONVERTI GLI OTF IN TTF DA : https://everythingfonts.com/otf-to-ttf

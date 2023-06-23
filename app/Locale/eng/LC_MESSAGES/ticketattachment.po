@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticketattachment_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETATTACHMENT_NOT_FOUND"
+msgstr "ticket attachment not found"
+
+msgid "INFO_TICKETATTACHMENT_SAVE"
+msgstr "ticket attachment saved"
+
+msgid "ERROR_TICKETATTACHMENT_SAVE"
+msgstr "The ticket attachment could not be saved"
+
+msgid "INFO_TICKETATTACHMENT_EDIT"
+msgstr "ticket attachment changed"
+
+msgid "ERROR_TICKETATTACHMENT_EDIT"
+msgstr "It was not possible to change the attached ticket"
+
+msgid "INFO_TICKETATTACHMENT_DELETE"
+msgstr "ticket attachment removed"
+
+msgid "ERROR_TICKETATTACHMENT_DELETE"
+msgstr "The ticket attachment could not be deleted"

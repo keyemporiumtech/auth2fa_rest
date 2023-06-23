@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "servicereservesetting_ITA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICERESERVATIONSETTING_NOT_FOUND"
+msgstr "Impostazione di prenotazione non trovata"
+
+msgid "INFO_SERVICERESERVATIONSETTING_SAVE"
+msgstr "Impostazione di prenotazione salvata"
+
+msgid "ERROR_SERVICERESERVATIONSETTING_SAVE"
+msgstr "Non è stato possibile salvare la Impostazione di prenotazione"
+
+msgid "INFO_SERVICERESERVATIONSETTING_EDIT"
+msgstr "Impostazione di prenotazione modificata"
+
+msgid "ERROR_SERVICERESERVATIONSETTING_EDIT"
+msgstr "Non è stato possibile modificare la Impostazione di prenotazione"
+
+msgid "INFO_SERVICERESERVATIONSETTING_DELETE"
+msgstr "Impostazione di prenotazione eliminata"
+
+msgid "ERROR_SERVICERESERVATIONSETTING_DELETE"
+msgstr "Non è stato possibile eliminare la Impostazione di prenotazione"

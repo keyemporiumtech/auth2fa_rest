@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "userreport_ESP"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERREPORT_NOT_FOUND"
+msgstr "Informe no encontrado"
+
+msgid "INFO_USERREPORT_SAVE"
+msgstr "Informe guardado"
+
+msgid "ERROR_USERREPORT_SAVE"
+msgstr "No se pudo guardar el informe"
+
+msgid "INFO_USERREPORT_EDIT"
+msgstr "Informe modificado"
+
+msgid "ERROR_USERREPORT_EDIT"
+msgstr "No fue posible editar el informe."
+
+msgid "INFO_USERREPORT_DELETE"
+msgstr "Informe eliminado"
+
+msgid "ERROR_USERREPORT_DELETE"
+msgstr "No se pudo eliminar el informe."

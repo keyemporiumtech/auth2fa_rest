@@ -1,0 +1,35 @@
+msgid "FILE_NAME_LAN"
+msgstr "tppayment_ITA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "TPPAYMENT_BON"
+msgstr "Bonifico"
+
+msgid "TPPAYMENT_BOL"
+msgstr "Bollettino"
+
+msgid "TPPAYMENT_RID"
+msgstr "RID o SEPA"
+
+msgid "TPPAYMENT_WEB"
+msgstr "Web Banking"
+
+msgid "TPPAYMENT_CNT"
+msgstr "Contanti"
+
+msgid "TPPAYMENT_ASS"
+msgstr "Assegno"
+
+msgid "TPPAYMENT_ASC"
+msgstr "Assegno Circolare"
+
+msgid "TPPAYMENT_CMB"
+msgstr "Cambiali o Tratte"
+
+msgid "TPPAYMENT_RCV"
+msgstr "Ricevuta bancaria"
+
+msgid "TPPAYMENT_MAV"
+msgstr "MAV"

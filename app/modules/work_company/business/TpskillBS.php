@@ -1,0 +1,10 @@
+<?php
+App::uses("AppGenericBS", "modules/cakeutils/classes");
+App::uses("Tpskill", "Model");
+
+class TpskillBS extends AppGenericBS {
+
+	function __construct() {
+		parent::__construct('Tpskill');
+	}
+}

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "servicereservesetting_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICERESERVATIONSETTING_NOT_FOUND"
+msgstr "Paramètre de réservation introuvable"
+
+msgid "INFO_SERVICERESERVATIONSETTING_SAVE"
+msgstr "Paramètre de réservation enregistré"
+
+msgid "ERROR_SERVICERESERVATIONSETTING_SAVE"
+msgstr "La configuration de la réservation n'a pas pu être enregistrée"
+
+msgid "INFO_SERVICERESERVATIONSETTING_EDIT"
+msgstr "Paramètre de réservation modifié"
+
+msgid "ERROR_SERVICERESERVATIONSETTING_EDIT"
+msgstr "Le paramètre de réservation n'a pas pu être modifié"
+
+msgid "INFO_SERVICERESERVATIONSETTING_DELETE"
+msgstr "Paramètre de réservation supprimé"
+
+msgid "ERROR_SERVICERESERVATIONSETTING_DELETE"
+msgstr "Le paramètre de réservation n'a pas pu être supprimé"

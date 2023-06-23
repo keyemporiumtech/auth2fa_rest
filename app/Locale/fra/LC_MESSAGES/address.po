@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "address_FRA"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_ADDRESS_NOT_FOUND"
+msgstr "Adresse introuvable"
+
+msgid "INFO_ADDRESS_SAVE"
+msgstr "Adresse enregistrée"
+
+msgid "ERROR_ADDRESS_SAVE"
+msgstr "L'adresse n'a pas pu être enregistrée"
+
+msgid "INFO_ADDRESS_EDIT"
+msgstr "Adresse modifiée"
+
+msgid "ERROR_ADDRESS_EDIT"
+msgstr "Il n'a pas été possible de changer l'adresse"
+
+msgid "INFO_ADDRESS_DELETE"
+msgstr "Adresse supprimée"
+
+msgid "ERROR_ADDRESS_DELETE"
+msgstr "L'adresse n'a pas pu être supprimée"

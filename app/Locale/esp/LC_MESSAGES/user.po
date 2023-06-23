@@ -1,0 +1,101 @@
+msgid "FILE_NAME_LAN"
+msgstr "user_ESP"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USER_NOT_FOUND"
+msgstr "Usuario no encontrado"
+
+msgid "INFO_USER_SAVE"
+msgstr "Usuario guardado"
+
+msgid "ERROR_USER_SAVE"
+msgstr "No se pudo guardar el usuario"
+
+msgid "INFO_USER_EDIT"
+msgstr "Usuario cambiado"
+
+msgid "ERROR_USER_EDIT"
+msgstr "No se pudo cambiar el usuario"
+
+msgid "INFO_USER_DELETE"
+msgstr "Usuario eliminado"
+
+msgid "ERROR_USER_DELETE"
+msgstr "No se pudo eliminar el usuario"
+
+msgid "INFO_USER_LOGIN"
+msgstr "Iniciado sesión por %s con token %s"
+
+msgid "ERROR_USER_LOGIN_NOT_VALID"
+msgstr "No se encontró el inicio de sesión con el nombre de usuario %s y la contraseña %s"
+
+msgid "ERROR_CONFIRMLOGIN_TOKEN_EXPIRED"
+msgstr "La suma de comprobación ha caducado. Repita la operación de inicio de sesión"
+
+msgid "ERROR_CONTROL_CODE_EXPIRED"
+msgstr "El código de operación %s se encontró en el archivo pero el token ha caducado"
+
+msgid "INFO_USER_LOGOUT"
+msgstr "Salió de %s con token %s"
+
+msgid "INFO_SESSION_EXPIRED"
+msgstr "Sesión agotada para %s con token %s"
+
+msgid "INFO_USER_PASSWORD_RESTORED"
+msgstr "El usuario %s recuperó la contraseña %s en %s"
+
+msgid "INFO_RESTORE_PASSWORD"
+msgstr "Contraseña recuperada"
+
+msgid "ERROR_RESTORE_PASSWORD"
+msgstr "No se pudo recuperar la contraseña"
+
+msgid "INFO_USER_PASSWORD_CHANGED"
+msgstr "El usuario %s cambió la contraseña %s a %s"
+
+msgid "INFO_CHANGE_PASSWORD"
+msgstr "Contraseña cambiada"
+
+msgid "ERROR_CHANGE_PASSWORD"
+msgstr "No se pudo cambiar la contraseña"
+
+msgid "ERROR_CHANGE_PASSWORD_OLD_PASSWORD"
+msgstr "La contraseña anterior no coincide"
+
+msgid "ERROR_OLD_PASSWORD_NOT_EQUAL"
+msgstr "La antigua contraseña proporcionada %s no coincide con la registrada %s"
+
+msgid "ERROR_REMIND_PASSWORD"
+msgstr "No fue posible recordar la contraseña."
+
+msgid "INFO_SEND_CODE_LOGIN"
+msgstr "Hemos enviado un código de verificación para verificar su identidad."
+
+msgid "ERROR_CHANGE_PROFILE"
+msgstr "No se pudo cambiar el perfil."
+
+msgid "ERROR_CHANGE_PROFILE_USER_NOT_SESSION"
+msgstr "Está intentando asignar el perfil %s al usuario %s que no ha iniciado sesión en el sistema"
+
+msgid "INFO_CHANGE_PROFILE"
+msgstr "Perfil cambiado a %s"
+
+msgid "ERROR_PROFILE_NOT_FOUND"
+msgstr "No se pudo recuperar el perfil"
+
+msgid "ERROR_USER_NOT_PERMISSION"
+msgstr "Usuario no autorizado para la operación"
+
+msgid "ERROR_USER_NOT_PERMISSION_DETAIL"
+msgstr "El usuario %s no tiene permisos de %s"
+
+msgid "ERROR_USER_NOT_LOGGED"
+msgstr "Usuario no registrado"
+
+msgid "ERROR_SESSION_USERNAME"
+msgstr "Otra sesión estaba activa para el usuario. Inicie sesión de nuevo"
+
+msgid "ERROR_SESSION_LOGIN_NOT_VALID"
+msgstr "Otra sesión estaba activa para el usuario con nombre de usuario %s"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "tickettax_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETTAX_NOT_FOUND"
+msgstr "Ticketgebühr nicht gefunden"
+
+msgid "INFO_TICKETTAX_SAVE"
+msgstr "Ticketgebühr gespeichert"
+
+msgid "ERROR_TICKETTAX_SAVE"
+msgstr "Der Ticketgebühr konnte nicht gespeichert werden"
+
+msgid "INFO_TICKETTAX_EDIT"
+msgstr "Ticketgebühr geändert"
+
+msgid "ERROR_TICKETTAX_EDIT"
+msgstr "Der Ticketgebühr konnte nicht geändert werden"
+
+msgid "INFO_TICKETTAX_DELETE"
+msgstr "Ticketgebühr gelöscht"
+
+msgid "ERROR_TICKETTAX_DELETE"
+msgstr "Der Ticketgebühr konnte nicht gelöscht werden"

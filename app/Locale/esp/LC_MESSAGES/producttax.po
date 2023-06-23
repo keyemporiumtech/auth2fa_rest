@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "producttax_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRODUCTTAX_NOT_FOUND"
+msgstr "Tarifa no encontrada"
+
+msgid "INFO_PRODUCTTAX_SAVE"
+msgstr "Tarifa guardada"
+
+msgid "ERROR_PRODUCTTAX_SAVE"
+msgstr "No fue posible ahorrar la tarifa"
+
+msgid "INFO_PRODUCTTAX_EDIT"
+msgstr "Tarifa modificada"
+
+msgid "ERROR_PRODUCTTAX_EDIT"
+msgstr "No fue posible cambiar la tarifa."
+
+msgid "INFO_PRODUCTTAX_DELETE"
+msgstr "Tarifa eliminada"
+
+msgid "ERROR_PRODUCTTAX_DELETE"
+msgstr "No fue posible eliminar la tarifa"

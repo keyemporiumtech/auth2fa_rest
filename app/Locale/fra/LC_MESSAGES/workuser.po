@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workuser_FRA"
+
+msgid "MODULE"
+msgstr "work_profile"
+
+msgid "ERROR_WORKUSER_NOT_FOUND"
+msgstr "Gestion des utilisateurs introuvable"
+
+msgid "INFO_WORKUSER_SAVE"
+msgstr "Gestion des utilisateurs enregistré"
+
+msgid "ERROR_WORKUSER_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer la Gestion des utilisateurs"
+
+msgid "INFO_WORKUSER_EDIT"
+msgstr "Gestion des utilisateurs modifié"
+
+msgid "ERROR_WORKUSER_EDIT"
+msgstr "Il n'a pas été possible de modifier la Gestion des utilisateurs"
+
+msgid "INFO_WORKUSER_DELETE"
+msgstr "Gestion des utilisateurs supprimé"
+
+msgid "ERROR_WORKUSER_DELETE"
+msgstr "Il n'a pas été possible de supprimer la Gestion des utilisateurs"

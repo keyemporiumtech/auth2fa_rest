@@ -1,0 +1,11 @@
+{
+  "bs": "business",
+  "ui": "delegate",
+  "db": "query",
+  "controller": "controller",
+  "mail": "mail",
+  "printcodes": "printcodes",
+  "pdf": "pdf",
+  "currency": "currency",
+  "shop": "shop"
+}

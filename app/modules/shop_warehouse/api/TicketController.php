@@ -1,0 +1,844 @@
+<?php
+App::uses("AppController", "Controller");
+App::uses("TicketUI", "modules/shop_warehouse/delegate");
+App::uses("AppclientUtility", "modules/authentication/utility");
+
+class TicketController extends AppController {
+
+    public function beforeFilter() {
+        $this->json = true;
+        $this->delegate = new TicketUI();
+        $this->delegate->json = $this->json;
+        parent::beforeFilter();
+        AppclientUtility::checkTokenClient($this);
+    }
+
+    /**
+     * @OA\Get(
+     *     path="/ticket/get",
+     *     summary="Legge un biglietto",
+     *     description="Ritorna un biglietto per uno specifico id o per codice",
+     *     operationId="ticket-get",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *       @OA\Parameter(
+     *         description="id del biglietto",
+     *         in="query",
+     *         name="id_ticket",
+     *         required=false,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="codice del biglietto",
+     *         in="query",
+     *         name="cod",
+     *         required=false,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista delle foreign keys richieste",
+     *         in="query",
+     *         name="belongs",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei virtual fields richiesti",
+     *         in="query",
+     *         name="virtualfields",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei flags da abilitare",
+     *         in="query",
+     *         name="flags",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista delle properties da valutare",
+     *         in="query",
+     *         name="properties",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei gruppi da includere",
+     *         in="query",
+     *         name="groups",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Congiunto al parametro groups indica una querylike",
+     *         in="query",
+     *         name="likegroups",
+     *         required=false,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\JsonContent(ref="#/components/schemas/Ticket")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function get($id_ticket = null, $cod = null, $belongs = null, $virtualfields = null, $flags = null, $properties = null, $groups = null, $likegroups = null) {
+        parent::evalParam($id_ticket, 'id_ticket');
+        parent::evalParam($cod, 'cod');
+        parent::completeFkVf($this->delegate, $belongs, $virtualfields, $flags, $properties, $groups, $likegroups);
+        $this->set('data', $this->delegate->get($id_ticket, $cod));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    /**
+     * @OA\Get(
+     *     path="/ticket/table",
+     *     summary="Legge una lista paginata di biglietti",
+     *     description="Ritorna una lista di biglietti filtrata, ordinata e paginata in base ai parametri di ricerca passati",
+     *     operationId="ticket-table",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\Parameter(
+     *         description="Lista delle condizioni di filtro",
+     *         in="query",
+     *         name="filters",
+     *         required=false,
+     *         @OA\Schema(
+     *              type="array",
+     *              @OA\Items(ref="#/components/schemas/DBCondition")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista delle condizioni di ordinamento",
+     *         in="query",
+     *         name="orders",
+     *         required=false,
+     *         @OA\Schema(
+     *              type="array",
+     *              @OA\Items(ref="#/components/schemas/DBOrder")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Tipo di paginazione",
+     *         in="query",
+     *         name="paginate",
+     *         required=false,
+     *         @OA\Schema(ref="#/components/schemas/DBPaginate"),
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista delle foreign keys richieste",
+     *         in="query",
+     *         name="belongs",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei virtual fields richiesti",
+     *         in="query",
+     *         name="virtualfields",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei flags da abilitare",
+     *         in="query",
+     *         name="flags",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista delle properties da valutare",
+     *         in="query",
+     *         name="properties",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei gruppi da includere",
+     *         in="query",
+     *         name="groups",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Congiunto al parametro groups indica una querylike",
+     *         in="query",
+     *         name="likegroups",
+     *         required=false,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(ref="#/components/schemas/Ticket")
+     *         )
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function table($jsonFilters = null, $jsonOrders = null, $jsonPaginate = null, $belongs = null, $virtualfields = null, $flags = null, $properties = null, $groups = null, $likegroups = null) {
+        parent::evalParam($jsonFilters, 'filters');
+        parent::evalParam($jsonOrders, 'orders');
+        parent::evalParam($jsonPaginate, 'paginate');
+        parent::completeFkVf($this->delegate, $belongs, $virtualfields, $flags, $properties, $groups, $likegroups);
+        $this->set('data', $this->delegate->table($jsonFilters, $jsonOrders, $jsonPaginate));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    /**
+     * @OA\Post(
+     *     path="/ticket/save",
+     *     summary="Salva un biglietto",
+     *     description="Salva un biglietto ne ritorna l'id",
+     *     operationId="ticket-save",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\RequestBody(
+     *         description="oggetto biglietto",
+     *         request="ticket",
+     *         required=true,
+     *         @OA\JsonContent(ref="#/components/schemas/Ticket")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei gruppi da includere",
+     *         in="query",
+     *         name="groupssave",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function save($ticketJson = null, $groupssave = null) {
+        parent::evalParam($ticketJson, "ticket");
+        parent::completeFkVf($this->delegate, $groupssave);
+        $this->set('value', $this->delegate->save($ticketJson));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    /**
+     * @OA\Put(
+     *     path="/ticket/edit",
+     *     summary="Modifica un biglietto",
+     *     description="Modifica un biglietto ne ritorna l'id",
+     *     operationId="ticket-edit",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\RequestBody(
+     *         description="oggetto biglietto",
+     *         request="ticket",
+     *         required=true,
+     *         @OA\JsonContent(ref="#/components/schemas/Ticket")
+     *     ),
+     *     @OA\Parameter(
+     *         description="id del biglietto da modificare",
+     *         in="query",
+     *         name="id_ticket",
+     *         required=false,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei gruppi a cui associare l'entity",
+     *         in="query",
+     *         name="groupssave",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Lista dei gruppi da cui rimuovere l'entity",
+     *         in="query",
+     *         name="groupsdel",
+     *         required=false,
+     *         @OA\Schema(
+     *             type="array",
+     *             @OA\Items(type="string")
+     *         )
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function edit($id_ticket = null, $ticketJson = null, $groupssave = null, $groupsdel = null) {
+        parent::evalParam($id_ticket, "id_ticket");
+        parent::evalParam($ticketJson, "ticket");
+        parent::completeFkVf($this->delegate, $groupssave, $groupsdel);
+        $this->set('value', $this->delegate->edit($id_ticket, $ticketJson));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    /**
+     * @OA\Delete(
+     *     path="/ticket/delete",
+     *     summary="Rimuove un biglietto",
+     *     description="Rimuove un biglietto dato l'id",
+     *     operationId="ticket-delete",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\Parameter(
+     *         description="id del biglietto da eliminare",
+     *         in="query",
+     *         name="id_ticket",
+     *         required=true,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(type="boolean")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function delete($id_ticket = null) {
+        parent::evalParam($id_ticket, "id_ticket");
+        $this->set('flag', $this->delegate->delete($id_ticket));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    // ----------------- PRICE
+    /**
+     * @OA\Post(
+     *     path="/ticket/addPrice",
+     *     summary="Aggiunge un prezzo ad un biglietto",
+     *     description="Aggiunge un prezzo ad biglietto e ne ricalcola gli importi",
+     *     operationId="ticket-addPrice",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\RequestBody(
+     *         description="oggetto price",
+     *         request="price",
+     *         required=true,
+     *         @OA\JsonContent(ref="#/components/schemas/Price")
+     *     ),
+     *     @OA\Parameter(
+     *         description="id del biglietto a cui aggiungere il price",
+     *         in="query",
+     *         name="id_ticket",
+     *         required=true,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(type="boolean")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function addPrice($id_ticket = null, $priceJson = null, $groupssave = null, $groupsdel = null) {
+        parent::evalParam($id_ticket, "id_ticket");
+        parent::evalParam($priceJson, "price");
+        $this->set('flag', $this->delegate->addPrice($priceJson, $id_ticket));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    /**
+     * @OA\Put(
+     *     path="/ticket/editPrice",
+     *     summary="Modifica il prezzo ad un biglietto",
+     *     description="Modifica il prezzo ad biglietto e ne ricalcola gli importi",
+     *     operationId="ticket-editPrice",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\RequestBody(
+     *         description="oggetto price",
+     *         request="price",
+     *         required=true,
+     *         @OA\JsonContent(ref="#/components/schemas/Price")
+     *     ),
+     *     @OA\Parameter(
+     *         description="id del biglietto per cui modificare il price",
+     *         in="query",
+     *         name="id_ticket",
+     *         required=true,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(type="boolean")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function editPrice($id_ticket = null, $priceJson = null, $groupssave = null, $groupsdel = null) {
+        parent::evalParam($id_ticket, "id_ticket");
+        parent::evalParam($priceJson, "price");
+        $this->set('flag', $this->delegate->editPrice($priceJson, $id_ticket));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    // ----------------- DISCOUNT
+    /**
+     * @OA\Post(
+     *     path="/ticket/addDiscount",
+     *     summary="Aggiunge uno sconto per un biglietto",
+     *     description="Aggiunge uno sconto per un biglietto e ne ricalcola gli importi",
+     *     operationId="ticket-addDiscount",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\RequestBody(
+     *         description="oggetto sconto",
+     *         request="discount",
+     *         required=true,
+     *         @OA\JsonContent(ref="#/components/schemas/Discount")
+     *     ),
+     *     @OA\Parameter(
+     *         description="id del biglietto",
+     *         in="query",
+     *         name="id_ticket",
+     *         required=true,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(type="boolean")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function addDiscount($id_ticket = null, $discountJson = null, $groupssave = null, $groupsdel = null) {
+        parent::evalParam($id_ticket, "id_ticket");
+        parent::evalParam($discountJson, "discount");
+        $this->set('flag', $this->delegate->addDiscount($discountJson, $id_ticket));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    /**
+     * @OA\Put(
+     *     path="/ticket/editDiscount",
+     *     summary="Modifica uno sconto per un biglietto",
+     *     description="Modifica uno sconto per un biglietto e ne ricalcola gli importi",
+     *     operationId="ticket-editDiscount",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\RequestBody(
+     *         description="oggetto sconto",
+     *         request="discount",
+     *         required=true,
+     *         @OA\JsonContent(ref="#/components/schemas/Discount")
+     *     ),
+     *     @OA\Parameter(
+     *         description="id del biglietto",
+     *         in="query",
+     *         name="id_ticket",
+     *         required=true,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="id dello sconto",
+     *         in="query",
+     *         name="id_discount",
+     *         required=true,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(type="boolean")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function editDiscount($id_ticket = null, $discountJson = null, $id_discount = null) {
+        parent::evalParam($id_ticket, "id_ticket");
+        parent::evalParam($discountJson, "discount");
+        parent::evalParam($id_discount, "id_discount");
+        $this->set('flag', $this->delegate->editDiscount($discountJson, $id_discount, $id_ticket));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    /**
+     * @OA\Delete(
+     *     path="/ticket/deleteDiscount",
+     *     summary="Elimina uno sconto per un biglietto",
+     *     description="Elimina uno sconto per un biglietto e ne ricalcola gli importi",
+     *     operationId="ticket-deleteDiscount",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\Parameter(
+     *         description="id del biglietto",
+     *         in="query",
+     *         name="id_ticket",
+     *         required=true,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="id dello sconto",
+     *         in="query",
+     *         name="id_discount",
+     *         required=true,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(type="boolean")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function deleteDiscount($id_ticket = null, $id_discount = null) {
+        parent::evalParam($id_ticket, "id_ticket");
+        parent::evalParam($id_discount, "id_discount");
+        $this->set('flag', $this->delegate->deleteDiscount($id_discount, $id_ticket));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    // ----------------- TAX
+    /**
+     * @OA\Post(
+     *     path="/ticket/addTax",
+     *     summary="Aggiunge una tassa per un biglietto",
+     *     description="Aggiunge una tassa per un biglietto e ne ricalcola gli importi",
+     *     operationId="ticket-addTax",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\RequestBody(
+     *         description="oggetto tassa",
+     *         request="tax",
+     *         required=true,
+     *         @OA\JsonContent(ref="#/components/schemas/Tickettax")
+     *     ),
+     *     @OA\Parameter(
+     *         description="id del biglietto",
+     *         in="query",
+     *         name="id_ticket",
+     *         required=true,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(type="boolean")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function addTax($id_ticket = null, $taxJson = null, $groupssave = null, $groupsdel = null) {
+        parent::evalParam($id_ticket, "id_ticket");
+        parent::evalParam($taxJson, "tax");
+        $this->set('flag', $this->delegate->addTax($taxJson, $id_ticket));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    /**
+     * @OA\Put(
+     *     path="/ticket/editTax",
+     *     summary="Modifica una tassa per un biglietto",
+     *     description="Modifica una tassa per un biglietto e ne ricalcola gli importi",
+     *     operationId="ticket-editTax",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\RequestBody(
+     *         description="oggetto tassa",
+     *         request="tax",
+     *         required=true,
+     *         @OA\JsonContent(ref="#/components/schemas/Tickettax")
+     *     ),
+     *     @OA\Parameter(
+     *         description="id del biglietto",
+     *         in="query",
+     *         name="id_ticket",
+     *         required=true,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="id della tassa",
+     *         in="query",
+     *         name="id_tickettax",
+     *         required=true,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(type="boolean")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function editTax($id_ticket = null, $taxJson = null, $id_tickettax = null) {
+        parent::evalParam($id_ticket, "id_ticket");
+        parent::evalParam($taxJson, "tax");
+        parent::evalParam($id_tickettax, "id_tickettax");
+        $this->set('flag', $this->delegate->editTax($taxJson, $id_tickettax, $id_ticket));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+
+    /**
+     * @OA\Delete(
+     *     path="/ticket/deleteTax",
+     *     summary="Elimina una tassa per un biglietto",
+     *     description="Elimina una tassa per un biglietto e ne ricalcola gli importi",
+     *     operationId="ticket-deleteTax",
+     *     tags={"shop_warehouse"},
+     *     deprecated=false,
+     *     @OA\Parameter(
+     *         description="id del biglietto",
+     *         in="query",
+     *         name="id_ticket",
+     *         required=true,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="id della tassa",
+     *         in="query",
+     *         name="id_tickettax",
+     *         required=true,
+     *         @OA\Schema(type="integer")
+     *     ),
+     *     @OA\Parameter(
+     *         description="Token di autorizzazione",
+     *         in="header",
+     *         name="token",
+     *         required=true,
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=200,
+     *         description="[statuscod=0]<br/>successful operation",
+     *         @OA\Schema(type="boolean")
+     *     ),
+     *     @OA\Response(
+     *         response="default",
+     *         description="[statuscod=-1] ERROR - [statuscod=1] OK",
+     *         @OA\Schema(type="string")
+     *     ),
+     *     @OA\Response(
+     *         response=404,
+     *         description="Not Found",
+     *     )
+     * )
+     */
+    public function deleteTax($id_ticket = null, $id_tickettax = null) {
+        parent::evalParam($id_ticket, "id_ticket");
+        parent::evalParam($id_tickettax, "id_tickettax");
+        $this->set('flag', $this->delegate->deleteTax($id_tickettax, $id_ticket));
+        $this->responseMessageStatus($this->delegate->status);
+    }
+}

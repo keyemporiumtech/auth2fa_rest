@@ -1,0 +1,17 @@
+msgid "FILE_NAME_LAN"
+msgstr "tpuserrelation_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "TPUSERRELATION_FRIENDSHIP"
+msgstr "Friendship relationship"
+
+msgid "TPUSERRELATION_MARRIAGE"
+msgstr "Matrimonial relationship"
+
+msgid "TPUSERRELATION_FAMILY"
+msgstr "Family relationship"
+
+msgid "TPUSERRELATION_KNOWN"
+msgstr "Knowledge relationship"

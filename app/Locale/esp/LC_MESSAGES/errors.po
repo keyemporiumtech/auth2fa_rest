@@ -1,0 +1,44 @@
+msgid "FILE_NAME_LAN"
+msgstr "errors_ESP"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_GENERIC"
+msgstr "Se ha producido un error"
+
+msgid "ERROR_ACCESS"
+msgstr "Acceso denegado"
+
+msgid "ERROR_MESSAGE"
+msgstr "Excepción generada por el servidor. %s<br/>Contactar con el servicio técnico indicando el código de error %s"
+
+msgid "ERROR_NO_DATA_FOUND"
+msgstr "Datos no encontrados"
+
+msgid "ERROR_THROW_EXCEPTION"
+msgstr "Ha ocurrido una excepción"
+
+msgid "ERROR_SAVE"
+msgstr "La copia de seguridad de datos solicitada no tuvo éxito"
+
+msgid "ERROR_EDIT"
+msgstr "El cambio de datos solicitado no tuvo éxito"
+
+msgid "ERROR_DELETE"
+msgstr "La eliminación solicitada de los datos no se completó correctamente"
+
+msgid "ERROR_SAVE_OBJECT_NULL"
+msgstr "El objeto a guardar está vacío."
+
+msgid "ERROR_EDIT_OBJECT_NULL"
+msgstr "El objeto a editar está vacío."
+
+msgid "ERROR_DELETE_ID_NULL"
+msgstr "No se proporcionó la identificación para eliminar"
+
+msgid "ERROR_PARAMS_NULL"
+msgstr "No se proporcionan parámetros de entrada obligatorios"
+
+msgid "ERROR_API_NULL"
+msgstr "La API de %s no está registrada"

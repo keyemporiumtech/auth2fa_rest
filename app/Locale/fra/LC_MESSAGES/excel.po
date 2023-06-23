@@ -1,0 +1,11 @@
+msgid "FILE_NAME_LAN"
+msgstr "excel_FRA"
+
+msgid "MODULE"
+msgstr "util_excel"
+
+msgid "EXCEL_PAGE"
+msgstr "Page"
+
+msgid "ERROR_EXCEL_READY"
+msgstr "Le fichier n'a pas été défini correctement, il manque l'extension"

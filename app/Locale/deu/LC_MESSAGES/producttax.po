@@ -1,0 +1,23 @@
+msgid "FILE_NAME_LAN"
+msgstr "producttax_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "INFO_PRODUCTTAX_SAVE"
+msgstr "Steuer gespart"
+
+msgid "ERROR_PRODUCTTAX_SAVE"
+msgstr "Es war nicht möglich, die Steuer zu sparen"
+
+msgid "INFO_PRODUCTTAX_EDIT"
+msgstr "Steuer geändert"
+
+msgid "ERROR_PRODUCTTAX_EDIT"
+msgstr "Es war nicht möglich, die Steuer zu ändern"
+
+msgid "INFO_PRODUCTTAX_DELETE"
+msgstr "Steuer gelöscht"
+
+msgid "ERROR_PRODUCTTAX_DELETE"
+msgstr "Es war nicht möglich, die Steuer zu beseitigen"

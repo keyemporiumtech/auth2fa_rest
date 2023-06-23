@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "userrelationpermission_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERRELATIONPERMISSION_NOT_FOUND"
+msgstr "autorisation de relation utilisateur introuvable"
+
+msgid "INFO_USERRELATIONPERMISSION_SAVE"
+msgstr "autorisation de relation utilisateur enregistré"
+
+msgid "ERROR_USERRELATIONPERMISSION_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer le autorisation de relation utilisateur"
+
+msgid "INFO_USERRELATIONPERMISSION_EDIT"
+msgstr "autorisation de relation utilisateur modifié"
+
+msgid "ERROR_USERRELATIONPERMISSION_EDIT"
+msgstr "Il n'a pas été possible de modifier le autorisation de relation utilisateur"
+
+msgid "INFO_USERRELATIONPERMISSION_DELETE"
+msgstr "autorisation de relation utilisateur supprimé"
+
+msgid "ERROR_USERRELATIONPERMISSION_DELETE"
+msgstr "Il n'a pas été possible de supprimer le autorisation de relation utilisateur"

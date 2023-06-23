@@ -1,0 +1,27 @@
+msgid "FILE_NAME_LAN"
+msgstr "basketservice_DEU"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKETSERVICE_NOT_FOUND"
+msgstr "Service im Warenkorb nicht gefunden"
+
+msgid "INFO_BASKETSERVICE_SAVE"
+msgstr "Service im Warenkorb gespeichert"
+
+msgid "ERROR_BASKETSERVICE_SAVE"
+msgstr "Das Service konnte nicht im Warenkorb gespeichert werden"
+
+msgid "INFO_BASKETSERVICE_EDIT"
+msgstr "Service im Warenkorb geändert"
+
+msgid "ERROR_BASKETSERVICE_EDIT"
+msgstr "Es war nicht möglich, das Service im Warenkorb zu ändern"
+
+msgid "INFO_BASKETSERVICE_DELETE"
+msgstr "Service im Warenkorb eliminiert"
+
+msgid "ERROR_BASKETSERVICE_DELETE"
+msgstr "Es war nicht möglich, das Service im Warenkorb zu stornieren"
+

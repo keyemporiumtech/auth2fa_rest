@@ -1,0 +1,23 @@
+msgid "FILE_NAME_LAN"
+msgstr "tpactivity_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "TPACTIVITY_ENT"
+msgstr "Organisme public ou privé"
+
+msgid "TPACTIVITY_COM"
+msgstr "Entreprise"
+
+msgid "TPACTIVITY_SIN"
+msgstr "Indépendant"
+
+msgid "TPACTIVITY_ASS"
+msgstr "Association ou Coopérative"
+
+msgid "TPACTIVITY_PER"
+msgstr "Activité personnelle"
+
+msgid "TPACTIVITY_PRG"
+msgstr "Projet"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "brand_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_BRAND_NOT_FOUND"
+msgstr "Marque introuvable"
+
+msgid "INFO_BRAND_SAVE"
+msgstr "Marque enregistrée"
+
+msgid "ERROR_BRAND_SAVE"
+msgstr "Il n'a pas été possible de sauver la marque"
+
+msgid "INFO_BRAND_EDIT"
+msgstr "La marque a changé"
+
+msgid "ERROR_BRAND_EDIT"
+msgstr "Il n'était pas possible de changer la marque"
+
+msgid "INFO_BRAND_DELETE"
+msgstr "Marque supprimée"
+
+msgid "ERROR_BRAND_DELETE"
+msgstr "Il n'a pas été possible de supprimer la marque"

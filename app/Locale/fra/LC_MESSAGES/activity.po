@@ -1,0 +1,38 @@
+msgid "FILE_NAME_LAN"
+msgstr "activity_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITY_NOT_FOUND"
+msgstr "Société introuvable"
+
+msgid "INFO_ACTIVITY_SAVE"
+msgstr "Société enregistrée"
+
+msgid "ERROR_ACTIVITY_SAVE"
+msgstr "Il n'a pas été possible de sauver l'entreprise"
+
+msgid "INFO_ACTIVITY_EDIT"
+msgstr "La société a changé"
+
+msgid "ERROR_ACTIVITY_EDIT"
+msgstr "Il n'était pas possible de changer de société"
+
+msgid "INFO_ACTIVITY_DELETE"
+msgstr "Société éliminée"
+
+msgid "ERROR_ACTIVITY_DELETE"
+msgstr "Il n'a pas été possible de supprimer la société"
+
+msgid "ERROR_CHANGE_ACTIVITY"
+msgstr "Il n'a pas été possible de mémoriser la société"
+
+msgid "ERROR_CHANGE_ACTIVITY_USER_NOT_SESSION"
+msgstr "Vous essayez d'attribuer la société %s à l'utilisateur %s qui n'est pas connecté au système"
+
+msgid "INFO_CHANGE_ACTIVITY"
+msgstr "La Société du système a été remplacée par %s"
+
+msgid "ERROR_EMPLOYERS"
+msgstr "Les données des employés de l'entreprise n'ont pas pu être récupérées"

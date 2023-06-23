@@ -1,0 +1,44 @@
+msgid "FILE_NAME_LAN"
+msgstr "tpattachment_FRA"
+
+msgid "MODULE"
+msgstr "resources"
+
+msgid "TPATTACHMENT_CI"
+msgstr "Carte d'identité"
+
+msgid "TPATTACHMENT_PASSPORT"
+msgstr "Passeport"
+
+msgid "TPATTACHMENT_CF"
+msgstr "Code fiscal"
+
+msgid "TPATTACHMENT_ADDRESS"
+msgstr "Certificat de résidence"
+
+msgid "TPATTACHMENT_CV"
+msgstr "Curriculum Vitae"
+
+msgid "TPATTACHMENT_IMAGE"
+msgstr "Photo"
+
+msgid "TPATTACHMENT_BOOK"
+msgstr "Livre"
+
+msgid "TPATTACHMENT_AUDIO"
+msgstr "Audio"
+
+msgid "TPATTACHMENT_VIDEO"
+msgstr "Vidéo"
+
+msgid "TPATTACHMENT_DOC"
+msgstr "Document"
+
+msgid "TPATTACHMENT_SONG"
+msgstr "Chanson"
+
+msgid "TPATTACHMENT_MOVIE"
+msgstr "Film"
+
+msgid "TPATTACHMENT_DRIVING"
+msgstr "Le permis de conduire"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "product_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRODUCT_NOT_FOUND"
+msgstr "Produit non trouvé"
+
+msgid "INFO_PRODUCT_SAVE"
+msgstr "Produit enregistré"
+
+msgid "ERROR_PRODUCT_SAVE"
+msgstr "Le produit n'a pas pu être enregistré"
+
+msgid "INFO_PRODUCT_EDIT"
+msgstr "Produit modifié"
+
+msgid "ERROR_PRODUCT_EDIT"
+msgstr "Il n'a pas été possible de modifier le Produit"
+
+msgid "INFO_PRODUCT_DELETE"
+msgstr "Produit supprimé"
+
+msgid "ERROR_PRODUCT_DELETE"
+msgstr "Le produit n'a pas pu être supprimé"

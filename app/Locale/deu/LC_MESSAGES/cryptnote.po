@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "cryptnote_DEU"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_CRYPTNOTE_NOT_FOUND"
+msgstr "Hinweis nicht gefunden"
+
+msgid "INFO_CRYPTNOTE_SAVE"
+msgstr "Hinweis gespeichert"
+
+msgid "ERROR_CRYPTNOTE_SAVE"
+msgstr "Hinweis konnte nicht gespeichert werden"
+
+msgid "INFO_CRYPTNOTE_EDIT"
+msgstr "Hinweis geändert"
+
+msgid "ERROR_CRYPTNOTE_EDIT"
+msgstr "Hinweis konnte nicht bearbeitet werden"
+
+msgid "INFO_CRYPTNOTE_DELETE"
+msgstr "Hinweis gelöscht"
+
+msgid "ERROR_CRYPTNOTE_DELETE"
+msgstr "Notiz konnte nicht gelöscht werden"

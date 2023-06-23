@@ -1,0 +1,101 @@
+msgid "FILE_NAME_LAN"
+msgstr "user_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USER_NOT_FOUND"
+msgstr "Utilisateur non trouvé"
+
+msgid "INFO_USER_SAVE"
+msgstr "Utilisateur enregistré"
+
+msgid "ERROR_USER_SAVE"
+msgstr "L'utilisateur n'a pas pu être enregistré"
+
+msgid "INFO_USER_EDIT"
+msgstr "L'utilisateur a changé"
+
+msgid "ERROR_USER_EDIT"
+msgstr "L'utilisateur n'a pas pu être changé"
+
+msgid "INFO_USER_DELETE"
+msgstr "Utilisateur supprimé"
+
+msgid "ERROR_USER_DELETE"
+msgstr "L'utilisateur n'a pas pu être supprimé"
+
+msgid "INFO_USER_LOGIN"
+msgstr "Connecté par %s avec le jeton %s"
+
+msgid "ERROR_USER_LOGIN_NOT_VALID"
+msgstr "Connexion introuvable avec le nom d'utilisateur %s et le mot de passe %s"
+
+msgid "ERROR_CONFIRMLOGIN_TOKEN_EXPIRED"
+msgstr "La somme de contrôle a expiré. Répétez l'opération de connexion"
+
+msgid "ERROR_CONTROL_CODE_EXPIRED"
+msgstr "Le code opération %s a été trouvé dans l'archive mais le jeton a expiré"
+
+msgid "INFO_USER_LOGOUT"
+msgstr "Déconnecté de %s avec le jeton %s"
+
+msgid "INFO_SESSION_EXPIRED"
+msgstr "La session a expiré pour %s avec le jeton %s"
+
+msgid "INFO_USER_PASSWORD_RESTORED"
+msgstr "L'utilisateur %s a récupéré le mot de passe %s dans %s"
+
+msgid "INFO_RESTORE_PASSWORD"
+msgstr "Mot de passe récupéré"
+
+msgid "ERROR_RESTORE_PASSWORD"
+msgstr "Le mot de passe n'a pas pu être récupéré"
+
+msgid "INFO_USER_PASSWORD_CHANGED"
+msgstr "L'utilisateur %s a changé le mot de passe %s en %s"
+
+msgid "INFO_CHANGE_PASSWORD"
+msgstr "Mot de passe changé"
+
+msgid "ERROR_CHANGE_PASSWORD"
+msgstr "Le mot de passe n'a pas pu être changé"
+
+msgid "ERROR_CHANGE_PASSWORD_OLD_PASSWORD"
+msgstr "L'ancien mot de passe ne correspond pas"
+
+msgid "ERROR_OLD_PASSWORD_NOT_EQUAL"
+msgstr "L'ancien mot de passe fourni %s ne correspond pas à celui enregistré %s"
+
+msgid "ERROR_REMIND_PASSWORD"
+msgstr "Il n'a pas été possible de se souvenir du mot de passe"
+
+msgid "INFO_SEND_CODE_LOGIN"
+msgstr "Nous avons envoyé un code de vérification pour vérifier votre identité"
+
+msgid "ERROR_CHANGE_PROFILE"
+msgstr "Le profil n'a pas pu être modifié"
+
+msgid "ERROR_CHANGE_PROFILE_USER_NOT_SESSION"
+msgstr "Vous essayez d'attribuer le profil %s à l'utilisateur %s qui n'est pas connecté au système"
+
+msgid "INFO_CHANGE_PROFILE"
+msgstr "Profil changé en %s"
+
+msgid "ERROR_PROFILE_NOT_FOUND"
+msgstr "Le profil n'a pas pu être récupéré"
+
+msgid "ERROR_USER_NOT_PERMISSION"
+msgstr "Utilisateur non autorisé pour l'opération"
+
+msgid "ERROR_USER_NOT_PERMISSION_DETAIL"
+msgstr "L'utilisateur %s n'a pas les permissions %s"
+
+msgid "ERROR_USER_NOT_LOGGED"
+msgstr "Utilisateur non connecté"
+
+msgid "ERROR_SESSION_USERNAME"
+msgstr "Une autre session était active pour l'utilisateur. Veuillez vous reconnecter"
+
+msgid "ERROR_SESSION_LOGIN_NOT_VALID"
+msgstr "Une autre session était active pour l'utilisateur avec le nom d'utilisateur %s"

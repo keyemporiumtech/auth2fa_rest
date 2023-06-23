@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityrelationpermission_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_NOT_FOUND"
+msgstr "user-company relationship permission not found"
+
+msgid "INFO_ACTIVITYRELATIONPERMISSION_SAVE"
+msgstr "user-company relationship permission saved"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_SAVE"
+msgstr "It was not possible to save the user-company relationship permission"
+
+msgid "INFO_ACTIVITYRELATIONPERMISSION_EDIT"
+msgstr "user-company relationship permission changed"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_EDIT"
+msgstr "It was not possible to change the user-company relationship permission"
+
+msgid "INFO_ACTIVITYRELATIONPERMISSION_DELETE"
+msgstr "user-company relationship permission deleted"
+
+msgid "ERROR_ACTIVITYRELATIONPERMISSION_DELETE"
+msgstr "It was not possible to delete the user-company relationship permission"

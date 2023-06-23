@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticketdiscount_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETDISCOUNT_NOT_FOUND"
+msgstr "Ticketrabatt nicht gefunden"
+
+msgid "INFO_TICKETDISCOUNT_SAVE"
+msgstr "Ticketrabatt gespeichert"
+
+msgid "ERROR_TICKETDISCOUNT_SAVE"
+msgstr "Der Ticketrabatt konnte nicht gespeichert werden"
+
+msgid "INFO_TICKETDISCOUNT_EDIT"
+msgstr "Ticketrabatt geändert"
+
+msgid "ERROR_TICKETDISCOUNT_EDIT"
+msgstr "Der Ticketrabatt konnte nicht geändert werden"
+
+msgid "INFO_TICKETDISCOUNT_DELETE"
+msgstr "Ticketrabatt gelöscht"
+
+msgid "ERROR_TICKETDISCOUNT_DELETE"
+msgstr "Der Ticketrabatt konnte nicht gelöscht werden"

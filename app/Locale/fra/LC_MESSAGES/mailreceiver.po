@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailreceiver_FRA"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILRECEIVER_NOT_FOUND"
+msgstr "Destinataire de l'e-mail introuvable"
+
+msgid "INFO_MAILRECEIVER_SAVE"
+msgstr "Destinataire de l'e-mail enregistré"
+
+msgid "ERROR_MAILRECEIVER_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer le destinataire de l'e-mail"
+
+msgid "INFO_MAILRECEIVER_EDIT"
+msgstr "Le destinataire de l'e-mail a été modifié"
+
+msgid "ERROR_MAILRECEIVER_EDIT"
+msgstr "Il n'a pas été possible de changer le destinataire de l'e-mail"
+
+msgid "INFO_MAILRECEIVER_DELETE"
+msgstr "Destinataire de l'e-mail supprimé"
+
+msgid "ERROR_MAILRECEIVER_DELETE"
+msgstr "Il n'a pas été possible de supprimer le destinataire de l'e-mail"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "address_DEU"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_ADDRESS_NOT_FOUND"
+msgstr "Adresse nicht gefunden"
+
+msgid "INFO_ADDRESS_SAVE"
+msgstr "Adresse gespeichert"
+
+msgid "ERROR_ADDRESS_SAVE"
+msgstr "Die Adresse konnte nicht gespeichert werden"
+
+msgid "INFO_ADDRESS_EDIT"
+msgstr "Adresse geändert"
+
+msgid "ERROR_ADDRESS_EDIT"
+msgstr "Die Adresse konnte nicht geändert werden"
+
+msgid "INFO_ADDRESS_DELETE"
+msgstr "Adresse gelöscht"
+
+msgid "ERROR_ADDRESS_DELETE"
+msgstr "Die Adresse konnte nicht gelöscht werden"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pocketdiscount_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKETDISCOUNT_NOT_FOUND"
+msgstr "Rabatt nicht gefunden"
+
+msgid "INFO_POCKETDISCOUNT_SAVE"
+msgstr "Rabatt gespeichert"
+
+msgid "ERROR_POCKETDISCOUNT_SAVE"
+msgstr "Der Rabatt konnte nicht gespeichert werden"
+
+msgid "INFO_POCKETDISCOUNT_EDIT"
+msgstr "Rabatt geändert"
+
+msgid "ERROR_POCKETDISCOUNT_EDIT"
+msgstr "Es war nicht möglich, den Rabatt zu ändern"
+
+msgid "INFO_POCKETDISCOUNT_DELETE"
+msgstr "Rabatt eliminiert"
+
+msgid "ERROR_POCKETDISCOUNT_DELETE"
+msgstr "Der Rabatt konnte nicht gelöscht werden"

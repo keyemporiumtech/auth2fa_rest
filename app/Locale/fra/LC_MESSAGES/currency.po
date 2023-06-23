@@ -1,0 +1,45 @@
+msgid "FILE_NAME_LAN"
+msgstr "currency_FRA"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "ERROR_CURRENCY_NOT_FOUND"
+msgstr "Devise introuvable"
+
+msgid "INFO_CURRENCY_SAVE"
+msgstr "Devise enregistrée"
+
+msgid "ERROR_CURRENCY_SAVE"
+msgstr "La devise n'a pas pu être enregistrée"
+
+msgid "INFO_CURRENCY_EDIT"
+msgstr "Devise modifiée"
+
+msgid "ERROR_CURRENCY_EDIT"
+msgstr "La devise n'a pas pu être modifiée"
+
+msgid "INFO_CURRENCY_DELETE"
+msgstr "Devise supprimée"
+
+msgid "ERROR_CURRENCY_DELETE"
+msgstr "La devise n'a pas pu être supprimée"
+
+msgid "ERROR_CURRENCY_COD"
+msgstr "Aucune devise trouvée avec le code %s"
+
+msgid "ERROR_CURRENCY_SETUP"
+msgstr "La devise du système n'a pas pu être modifiée"
+
+msgid "INFO_CURRENCY_CHANGE"
+msgstr "Devise système définie: %s"
+
+msgid "INFO_CURRENCY_CHANGE_DEFAULT"
+msgstr "Devise du système définie sur la langue par défaut: %s"
+
+msgid "ERROR_CURRENCY_CHANGE_DEFAULT"
+msgstr "La devise par défaut n'est pas définie dans json"
+
+msgid "ERROR_CURRENCY_CONVERTER"
+msgstr "Erreur de conversion de devise"
+

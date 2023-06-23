@@ -1,0 +1,38 @@
+msgid "FILE_NAME_LAN"
+msgstr "activity_ESP"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITY_NOT_FOUND"
+msgstr "Empresa no encontrada"
+
+msgid "INFO_ACTIVITY_SAVE"
+msgstr "Empresa guardada"
+
+msgid "ERROR_ACTIVITY_SAVE"
+msgstr "No fue posible salvar la empresa."
+
+msgid "INFO_ACTIVITY_EDIT"
+msgstr "Empresa cambiada"
+
+msgid "ERROR_ACTIVITY_EDIT"
+msgstr "No fue posible cambiar la Compañía"
+
+msgid "INFO_ACTIVITY_DELETE"
+msgstr "Empresa eliminada"
+
+msgid "ERROR_ACTIVITY_DELETE"
+msgstr "No fue posible eliminar la Empresa"
+
+msgid "ERROR_CHANGE_ACTIVITY"
+msgstr "No fue posible memorizar la Compañía"
+
+msgid "ERROR_CHANGE_ACTIVITY_USER_NOT_SESSION"
+msgstr "Está intentando asignar la tarea %s al usuario %s que no ha iniciado sesión en el sistema"
+
+msgid "INFO_CHANGE_ACTIVITY"
+msgstr "La actividad del sistema cambió a %s"
+
+msgid "ERROR_EMPLOYERS"
+msgstr "No se pudieron recuperar los datos de los empleados de la empresa"

@@ -1,0 +1,14 @@
+msgid "FILE_NAME_LAN"
+msgstr "tpskill_ITA"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "TPSKILL_KNW"
+msgstr "Conoscenza"
+
+msgid "TPSKILL_LAN"
+msgstr "Lingua"
+
+msgid "TPSKILL_PRD"
+msgstr "Prodotto/Strumento"

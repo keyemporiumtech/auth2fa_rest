@@ -1,0 +1,42 @@
+msgid "FILE_NAME_LAN"
+msgstr "confirmoperation_ESP"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_CONFIRMOPERATION_NOT_FOUND"
+msgstr "Operación no encontrada"
+
+msgid "INFO_CONFIRMOPERATION_SAVE"
+msgstr "Operación guardada"
+
+msgid "ERROR_CONFIRMOPERATION_SAVE"
+msgstr "No se pudo guardar la operación"
+
+msgid "INFO_CONFIRMOPERATION_EDIT"
+msgstr "Operación modificada"
+
+msgid "ERROR_CONFIRMOPERATION_EDIT"
+msgstr "La operación no se pudo cambiar"
+
+msgid "INFO_CONFIRMOPERATION_DELETE"
+msgstr "Operación borrada"
+
+msgid "ERROR_CONFIRMOPERATION_DELETE"
+msgstr "No se pudo eliminar la operación."
+
+msgid "INFO_CONFIRMOPERATION_CODELOGIN_SUBJECT_MAIL"
+msgstr "Enviar código de confirmación para iniciar sesión"
+
+msgid "INFO_CONFIRMOPERATION_CODELOGIN_MESSAGE_MAIL"
+msgstr "Para acceder al sistema ingrese el código de verificación %s"
+
+msgid "INFO_CONFIRMOPERATION_CODELOGIN_MESSAGE_PHONE"
+msgstr "Para acceder al sistema ingrese el código de verificación %s"
+
+msgid "ERROR_CONFIRMOPERATION_CHECK_PIN"
+msgstr "El código de control proporcionado no es válido"
+
+msgid "ERROR_CONTROL_CODE_NOT_VALID"
+msgstr "El código de operación %s no se encontró en el archivo con la suma de verificación %s"
+

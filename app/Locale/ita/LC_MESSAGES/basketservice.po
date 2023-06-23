@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basketservice_ITA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKETSERVICE_NOT_FOUND"
+msgstr "servizio in carrello non trovato"
+
+msgid "INFO_BASKETSERVICE_SAVE"
+msgstr "servizio in carrello salvato"
+
+msgid "ERROR_BASKETSERVICE_SAVE"
+msgstr "Non è stato possibile salvare il servizio in carrello"
+
+msgid "INFO_BASKETSERVICE_EDIT"
+msgstr "servizio in carrello modificato"
+
+msgid "ERROR_BASKETSERVICE_EDIT"
+msgstr "Non è stato possibile modificare il servizio in carrello"
+
+msgid "INFO_BASKETSERVICE_DELETE"
+msgstr "servizio in carrello eliminato"
+
+msgid "ERROR_BASKETSERVICE_DELETE"
+msgstr "Non è stato possibile eliminare il servizio in carrello"

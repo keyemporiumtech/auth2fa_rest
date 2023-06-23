@@ -1,0 +1,123 @@
+msgid "FILE_NAME_LAN"
+msgstr "pdfcv_ENG"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "CV_TITLE"
+msgstr "Curriculum Vitae"
+
+msgid "CV_OTHER_INFOS"
+msgstr "For more information"
+
+msgid "CV_FOOTER"
+msgstr "I authorize the processing of my personal data pursuant to Legislative Decree 30 June 2003, n. 196 \"Personal data protection code\""
+
+msgid "CV_PERIOD_DAY"
+msgstr "day"
+
+msgid "CV_PERIOD_DAYS"
+msgstr "days"
+
+msgid "CV_PERIOD_MONTH"
+msgstr "month"
+
+msgid "CV_PERIOD_MONTHS"
+msgstr "months"
+
+msgid "CV_PERIOD_YEAR"
+msgstr "year"
+
+msgid "CV_PERIOD_YEARS"
+msgstr "years"
+
+msgid "CV_PERIOD_ONGOING"
+msgstr "in progress"
+
+msgid "CV_INFO"
+msgstr "Personal informations"
+
+msgid "CV_INFO_NAME"
+msgstr "Name"
+
+msgid "CV_INFO_ADDRESS"
+msgstr "Address"
+
+msgid "CV_INFO_PHONE"
+msgstr "Telephone"
+
+msgid "CV_INFO_EMAIL"
+msgstr "Email"
+
+msgid "CV_INFO_NATION"
+msgstr "Country of birth"
+
+msgid "CV_INFO_BORN"
+msgstr "Date of birth"
+
+msgid "CV_ROLES"
+msgstr "Professional roles and figures"
+
+msgid "CV_EXPERIENCE"
+msgstr "Personal experience"
+
+msgid "CV_EXPERIENCE_PERIOD"
+msgstr "Date [from - to]"
+
+msgid "CV_EXPERIENCE_COMPANY"
+msgstr "Company"
+
+msgid "CV_EXPERIENCE_SECTOR"
+msgstr "Type of business or sector"
+
+msgid "CV_EXPERIENCE_PLACE"
+msgstr "Place"
+
+msgid "CV_EXPERIENCE_ROLE"
+msgstr "Type of employment and duties"
+
+msgid "CV_EXPERIENCE_SKILL_KNW"
+msgstr "Acquired skills"
+
+msgid "CV_EXPERIENCE_SKILL_PRD"
+msgstr "Products used"
+
+msgid "CV_SCHOOL"
+msgstr "Education and Training"
+
+msgid "CV_SCHOOL_DATE"
+msgstr "Date"
+
+msgid "CV_SCHOOL_INSTITUTE1"
+msgstr "Name and type of istitute"
+
+msgid "CV_SCHOOL_INSTITUTE2"
+msgstr "of education or training"
+
+msgid "CV_SCHOOL_DESCRIPTION"
+msgstr "Subjects/skills being studied"
+
+msgid "CV_SCHOOL_NAME"
+msgstr "Qualification achieved"
+
+msgid "CV_SCHOOL_LEVEL"
+msgstr "Level reached"
+
+msgid "CV_SKILL"
+msgstr "Skills and competences"
+
+msgid "CV_SKILL_LAN"
+msgstr "Known languages"
+
+msgid "CV_SKILL_KNW"
+msgstr "Acquired skills"
+
+msgid "CV_SKILL_PRD"
+msgstr "Products and tools used"
+
+msgid "CV_SKILL_PERIOD"
+msgstr "Period"
+
+msgid "CV_SKILL_LEVEL"
+msgstr "Level"
+

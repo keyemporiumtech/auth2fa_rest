@@ -1,0 +1,80 @@
+msgid "FILE_NAME_LAN"
+msgstr "iban_DEU"
+
+msgid "MODULE"
+msgstr "validator_iban"
+
+msgid "COD_BRANCH"
+msgstr "Branchencode"
+
+msgid "COD_AGENCY"
+msgstr "Agenturcode"
+
+msgid "COD_FRONT_OFFICE"
+msgstr "Branchencode"
+
+msgid "COD_GUICHET"
+msgstr "Code Guichet"
+
+msgid "IBAN"
+msgstr "IBAN"
+
+msgid "BBAN"
+msgstr "BBAN"
+
+msgid "SWIFT_BIC"
+msgstr "Swift BIC"
+
+msgid "SWIFT"
+msgstr "Swift"
+
+msgid "BIC"
+msgstr "BIC"
+
+msgid "ABI"
+msgstr "ABI"
+
+msgid "CAB"
+msgstr "CAB"
+
+msgid "CIN"
+msgstr "CIN"
+
+msgid "BANKCOD"
+msgstr "Bankleitzahl"
+
+msgid "CC"
+msgstr "Aktuelle Kontonummer"
+
+msgid "COD_ISO3166"
+msgstr "Internationales Akronym (Standard ISO 3166)"
+
+msgid "CONTROLNUMBERS"
+msgstr "Kontrollnummern"
+
+msgid "CONTROLKEY"
+msgstr "Kontrollschlüssel"
+
+msgid "CONTROLKEY2"
+msgstr "Kontrollschlüssel"
+
+msgid "CONTROLCOD"
+msgstr "Steuercode"
+
+msgid "ID_NATIONAL_OWNER"
+msgstr "Steuercode"
+
+msgid "ERRON_VALIDATE"
+msgstr "Eine Validierung der angegebenen IBAN ist nicht möglich"
+
+msgid "ERRON_VALIDATE_NOT_VALID"
+msgstr "Ungültige IBAN"
+
+msgid "ERRON_VALIDATE_NOT_FOUND"
+msgstr "IBAN nicht gefunden"
+
+msgid "ERRON_VALIDATE_LESS_THEN"
+msgstr "Ungültige IBAN: Länge weniger als %s Zeichen"
+
+msgid "ERRON_VALIDATE_GREATER_THEN"
+msgstr "Ungültige IBAN: Länge größer als %s Zeichen"

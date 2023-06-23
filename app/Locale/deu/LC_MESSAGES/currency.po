@@ -1,0 +1,45 @@
+msgid "FILE_NAME_LAN"
+msgstr "currency_DEU"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "ERROR_CURRENCY_NOT_FOUND"
+msgstr "Währung nicht gefunden"
+
+msgid "INFO_CURRENCY_SAVE"
+msgstr "Währung gespeichert"
+
+msgid "ERROR_CURRENCY_SAVE"
+msgstr "Die Währung konnte nicht gespeichert werden"
+
+msgid "INFO_CURRENCY_EDIT"
+msgstr "Währung geändert"
+
+msgid "ERROR_CURRENCY_EDIT"
+msgstr "Die Währung konnte nicht geändert werden"
+
+msgid "INFO_CURRENCY_DELETE"
+msgstr "Währung entfernt"
+
+msgid "ERROR_CURRENCY_DELETE"
+msgstr "Die Währung konnte nicht gelöscht werden"
+
+msgid "ERROR_CURRENCY_COD"
+msgstr "Keine Währungen mit Code %s gefunden"
+
+msgid "ERROR_CURRENCY_SETUP"
+msgstr "Die Systemwährung konnte nicht geändert werden"
+
+msgid "INFO_CURRENCY_CHANGE"
+msgstr "Systemwährung festgelegt: %s"
+
+msgid "INFO_CURRENCY_CHANGE_DEFAULT"
+msgstr "Systemwährung auf Standardsprache eingestellt: %s"
+
+msgid "ERROR_CURRENCY_CHANGE_DEFAULT"
+msgstr "Standardwährung nicht in json festgelegt"
+
+msgid "ERROR_CURRENCY_CONVERTER"
+msgstr "Fehler bei der Währungsumrechnung"
+

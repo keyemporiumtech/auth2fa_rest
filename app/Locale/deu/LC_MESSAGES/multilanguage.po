@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "multilanguage_DEU"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_MULTILANGUAGE_NOT_FOUND"
+msgstr "Übersetzte Zeile nicht gefunden"
+
+msgid "INFO_MULTILANGUAGE_SAVE"
+msgstr "Übersetzte Zeile gespeichert"
+
+msgid "ERROR_MULTILANGUAGE_SAVE"
+msgstr "Die übersetzte Zeile konnte nicht gespeichert werden"
+
+msgid "INFO_MULTILANGUAGE_EDIT"
+msgstr "Übersetzte Zeile geändert"
+
+msgid "ERROR_MULTILANGUAGE_EDIT"
+msgstr "Die übersetzte Zeile konnte nicht bearbeitet werden"
+
+msgid "INFO_MULTILANGUAGE_DELETE"
+msgstr "Übersetzte Zeile gelöscht"
+
+msgid "ERROR_MULTILANGUAGE_DELETE"
+msgstr "Übersetzte Zeile konnte nicht gelöscht werden"

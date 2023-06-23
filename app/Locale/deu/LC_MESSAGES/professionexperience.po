@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionexperience_DEU"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_NOT_FOUND"
+msgstr "Arbeitserfahrung nicht gefunden"
+
+msgid "INFO_PROFESSIONEXPERIENCE_SAVE"
+msgstr "Arbeitserfahrung gespeichert"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_SAVE"
+msgstr "Die Arbeitserfahrung konnte nicht gespeichert werden"
+
+msgid "INFO_PROFESSIONEXPERIENCE_EDIT"
+msgstr "Arbeitserfahrung geändert"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_EDIT"
+msgstr "Die Arbeitserfahrung konnten nicht geändert werden"
+
+msgid "INFO_PROFESSIONEXPERIENCE_DELETE"
+msgstr "Arbeitserfahrung gelöschte"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_DELETE"
+msgstr "Die Arbeitserfahrung konnte nicht gelöscht werden"

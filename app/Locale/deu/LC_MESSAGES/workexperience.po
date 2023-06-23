@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperience_DEU"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCE_NOT_FOUND"
+msgstr "Arbeitserfahrung nicht gefunden"
+
+msgid "INFO_WORKEXPERIENCE_SAVE"
+msgstr "Arbeitserfahrung gespeichert"
+
+msgid "ERROR_WORKEXPERIENCE_SAVE"
+msgstr "Die Arbeitserfahrung konnte nicht gespeichert werden"
+
+msgid "INFO_WORKEXPERIENCE_EDIT"
+msgstr "Arbeitserfahrung geändert"
+
+msgid "ERROR_WORKEXPERIENCE_EDIT"
+msgstr "Die Arbeitserfahrung konnten nicht geändert werden"
+
+msgid "INFO_WORKEXPERIENCE_DELETE"
+msgstr "Arbeitserfahrung gelöschte"
+
+msgid "ERROR_WORKEXPERIENCE_DELETE"
+msgstr "Die Arbeitserfahrung konnte nicht gelöscht werden"

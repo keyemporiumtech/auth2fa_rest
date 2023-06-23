@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workactivity_ENG"
+
+msgid "MODULE"
+msgstr "work_profile"
+
+msgid "ERROR_WORKACTIVITY_NOT_FOUND"
+msgstr "Business management not found"
+
+msgid "INFO_WORKACTIVITY_SAVE"
+msgstr "Business management saved"
+
+msgid "ERROR_WORKACTIVITY_SAVE"
+msgstr "It was not possible to save the Business management"
+
+msgid "INFO_WORKACTIVITY_EDIT"
+msgstr "Business management changed"
+
+msgid "ERROR_WORKACTIVITY_EDIT"
+msgstr "It was not possible to change the Business management"
+
+msgid "INFO_WORKACTIVITY_DELETE"
+msgstr "Business management deleted"
+
+msgid "ERROR_WORKACTIVITY_DELETE"
+msgstr "It was not possible to delete the Business management"

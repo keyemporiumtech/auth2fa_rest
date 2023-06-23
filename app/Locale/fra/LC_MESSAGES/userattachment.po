@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "userattachment_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERATTACHMENT_NOT_FOUND"
+msgstr "Pièce jointe introuvable"
+
+msgid "INFO_USERATTACHMENT_SAVE"
+msgstr "Pièce jointe enregistrée"
+
+msgid "ERROR_USERATTACHMENT_SAVE"
+msgstr "La pièce jointe n'a pas pu être enregistrée"
+
+msgid "INFO_USERATTACHMENT_EDIT"
+msgstr "Pièce jointe modifiée"
+
+msgid "ERROR_USERATTACHMENT_EDIT"
+msgstr "Il n'a pas été possible de modifier la pièce jointe"
+
+msgid "INFO_USERATTACHMENT_DELETE"
+msgstr "Pièce jointe supprimée"
+
+msgid "ERROR_USERATTACHMENT_DELETE"
+msgstr "Il n'a pas été possible de supprimer la pièce jointe"

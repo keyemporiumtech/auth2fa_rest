@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperiencerole_ESP"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCEROLE_NOT_FOUND"
+msgstr "Rol comercial no encontrado"
+
+msgid "INFO_WORKEXPERIENCEROLE_SAVE"
+msgstr "Rol comercial guardado"
+
+msgid "ERROR_WORKEXPERIENCEROLE_SAVE"
+msgstr "No fue posible guardar el Rol comercial"
+
+msgid "INFO_WORKEXPERIENCEROLE_EDIT"
+msgstr "Rol comercial modificado"
+
+msgid "ERROR_WORKEXPERIENCEROLE_EDIT"
+msgstr "No fue posible modificar el Rol comercial"
+
+msgid "INFO_WORKEXPERIENCEROLE_DELETE"
+msgstr "Rol comercial eliminado"
+
+msgid "ERROR_WORKEXPERIENCEROLE_DELETE"
+msgstr "No fue posible eliminar el Rol comercial"

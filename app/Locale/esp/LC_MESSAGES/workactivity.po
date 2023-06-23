@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workactivity_ESP"
+
+msgid "MODULE"
+msgstr "work_profile"
+
+msgid "ERROR_WORKACTIVITY_NOT_FOUND"
+msgstr "Administración de empresas no encontrada"
+
+msgid "INFO_WORKACTIVITY_SAVE"
+msgstr "Administración de empresas guardada"
+
+msgid "ERROR_WORKACTIVITY_SAVE"
+msgstr "No fue posible guardar la Administración de empresas"
+
+msgid "INFO_WORKACTIVITY_EDIT"
+msgstr "Administración de empresas modificada"
+
+msgid "ERROR_WORKACTIVITY_EDIT"
+msgstr "No fue posible modificar la Administración de empresas"
+
+msgid "INFO_WORKACTIVITY_DELETE"
+msgstr "Administración de empresas eliminada"
+
+msgid "ERROR_WORKACTIVITY_DELETE"
+msgstr "No fue posible eliminar la Administración de empresas"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "payment_ESP"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_PAYMENT_NOT_FOUND"
+msgstr "pago no encontrado"
+
+msgid "INFO_PAYMENT_SAVE"
+msgstr "pago guardado"
+
+msgid "ERROR_PAYMENT_SAVE"
+msgstr "No fue posible guardar el pago en el carrito"
+
+msgid "INFO_PAYMENT_EDIT"
+msgstr "pago modificado"
+
+msgid "ERROR_PAYMENT_EDIT"
+msgstr "No fue posible modificar el pago en el carrito"
+
+msgid "INFO_PAYMENT_DELETE"
+msgstr "pago eliminado"
+
+msgid "ERROR_PAYMENT_DELETE"
+msgstr "No fue posible retirar el pago del carrito"

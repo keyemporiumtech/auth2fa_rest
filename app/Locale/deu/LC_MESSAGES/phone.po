@@ -1,0 +1,41 @@
+msgid "FILE_NAME_LAN"
+msgstr "phone_DEU"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_PHONE_NOT_FOUND"
+msgstr "Telefonnummer nicht gefunden"
+
+msgid "INFO_PHONE_SAVE"
+msgstr "Telefonnummer gespeichert"
+
+msgid "ERROR_PHONE_SAVE"
+msgstr "Telefonnummer konnte nicht gespeichert werden"
+
+msgid "INFO_PHONE_EDIT"
+msgstr "Telefonnummer geändert"
+
+msgid "ERROR_PHONE_EDIT"
+msgstr "Die Telefonnummer konnte nicht geändert werden"
+
+msgid "INFO_PHONE_DELETE"
+msgstr "Telefonnummer gelöscht"
+
+msgid "ERROR_PHONE_DELETE"
+msgstr "Die Telefonnummer konnte nicht gelöscht werden"
+
+msgid "INFO_PHONE_SEND"
+msgstr "SMS erfolgreich versendet"
+
+msgid "ERROR_PHONE_SEND"
+msgstr "SMS nicht korrekt versendet"
+
+msgid "ERROR_PHONE_SEND_NOT_SENDER"
+msgstr "Absenderparameter nicht bewertet"
+
+msgid "ERROR_PHONE_SEND_NOT_DESTINATORS"
+msgstr "Leeres Empfänger-Array"
+
+msgid "ERROR_PHONE_SEND_NOT_BODY"
+msgstr "Kein Nachrichtentext angegeben"

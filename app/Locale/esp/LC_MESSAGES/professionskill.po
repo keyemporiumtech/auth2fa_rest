@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionskill_ESP"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONSKILL_NOT_FOUND"
+msgstr "Habilidad no encontrada"
+
+msgid "INFO_PROFESSIONSKILL_SAVE"
+msgstr "Habilidad guardada"
+
+msgid "ERROR_PROFESSIONSKILL_SAVE"
+msgstr "No fue posible guardar la Habilidad"
+
+msgid "INFO_PROFESSIONSKILL_EDIT"
+msgstr "Habilidad modificada"
+
+msgid "ERROR_PROFESSIONSKILL_EDIT"
+msgstr "No fue posible modificar la Habilidad"
+
+msgid "INFO_PROFESSIONSKILL_DELETE"
+msgstr "Habilidad eliminada"
+
+msgid "ERROR_PROFESSIONSKILL_DELETE"
+msgstr "No fue posible eliminar la Habilidad"

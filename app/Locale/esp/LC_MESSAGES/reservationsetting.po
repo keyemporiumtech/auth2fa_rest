@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "reservationsetting_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_RESERVATIONSETTING_NOT_FOUND"
+msgstr "Configuración de reserva no encontrada"
+
+msgid "INFO_RESERVATIONSETTING_SAVE"
+msgstr "Configuración de reserva guardada"
+
+msgid "ERROR_RESERVATIONSETTING_SAVE"
+msgstr "No se pudo guardar la configuración de la reserva"
+
+msgid "INFO_RESERVATIONSETTING_EDIT"
+msgstr "Se ha cambiado la configuración de la reserva"
+
+msgid "ERROR_RESERVATIONSETTING_EDIT"
+msgstr "La configuración de la reserva no se pudo cambiar"
+
+msgid "INFO_RESERVATIONSETTING_DELETE"
+msgstr "Configuración de reserva eliminada"
+
+msgid "ERROR_RESERVATIONSETTING_DELETE"
+msgstr "No se pudo eliminar la configuración de la reserva"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pocket_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKET_NOT_FOUND"
+msgstr "Paquet introuvable"
+
+msgid "INFO_POCKET_SAVE"
+msgstr "Paquet enregistré"
+
+msgid "ERROR_POCKET_SAVE"
+msgstr "Le paquet n'a pas pu être enregistré"
+
+msgid "INFO_POCKET_EDIT"
+msgstr "Paquet modifié"
+
+msgid "ERROR_POCKET_EDIT"
+msgstr "Il n'a pas été possible de changer le paquet"
+
+msgid "INFO_POCKET_DELETE"
+msgstr "Paquet supprimé"
+
+msgid "ERROR_POCKET_DELETE"
+msgstr "Le paquet n'a pas pu être supprimé"

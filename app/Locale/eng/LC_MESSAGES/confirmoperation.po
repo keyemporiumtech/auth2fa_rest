@@ -1,0 +1,42 @@
+msgid "FILE_NAME_LAN"
+msgstr "confirmoperation_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_CONFIRMOPERATION_NOT_FOUND"
+msgstr "Operation not found"
+
+msgid "INFO_CONFIRMOPERATION_SAVE"
+msgstr "Operation saved"
+
+msgid "ERROR_CONFIRMOPERATION_SAVE"
+msgstr "The operation could not be saved"
+
+msgid "INFO_CONFIRMOPERATION_EDIT"
+msgstr "Operation modifiedOperation modified"
+
+msgid "ERROR_CONFIRMOPERATION_EDIT"
+msgstr "The Operation could not be changed"
+
+msgid "INFO_CONFIRMOPERATION_DELETE"
+msgstr "Operation cleared"
+
+msgid "ERROR_CONFIRMOPERATION_DELETE"
+msgstr "The operation could not be deleted"
+
+msgid "INFO_CONFIRMOPERATION_CODELOGIN_SUBJECT_MAIL"
+msgstr "Send confirmation code for login"
+
+msgid "INFO_CONFIRMOPERATION_CODELOGIN_MESSAGE_MAIL"
+msgstr "To access the system enter the verification code %s"
+
+msgid "INFO_CONFIRMOPERATION_CODELOGIN_MESSAGE_PHONE"
+msgstr "To access the system enter the verification code %s"
+
+msgid "ERROR_CONFIRMOPERATION_CHECK_PIN"
+msgstr "The control code provided is invalid"
+
+msgid "ERROR_CONTROL_CODE_NOT_VALID"
+msgstr "Operation code %s was not found in archive with checksum %s"
+

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityprofile_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYPROFILE_NOT_FOUND"
+msgstr "Company profile not found"
+
+msgid "INFO_ACTIVITYPROFILE_SAVE"
+msgstr "Company profile saved"
+
+msgid "ERROR_ACTIVITYPROFILE_SAVE"
+msgstr "The Company Profile could not be saved"
+
+msgid "INFO_ACTIVITYPROFILE_EDIT"
+msgstr "Company profile modified"
+
+msgid "ERROR_ACTIVITYPROFILE_EDIT"
+msgstr "The Company Profile could not be edited"
+
+msgid "INFO_ACTIVITYPROFILE_DELETE"
+msgstr "Company profile deleted"
+
+msgid "ERROR_ACTIVITYPROFILE_DELETE"
+msgstr "The Company Profile could not be deleted"

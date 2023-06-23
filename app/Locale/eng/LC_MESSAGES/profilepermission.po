@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "profilepermission_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_PROFILEPERMISSION_NOT_FOUND"
+msgstr "Profile permission not found"
+
+msgid "INFO_PROFILEPERMISSION_SAVE"
+msgstr "Profile permission saved"
+
+msgid "ERROR_PROFILEPERMISSION_SAVE"
+msgstr "The profile permission could not be saved"
+
+msgid "INFO_PROFILEPERMISSION_EDIT"
+msgstr "Profile permission changed"
+
+msgid "ERROR_PROFILEPERMISSION_EDIT"
+msgstr "It was not possible to change the Permission of the profile"
+
+msgid "INFO_PROFILEPERMISSION_DELETE"
+msgstr "Profile permission deleted"
+
+msgid "ERROR_PROFILEPERMISSION_DELETE"
+msgstr "The profile permission could not be deleted"

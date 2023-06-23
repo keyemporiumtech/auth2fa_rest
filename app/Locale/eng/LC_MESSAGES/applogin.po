@@ -1,0 +1,15 @@
+msgid "FILE_NAME_LAN"
+msgstr "applogin_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_LOGIN_TOKEN"
+msgstr "User not enabled. Check that you are logged in correctly"
+
+msgid "ERROR_SESSION_EXPIRED"
+msgstr "User session expired"
+
+msgid "ERROR_PROFILE_DEFAULT"
+msgstr "No profiles found for the user"
+

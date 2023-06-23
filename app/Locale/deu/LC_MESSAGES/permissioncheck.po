@@ -1,0 +1,12 @@
+msgid "FILE_NAME_LAN"
+msgstr "permissioncheck_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "WARNING_USER_ME"
+msgstr "Ihr Profil ist nicht aktiviert, um andere Benutzer zu verwalten"
+
+msgid "WARNING_USERPROFILE_ME"
+msgstr "Ihr Profil ist nicht für die Verwaltung anderer Profile aktiviert"
+

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityprofile_ESP"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYPROFILE_NOT_FOUND"
+msgstr "Perfil de empresa no encontrado"
+
+msgid "INFO_ACTIVITYPROFILE_SAVE"
+msgstr "Perfil de empresa guardado"
+
+msgid "ERROR_ACTIVITYPROFILE_SAVE"
+msgstr "No se pudo guardar el perfil de la empresa"
+
+msgid "INFO_ACTIVITYPROFILE_EDIT"
+msgstr "Perfil de empresa modificado"
+
+msgid "ERROR_ACTIVITYPROFILE_EDIT"
+msgstr "No se pudo editar el perfil de la empresa"
+
+msgid "INFO_ACTIVITYPROFILE_DELETE"
+msgstr "Perfil de empresa eliminado"
+
+msgid "ERROR_ACTIVITYPROFILE_DELETE"
+msgstr "No se pudo eliminar el perfil de la empresa"

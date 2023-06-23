@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionrole_DEU"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONROLE_NOT_FOUND"
+msgstr "Geschäftsrolle nicht gefunden"
+
+msgid "INFO_PROFESSIONROLE_SAVE"
+msgstr "Geschäftsrolle gespeichert"
+
+msgid "ERROR_PROFESSIONROLE_SAVE"
+msgstr "Die Geschäftsrolle konnte nicht gespeichert werden"
+
+msgid "INFO_PROFESSIONROLE_EDIT"
+msgstr "Geschäftsrolle geändert"
+
+msgid "ERROR_PROFESSIONROLE_EDIT"
+msgstr "Die Geschäftsrolle konnten nicht geändert werden"
+
+msgid "INFO_PROFESSIONROLE_DELETE"
+msgstr "Geschäftsrolle gelöschte"
+
+msgid "ERROR_PROFESSIONROLE_DELETE"
+msgstr "Die Geschäftsrolle konnte nicht gelöscht werden"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionattachment_FRA"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONATTACHMENT_NOT_FOUND"
+msgstr "Pièce jointe introuvable"
+
+msgid "INFO_PROFESSIONATTACHMENT_SAVE"
+msgstr "Pièce jointe enregistré"
+
+msgid "ERROR_PROFESSIONATTACHMENT_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer le Pièce jointe"
+
+msgid "INFO_PROFESSIONATTACHMENT_EDIT"
+msgstr "Pièce jointe modifié"
+
+msgid "ERROR_PROFESSIONATTACHMENT_EDIT"
+msgstr "Il n'a pas été possible de modifier le Pièce jointe"
+
+msgid "INFO_PROFESSIONATTACHMENT_DELETE"
+msgstr "Pièce jointe supprimé"
+
+msgid "ERROR_PROFESSIONATTACHMENT_DELETE"
+msgstr "Il n'a pas été possible de supprimer le Pièce jointe"

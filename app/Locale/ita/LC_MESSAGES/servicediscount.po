@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "servicediscount_ITA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICEDISCOUNT_NOT_FOUND"
+msgstr "Sconto non trovato"
+
+msgid "INFO_SERVICEDISCOUNT_SAVE"
+msgstr "Sconto salvato"
+
+msgid "ERROR_SERVICEDISCOUNT_SAVE"
+msgstr "Non è stato possibile salvare il Sconto"
+
+msgid "INFO_SERVICEDISCOUNT_EDIT"
+msgstr "Sconto modificato"
+
+msgid "ERROR_SERVICEDISCOUNT_EDIT"
+msgstr "Non è stato possibile modificare il Sconto"
+
+msgid "INFO_SERVICEDISCOUNT_DELETE"
+msgstr "Sconto eliminato"
+
+msgid "ERROR_SERVICEDISCOUNT_DELETE"
+msgstr "Non è stato possibile eliminare il Sconto"

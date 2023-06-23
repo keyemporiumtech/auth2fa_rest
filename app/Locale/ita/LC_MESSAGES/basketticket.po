@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basketticket_ITA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKETTICKET_NOT_FOUND"
+msgstr "ticket in carrello non trovato"
+
+msgid "INFO_BASKETTICKET_SAVE"
+msgstr "ticket in carrello salvato"
+
+msgid "ERROR_BASKETTICKET_SAVE"
+msgstr "Non è stato possibile salvare il ticket in carrello"
+
+msgid "INFO_BASKETTICKET_EDIT"
+msgstr "ticket in carrello modificato"
+
+msgid "ERROR_BASKETTICKET_EDIT"
+msgstr "Non è stato possibile modificare il ticket in carrello"
+
+msgid "INFO_BASKETTICKET_DELETE"
+msgstr "ticket in carrello eliminato"
+
+msgid "ERROR_BASKETTICKET_DELETE"
+msgstr "Non è stato possibile eliminare il ticket in carrello"

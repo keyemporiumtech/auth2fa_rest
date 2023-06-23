@@ -1,0 +1,8 @@
+msgid "FILE_NAME_LAN"
+msgstr "pdf_ENG"
+
+msgid "MODULE"
+msgstr "util_pdf"
+
+msgid "PDF_PAGE"
+msgstr "Page"

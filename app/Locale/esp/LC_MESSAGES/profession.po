@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "profession_ESP"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSION_NOT_FOUND"
+msgstr "Profesión no encontrada"
+
+msgid "INFO_PROFESSION_SAVE"
+msgstr "Profesión guardada"
+
+msgid "ERROR_PROFESSION_SAVE"
+msgstr "No fue posible guardar la Profesión"
+
+msgid "INFO_PROFESSION_EDIT"
+msgstr "Profesión modificada"
+
+msgid "ERROR_PROFESSION_EDIT"
+msgstr "No fue posible modificar la Profesión"
+
+msgid "INFO_PROFESSION_DELETE"
+msgstr "Profesión eliminada"
+
+msgid "ERROR_PROFESSION_DELETE"
+msgstr "No fue posible eliminar la Profesión"

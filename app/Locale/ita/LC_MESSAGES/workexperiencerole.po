@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperiencerole_ITA"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCEROLE_NOT_FOUND"
+msgstr "Ruolo non trovato"
+
+msgid "INFO_WORKEXPERIENCEROLE_SAVE"
+msgstr "Ruolo salvato"
+
+msgid "ERROR_WORKEXPERIENCEROLE_SAVE"
+msgstr "Non è stato possibile salvare il Ruolo"
+
+msgid "INFO_WORKEXPERIENCEROLE_EDIT"
+msgstr "Ruolo modificato"
+
+msgid "ERROR_WORKEXPERIENCEROLE_EDIT"
+msgstr "Non è stato possibile modificare il Ruolo"
+
+msgid "INFO_WORKEXPERIENCEROLE_DELETE"
+msgstr "Ruolo eliminato"
+
+msgid "ERROR_WORKEXPERIENCEROLE_DELETE"
+msgstr "Non è stato possibile eliminare il Ruolo"

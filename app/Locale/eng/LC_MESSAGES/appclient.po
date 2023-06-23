@@ -1,0 +1,30 @@
+msgid "FILE_NAME_LAN"
+msgstr "appclient_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_CLIENT_TOKEN"
+msgstr "This application is not authorized to access system resources"
+
+msgid "ERROR_CLIENTTOKEN_NOT_FOUND"
+msgstr "Client application not found"
+
+msgid "INFO_CLIENTTOKEN_SAVE"
+msgstr "Client application saved"
+
+msgid "ERROR_CLIENTTOKEN_SAVE"
+msgstr "The Client Application could not be saved"
+
+msgid "INFO_CLIENTTOKEN_EDIT"
+msgstr "Client application changed"
+
+msgid "ERROR_CLIENTTOKEN_EDIT"
+msgstr "The Client Application could not be changed"
+
+msgid "INFO_CLIENTTOKEN_DELETE"
+msgstr "Client application removed"
+
+msgid "ERROR_CLIENTTOKEN_DELETE"
+msgstr "The Client Application could not be deleted"
+

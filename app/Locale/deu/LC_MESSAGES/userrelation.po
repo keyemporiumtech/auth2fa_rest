@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "userrelation_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERRELATION_NOT_FOUND"
+msgstr "Benutzerbeziehung nicht gefunden"
+
+msgid "INFO_USERRELATION_SAVE"
+msgstr "Benutzerbeziehung gespeichert"
+
+msgid "ERROR_USERRELATION_SAVE"
+msgstr "Die/Das/Der Benutzerbeziehung konnte nicht gespeichert werden"
+
+msgid "INFO_USERRELATION_EDIT"
+msgstr "Benutzerbeziehung geändert"
+
+msgid "ERROR_USERRELATION_EDIT"
+msgstr "Die/Das/Der Benutzerbeziehung konnten nicht geändert werden"
+
+msgid "INFO_USERRELATION_DELETE"
+msgstr "Benutzerbeziehung gelöschte"
+
+msgid "ERROR_USERRELATION_DELETE"
+msgstr "Die/Das/Der Benutzerbeziehung konnte nicht gelöscht werden"

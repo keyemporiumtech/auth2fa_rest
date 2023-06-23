@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityreference_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYREFERENCE_NOT_FOUND"
+msgstr "Contatto non trovato"
+
+msgid "INFO_ACTIVITYREFERENCE_SAVE"
+msgstr "Contatto salvato"
+
+msgid "ERROR_ACTIVITYREFERENCE_SAVE"
+msgstr "Non è stato possibile salvare il Contatto"
+
+msgid "INFO_ACTIVITYREFERENCE_EDIT"
+msgstr "Contatto modificato"
+
+msgid "ERROR_ACTIVITYREFERENCE_EDIT"
+msgstr "Non è stato possibile modificare il Contatto"
+
+msgid "INFO_ACTIVITYREFERENCE_DELETE"
+msgstr "Contatto eliminato"
+
+msgid "ERROR_ACTIVITYREFERENCE_DELETE"
+msgstr "Non è stato possibile eliminare il Contatto"

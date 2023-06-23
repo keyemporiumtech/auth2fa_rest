@@ -1,0 +1,15 @@
+{
+  "id": "10225186616802742",
+  "provider": "FACEBOOK",
+  "photoUrl": "https://graph.facebook.com/10225186616802742/picture?type=normal",
+  "authToken": "EAAICcvGzPd8BAGRXbKcdwXXFWeFB1K5CkuUybf8qe5dIN6TE35NG8o3PowOglveSLFTEuZCHHUUsN2XKC1HU5UzBB6XZBr1FjzkUqFY9v0zVnFhKZApgGsz4nIpUMopDZBnqXQqZCZAlhcjZA3b2YSy6aFnjED89ZAhIJ66NBbIf0qUYZB3kRYoN9KYEl8bclAXyhlbtO2MdR0QZDZD",
+  "user": {
+    "username": "giuseppesassone98@gmail.com",
+    "name": "Giuseppe",
+    "surname": "Sassone",
+    "sex": "M",
+    "born": "1981-05-25 00:00:00+02:00"
+  },
+  "addresses": [],
+  "phones": []
+}

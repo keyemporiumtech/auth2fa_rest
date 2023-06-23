@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "paymentmethod_ITA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_PAYMENTMETHOD_NOT_FOUND"
+msgstr "metodo di pagamento non trovato"
+
+msgid "INFO_PAYMENTMETHOD_SAVE"
+msgstr "metodo di pagamento salvato"
+
+msgid "ERROR_PAYMENTMETHOD_SAVE"
+msgstr "Non è stato possibile salvare il metodo di pagamento"
+
+msgid "INFO_PAYMENTMETHOD_EDIT"
+msgstr "metodo di pagamento modificato"
+
+msgid "ERROR_PAYMENTMETHOD_EDIT"
+msgstr "Non è stato possibile modificare il metodo di pagamento"
+
+msgid "INFO_PAYMENTMETHOD_DELETE"
+msgstr "metodo di pagamento eliminato"
+
+msgid "ERROR_PAYMENTMETHOD_DELETE"
+msgstr "Non è stato possibile eliminare il metodo di pagamento"

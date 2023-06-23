@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionexperience_FRA"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_NOT_FOUND"
+msgstr "Expérience introuvable"
+
+msgid "INFO_PROFESSIONEXPERIENCE_SAVE"
+msgstr "Expérience enregistré"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer l'Expérience"
+
+msgid "INFO_PROFESSIONEXPERIENCE_EDIT"
+msgstr "Expérience modifié"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_EDIT"
+msgstr "Il n'a pas été possible de modifier l'Expérience"
+
+msgid "INFO_PROFESSIONEXPERIENCE_DELETE"
+msgstr "Expérience supprimé"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_DELETE"
+msgstr "Il n'a pas été possible de supprimer l'Expérience"

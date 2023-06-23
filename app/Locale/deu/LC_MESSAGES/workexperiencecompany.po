@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperiencecompany_DEU"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_NOT_FOUND"
+msgstr "Arbeitsunternehmen nicht gefunden"
+
+msgid "INFO_WORKEXPERIENCECOMPANY_SAVE"
+msgstr "Arbeitsunternehmen gespeichert"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_SAVE"
+msgstr "Das Arbeitsunternehmen konnte nicht gespeichert werden"
+
+msgid "INFO_WORKEXPERIENCECOMPANY_EDIT"
+msgstr "Arbeitsunternehmen geändert"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_EDIT"
+msgstr "Das Arbeitsunternehmen konnten nicht geändert werden"
+
+msgid "INFO_WORKEXPERIENCECOMPANY_DELETE"
+msgstr "Arbeitsunternehmen gelöschte"
+
+msgid "ERROR_WORKEXPERIENCECOMPANY_DELETE"
+msgstr "Das Arbeitsunternehmen konnte nicht gelöscht werden"

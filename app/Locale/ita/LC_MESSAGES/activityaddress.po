@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityaddress_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYADDRESS_NOT_FOUND"
+msgstr "Indirizzo non trovato"
+
+msgid "INFO_ACTIVITYADDRESS_SAVE"
+msgstr "Indirizzo salvato"
+
+msgid "ERROR_ACTIVITYADDRESS_SAVE"
+msgstr "Non è stato possibile salvare il Indirizzo"
+
+msgid "INFO_ACTIVITYADDRESS_EDIT"
+msgstr "Indirizzo modificato"
+
+msgid "ERROR_ACTIVITYADDRESS_EDIT"
+msgstr "Non è stato possibile modificare il Indirizzo"
+
+msgid "INFO_ACTIVITYADDRESS_DELETE"
+msgstr "Indirizzo eliminato"
+
+msgid "ERROR_ACTIVITYADDRESS_DELETE"
+msgstr "Non è stato possibile eliminare il Indirizzo"

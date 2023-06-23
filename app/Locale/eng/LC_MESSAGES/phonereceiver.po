@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "phonereceiver_ENG"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_PHONERECEIVER_NOT_FOUND"
+msgstr "Message recipient not found"
+
+msgid "INFO_PHONERECEIVER_SAVE"
+msgstr "Recipient of the message saved"
+
+msgid "ERROR_PHONERECEIVER_SAVE"
+msgstr "The Recipient of the message could not be saved"
+
+msgid "INFO_PHONERECEIVER_EDIT"
+msgstr "Message recipient changed"
+
+msgid "ERROR_PHONERECEIVER_EDIT"
+msgstr "It was not possible to change the Recipient of the message"
+
+msgid "INFO_PHONERECEIVER_DELETE"
+msgstr "Recipient of the message deleted"
+
+msgid "ERROR_PHONERECEIVER_DELETE"
+msgstr "It was not possible to delete the Recipient of the message"

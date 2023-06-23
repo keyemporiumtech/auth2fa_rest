@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityreference_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYREFERENCE_NOT_FOUND"
+msgstr "Contact not found"
+
+msgid "INFO_ACTIVITYREFERENCE_SAVE"
+msgstr "Contact saved"
+
+msgid "ERROR_ACTIVITYREFERENCE_SAVE"
+msgstr "The Contact could not be saved"
+
+msgid "INFO_ACTIVITYREFERENCE_EDIT"
+msgstr "Contact changed"
+
+msgid "ERROR_ACTIVITYREFERENCE_EDIT"
+msgstr "It was not possible to edit the Contact"
+
+msgid "INFO_ACTIVITYREFERENCE_DELETE"
+msgstr "Contact deleted"
+
+msgid "ERROR_ACTIVITYREFERENCE_DELETE"
+msgstr "The Contact could not be deleted"

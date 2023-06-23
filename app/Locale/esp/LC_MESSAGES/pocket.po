@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pocket_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKET_NOT_FOUND"
+msgstr "Paquete no encontradoo"
+
+msgid "INFO_POCKET_SAVE"
+msgstr "Paquete guardado"
+
+msgid "ERROR_POCKET_SAVE"
+msgstr "No se pudo guardar el paquete"
+
+msgid "INFO_POCKET_EDIT"
+msgstr "paquete modificado"
+
+msgid "ERROR_POCKET_EDIT"
+msgstr "No fue posible cambiar el paquete."
+
+msgid "INFO_POCKET_DELETE"
+msgstr "Paquete eliminado"
+
+msgid "ERROR_POCKET_DELETE"
+msgstr "No se pudo eliminar el paquete."

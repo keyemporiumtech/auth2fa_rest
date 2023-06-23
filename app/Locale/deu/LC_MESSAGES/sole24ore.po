@@ -1,0 +1,11 @@
+msgid "FILE_NAME_LAN"
+msgstr "sole24ore_DEU"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "ERROR_CURL_CONVERT"
+msgstr "Der rest CurrentRate-Aufruf erzeugte eine leere Antwort"
+
+msgid "EXCEPTION_CONVERT_CURRENCY_EMPTY"
+msgstr "Das sole24ore-Plugin hat keine Konvertierungsaufrufe durchgeführt, da eine oder beide der angeforderten Währungen nicht bereitgestellt wurden (von: %s, bis: %s)"

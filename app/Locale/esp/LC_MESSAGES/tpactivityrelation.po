@@ -1,0 +1,14 @@
+msgid "FILE_NAME_LAN"
+msgstr "tpactivityrelation_ESP"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "TPACTIVITYRELATION_PARTNER"
+msgstr "Socio de negocios"
+
+msgid "TPACTIVITYRELATION_GENERIC"
+msgstr "Relacion genérica"
+
+msgid "TPACTIVITYRELATION_WORK_EXPERIENCE"
+msgstr "Experiencia laboral"

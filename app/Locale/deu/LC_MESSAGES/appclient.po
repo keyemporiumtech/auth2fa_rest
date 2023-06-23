@@ -1,0 +1,30 @@
+msgid "FILE_NAME_LAN"
+msgstr "appclient_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_CLIENT_TOKEN"
+msgstr "Diese Anwendung ist nicht berechtigt, auf Systemressourcen zuzugreifen"
+
+msgid "ERROR_CLIENTTOKEN_NOT_FOUND"
+msgstr "Clientanwendung nicht gefunden"
+
+msgid "INFO_CLIENTTOKEN_SAVE"
+msgstr "Clientanwendung gespeichert"
+
+msgid "ERROR_CLIENTTOKEN_SAVE"
+msgstr "Die Client-Anwendung konnte nicht gespeichert werden"
+
+msgid "INFO_CLIENTTOKEN_EDIT"
+msgstr "Client-Anwendung geändert"
+
+msgid "ERROR_CLIENTTOKEN_EDIT"
+msgstr "Die Client-Anwendung konnte nicht geändert werden"
+
+msgid "INFO_CLIENTTOKEN_DELETE"
+msgstr "Clientanwendung gelöscht"
+
+msgid "ERROR_CLIENTTOKEN_DELETE"
+msgstr "Die Clientanwendung konnte nicht gelöscht werden"
+

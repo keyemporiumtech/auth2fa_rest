@@ -1,0 +1,11 @@
+msgid "FILE_NAME_LAN"
+msgstr "cakeutils_FRA"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "COOKIE_CAKEPHP"
+msgstr "Ce cookie stocke des informations de session et des données système pour permettre une navigation plus rapide en utilisant un système de mise en cache."
+
+msgid "COOKIE_DDC_PLATFORM"
+msgstr "Ce cookie stocke des informations sur le système d'exploitation et le navigateur utilisés afin d'évaluer les plates-formes les plus fréquemment utilisées par l'utilisateur pour sa navigation."

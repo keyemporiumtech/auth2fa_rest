@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "categoryattachment_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_CATEGORYATTACHMENT_NOT_FOUND"
+msgstr "Attachment not found"
+
+msgid "INFO_CATEGORYATTACHMENT_SAVE"
+msgstr "Attachment saved"
+
+msgid "ERROR_CATEGORYATTACHMENT_SAVE"
+msgstr "The attachment could not be saved"
+
+msgid "INFO_CATEGORYATTACHMENT_EDIT"
+msgstr "Attachment modified"
+
+msgid "ERROR_CATEGORYATTACHMENT_EDIT"
+msgstr "It was not possible to edit the Attachment"
+
+msgid "INFO_CATEGORYATTACHMENT_DELETE"
+msgstr "Attachment deleted"
+
+msgid "ERROR_CATEGORYATTACHMENT_DELETE"
+msgstr "It was not possible to delete the Attachment"

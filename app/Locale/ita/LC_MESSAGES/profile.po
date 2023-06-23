@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "profile_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_PROFILE_NOT_FOUND"
+msgstr "Profilo utente non trovato"
+
+msgid "INFO_PROFILE_SAVE"
+msgstr "Profilo utente salvato"
+
+msgid "ERROR_PROFILE_SAVE"
+msgstr "Non è stato possibile salvare il Profilo utente"
+
+msgid "INFO_PROFILE_EDIT"
+msgstr "Profilo utente modificato"
+
+msgid "ERROR_PROFILE_EDIT"
+msgstr "Non è stato possibile modificare il Profilo utente"
+
+msgid "INFO_PROFILE_DELETE"
+msgstr "Profilo utente eliminato"
+
+msgid "ERROR_PROFILE_DELETE"
+msgstr "Non è stato possibile eliminare il Profilo utente"

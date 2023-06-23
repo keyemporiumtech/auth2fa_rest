@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "phonereceiver_ITA"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_PHONERECEIVER_NOT_FOUND"
+msgstr "Destinatario del messaggio non trovato"
+
+msgid "INFO_PHONERECEIVER_SAVE"
+msgstr "Destinatario del messaggio salvato"
+
+msgid "ERROR_PHONERECEIVER_SAVE"
+msgstr "Non è stato possibile salvare il Destinatario del messaggio"
+
+msgid "INFO_PHONERECEIVER_EDIT"
+msgstr "Destinatario del messaggio modificato"
+
+msgid "ERROR_PHONERECEIVER_EDIT"
+msgstr "Non è stato possibile modificare il Destinatario del messaggio"
+
+msgid "INFO_PHONERECEIVER_DELETE"
+msgstr "Destinatario del messaggio eliminato"
+
+msgid "ERROR_PHONERECEIVER_DELETE"
+msgstr "Non è stato possibile eliminare il Destinatario del messaggio"

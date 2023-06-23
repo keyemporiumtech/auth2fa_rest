@@ -1,0 +1,11 @@
+msgid "FILE_NAME_LAN"
+msgstr "oanda_ITA"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "ERROR_CURL_CONVERT"
+msgstr "La chiamata rest currencies ha generato una response vuota"
+
+msgid "EXCEPTION_CONVERT_CURRENCY_EMPTY"
+msgstr "Il plugin oanda non ha effettuata alcuna chiamata di conversione poichè non è stata fornita una o entrambe le valute richieste (from: %s, to:%s)"

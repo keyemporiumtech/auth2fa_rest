@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionskill_FRA"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONSKILL_NOT_FOUND"
+msgstr "Compétence introuvable"
+
+msgid "INFO_PROFESSIONSKILL_SAVE"
+msgstr "Compétence enregistré"
+
+msgid "ERROR_PROFESSIONSKILL_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer la Compétence"
+
+msgid "INFO_PROFESSIONSKILL_EDIT"
+msgstr "Compétence modifié"
+
+msgid "ERROR_PROFESSIONSKILL_EDIT"
+msgstr "Il n'a pas été possible de modifier la Compétence"
+
+msgid "INFO_PROFESSIONSKILL_DELETE"
+msgstr "Compétence supprimé"
+
+msgid "ERROR_PROFESSIONSKILL_DELETE"
+msgstr "Il n'a pas été possible de supprimer la Compétence"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailattachment_ITA"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILATTACHMENT_NOT_FOUND"
+msgstr "Allegato dell'email non trovato"
+
+msgid "INFO_MAILATTACHMENT_SAVE"
+msgstr "Allegato dell'email salvato"
+
+msgid "ERROR_MAILATTACHMENT_SAVE"
+msgstr "Non è stato possibile salvare l'Allegato dell'email"
+
+msgid "INFO_MAILATTACHMENT_EDIT"
+msgstr "Allegato dell'email modificato"
+
+msgid "ERROR_MAILATTACHMENT_EDIT"
+msgstr "Non è stato possibile modificare l'Allegato dell'email"
+
+msgid "INFO_MAILATTACHMENT_DELETE"
+msgstr "Allegato dell'email eliminato"
+
+msgid "ERROR_MAILATTACHMENT_DELETE"
+msgstr "Non è stato possibile eliminare l'Allegato dell'email"

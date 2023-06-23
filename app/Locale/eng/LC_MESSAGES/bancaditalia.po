@@ -1,0 +1,20 @@
+msgid "FILE_NAME_LAN"
+msgstr "bancaditalia_ENG"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "ERROR_CURL_LATEST"
+msgstr "The rest latest call resulted in an empty response"
+
+msgid "INFO_CACHED_CURRENCIES"
+msgstr "Performed daily currency caching"
+
+msgid "ERROR_LATESTRATES_NOT_EXISTS"
+msgstr "The 'latestRates' key does not exist in the array"
+
+msgid "ERROR_LATESTRATES_KEY_NOT_FOUND"
+msgstr "The currency %s was not found in the 'latestRates' array"
+
+msgid "EXCEPTION_CONVERT_CURRENCY_NOT_FOUND"
+msgstr "The bancaditalia plugin could not find one or both of the requested currencies (from: %s, to: %s)"

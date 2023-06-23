@@ -1,0 +1,36 @@
+{
+    "name": "ddc/auth2fa_rest",
+    "version": "0.0.1",
+    "description": "Titolo prova",
+    "type": "project",
+    "keywords": ["dandy,bigstone,Titolo prova"],
+    "homepage": "http://okdqajyaj.preview.infomaniak.website/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "giuseppe sassone",
+            "email": "giuseppesassone00@gmail.com",
+            "homepage": "",
+            "role": "CEO"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/cakephp/cakephp/issues",
+        "forum": "http://stackoverflow.com/tags/cakephp",
+        "irc": "irc://irc.freenode.org/cakephp",
+        "source": "https://github.com/cakephp/cakephp"
+    },
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "suggest": {
+        "ext-openssl": "You need to install ext-openssl to use AES-256 encryption",
+        "ext-intl": "You need to install ext-intl to use unit test"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "bin": [
+        "lib/Cake/Console/cake"
+    ]
+}

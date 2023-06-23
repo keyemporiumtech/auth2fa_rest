@@ -1,0 +1,44 @@
+msgid "FILE_NAME_LAN"
+msgstr "errors_ITA"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_GENERIC"
+msgstr "Si è verificato un errore"
+
+msgid "ERROR_ACCESS"
+msgstr "Accesso negato"
+
+msgid "ERROR_MESSAGE"
+msgstr "Eccezione generata dal server. %s<br/>Contattare il servizio tecnico indicando il codice di errore %s"
+
+msgid "ERROR_NO_DATA_FOUND"
+msgstr "Dati non trovati"
+
+msgid "ERROR_THROW_EXCEPTION"
+msgstr "Si è incorsi in una eccezione"
+
+msgid "ERROR_SAVE"
+msgstr "Il salvataggio dei dati richiesto non è avvenuto correttamente"
+
+msgid "ERROR_EDIT"
+msgstr "La modifica dei dati richiesta non è avvenuta correttamente"
+
+msgid "ERROR_DELETE"
+msgstr "La cancellazione dei dati richiesta non è avvenuta correttamente"
+
+msgid "ERROR_SAVE_OBJECT_NULL"
+msgstr "L'oggetto da salvare è vuoto"
+
+msgid "ERROR_EDIT_OBJECT_NULL"
+msgstr "L'oggetto da modificare è vuoto"
+
+msgid "ERROR_DELETE_ID_NULL"
+msgstr "L'id da cancellare non è stato fornito"
+
+msgid "ERROR_PARAMS_NULL"
+msgstr "Nessun parametro obbligatorio di input fornito"
+
+msgid "ERROR_API_NULL"
+msgstr "L'api %s non è censita"

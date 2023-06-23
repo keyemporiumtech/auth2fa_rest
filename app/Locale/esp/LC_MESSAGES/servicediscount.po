@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "servicediscount_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICEDISCOUNT_NOT_FOUND"
+msgstr "Descuento no encontrado"
+
+msgid "INFO_SERVICEDISCOUNT_SAVE"
+msgstr "Descuento guardado"
+
+msgid "ERROR_SERVICEDISCOUNT_SAVE"
+msgstr "No se pudo guardar el descuento"
+
+msgid "INFO_SERVICEDISCOUNT_EDIT"
+msgstr "descuento cambiado"
+
+msgid "ERROR_SERVICEDISCOUNT_EDIT"
+msgstr "No fue posible cambiar el Descuento"
+
+msgid "INFO_SERVICEDISCOUNT_DELETE"
+msgstr "Descuento eliminado"
+
+msgid "ERROR_SERVICEDISCOUNT_DELETE"
+msgstr "No se pudo eliminar el descuento."

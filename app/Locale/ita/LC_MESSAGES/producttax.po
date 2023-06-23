@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "producttax_ITA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRODUCTTAX_NOT_FOUND"
+msgstr "Tassa non trovata"
+
+msgid "INFO_PRODUCTTAX_SAVE"
+msgstr "Tassa salvata"
+
+msgid "ERROR_PRODUCTTAX_SAVE"
+msgstr "Non è stato possibile salvare la Tassa"
+
+msgid "INFO_PRODUCTTAX_EDIT"
+msgstr "Tassa modificata"
+
+msgid "ERROR_PRODUCTTAX_EDIT"
+msgstr "Non è stato possibile modificare la Tassa"
+
+msgid "INFO_PRODUCTTAX_DELETE"
+msgstr "Tassa eliminata"
+
+msgid "ERROR_PRODUCTTAX_DELETE"
+msgstr "Non è stato possibile eliminare la Tassa"

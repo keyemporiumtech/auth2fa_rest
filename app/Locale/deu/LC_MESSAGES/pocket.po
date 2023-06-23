@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pocket_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKET_NOT_FOUND"
+msgstr "Paket nicht gefunden"
+
+msgid "INFO_POCKET_SAVE"
+msgstr "Paket gespeichert"
+
+msgid "ERROR_POCKET_SAVE"
+msgstr "Das Paket konnte nicht gespeichert werden"
+
+msgid "INFO_POCKET_EDIT"
+msgstr "Paket geändertes"
+
+msgid "ERROR_POCKET_EDIT"
+msgstr "Es war nicht möglich, das Paket zu ändern"
+
+msgid "INFO_POCKET_DELETE"
+msgstr "Paket gelöscht"
+
+msgid "ERROR_POCKET_DELETE"
+msgstr "Das Paket konnte nicht gelöscht werden"

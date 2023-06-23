@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailattachment_ENG"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILATTACHMENT_NOT_FOUND"
+msgstr "Email attachment not found"
+
+msgid "INFO_MAILATTACHMENT_SAVE"
+msgstr "Email attachment saved"
+
+msgid "ERROR_MAILATTACHMENT_SAVE"
+msgstr "The Email Attachment could not be saved"
+
+msgid "INFO_MAILATTACHMENT_EDIT"
+msgstr "Email attachment changed"
+
+msgid "ERROR_MAILATTACHMENT_EDIT"
+msgstr "It was not possible to edit the Attachment of the email"
+
+msgid "INFO_MAILATTACHMENT_DELETE"
+msgstr "Email attachment deleted"
+
+msgid "ERROR_MAILATTACHMENT_DELETE"
+msgstr "The Email Attachment could not be deleted"

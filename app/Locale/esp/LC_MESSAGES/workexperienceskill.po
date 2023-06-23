@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperienceskill_ESP"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCESKILL_NOT_FOUND"
+msgstr "Habilidad no encontrada"
+
+msgid "INFO_WORKEXPERIENCESKILL_SAVE"
+msgstr "Habilidad guardada"
+
+msgid "ERROR_WORKEXPERIENCESKILL_SAVE"
+msgstr "No fue posible guardar la Habilidad"
+
+msgid "INFO_WORKEXPERIENCESKILL_EDIT"
+msgstr "Habilidad modificada"
+
+msgid "ERROR_WORKEXPERIENCESKILL_EDIT"
+msgstr "No fue posible modificar la Habilidad"
+
+msgid "INFO_WORKEXPERIENCESKILL_DELETE"
+msgstr "Habilidad eliminada"
+
+msgid "ERROR_WORKEXPERIENCESKILL_DELETE"
+msgstr "No fue posible eliminar la Habilidad"

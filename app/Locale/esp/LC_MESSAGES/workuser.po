@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workuser_ESP"
+
+msgid "MODULE"
+msgstr "work_profile"
+
+msgid "ERROR_WORKUSER_NOT_FOUND"
+msgstr "Administración de usuarios no encontrada"
+
+msgid "INFO_WORKUSER_SAVE"
+msgstr "Administración de usuarios guardada"
+
+msgid "ERROR_WORKUSER_SAVE"
+msgstr "No fue posible guardar la Administración de usuarios"
+
+msgid "INFO_WORKUSER_EDIT"
+msgstr "Administración de usuarios modificada"
+
+msgid "ERROR_WORKUSER_EDIT"
+msgstr "No fue posible modificar la Administración de usuarios"
+
+msgid "INFO_WORKUSER_DELETE"
+msgstr "Administración de usuarios eliminada"
+
+msgid "ERROR_WORKUSER_DELETE"
+msgstr "No fue posible eliminar la Administración de usuarios"

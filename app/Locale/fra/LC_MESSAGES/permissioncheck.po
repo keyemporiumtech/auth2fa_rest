@@ -1,0 +1,12 @@
+msgid "FILE_NAME_LAN"
+msgstr "permissioncheck_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "WARNING_USER_ME"
+msgstr "Votre profil n'est pas activé pour gérer d'autres utilisateurs"
+
+msgid "WARNING_USERPROFILE_ME"
+msgstr "Votre profil n'est pas activé pour gérer d'autres profils"
+

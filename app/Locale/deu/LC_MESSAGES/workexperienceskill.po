@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperienceskill_DEU"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCESKILL_NOT_FOUND"
+msgstr "Skill nicht gefunden"
+
+msgid "INFO_WORKEXPERIENCESKILL_SAVE"
+msgstr "Skill gespeichert"
+
+msgid "ERROR_WORKEXPERIENCESKILL_SAVE"
+msgstr "Der Skill konnte nicht gespeichert werden"
+
+msgid "INFO_WORKEXPERIENCESKILL_EDIT"
+msgstr "Skill geändert"
+
+msgid "ERROR_WORKEXPERIENCESKILL_EDIT"
+msgstr "Der Skill konnten nicht geändert werden"
+
+msgid "INFO_WORKEXPERIENCESKILL_DELETE"
+msgstr "Skill gelöschte"
+
+msgid "ERROR_WORKEXPERIENCESKILL_DELETE"
+msgstr "Der Skill konnte nicht gelöscht werden"

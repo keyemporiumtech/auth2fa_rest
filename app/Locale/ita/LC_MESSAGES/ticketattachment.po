@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticketattachment_ITA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETATTACHMENT_NOT_FOUND"
+msgstr "allegato biglietto non trovato"
+
+msgid "INFO_TICKETATTACHMENT_SAVE"
+msgstr "allegato biglietto salvato"
+
+msgid "ERROR_TICKETATTACHMENT_SAVE"
+msgstr "Non è stato possibile salvare il allegato biglietto"
+
+msgid "INFO_TICKETATTACHMENT_EDIT"
+msgstr "allegato biglietto modificato"
+
+msgid "ERROR_TICKETATTACHMENT_EDIT"
+msgstr "Non è stato possibile modificare il allegato biglietto"
+
+msgid "INFO_TICKETATTACHMENT_DELETE"
+msgstr "allegato biglietto eliminato"
+
+msgid "ERROR_TICKETATTACHMENT_DELETE"
+msgstr "Non è stato possibile eliminare il allegato biglietto"

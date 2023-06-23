@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "userattachment_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERATTACHMENT_NOT_FOUND"
+msgstr "Attachment not found"
+
+msgid "INFO_USERATTACHMENT_SAVE"
+msgstr "Attachment saved"
+
+msgid "ERROR_USERATTACHMENT_SAVE"
+msgstr "The attachment could not be saved"
+
+msgid "INFO_USERATTACHMENT_EDIT"
+msgstr "Attachment modified"
+
+msgid "ERROR_USERATTACHMENT_EDIT"
+msgstr "It was not possible to edit the Attachment"
+
+msgid "INFO_USERATTACHMENT_DELETE"
+msgstr "Attachment deleted"
+
+msgid "ERROR_USERATTACHMENT_DELETE"
+msgstr "It was not possible to delete the Attachment"

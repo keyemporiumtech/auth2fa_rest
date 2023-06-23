@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "multilanguage_FRA"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_MULTILANGUAGE_NOT_FOUND"
+msgstr "Ligne traduite introuvable"
+
+msgid "INFO_MULTILANGUAGE_SAVE"
+msgstr "Ligne traduite enregistrée"
+
+msgid "ERROR_MULTILANGUAGE_SAVE"
+msgstr "La ligne traduite n'a pas pu être enregistrée"
+
+msgid "INFO_MULTILANGUAGE_EDIT"
+msgstr "La ligne traduite a été modifiée"
+
+msgid "ERROR_MULTILANGUAGE_EDIT"
+msgstr "La ligne Traduit n'a pas pu être modifiée"
+
+msgid "INFO_MULTILANGUAGE_DELETE"
+msgstr "Ligne traduite supprimée"
+
+msgid "ERROR_MULTILANGUAGE_DELETE"
+msgstr "La ligne traduite n'a pas pu être supprimée"

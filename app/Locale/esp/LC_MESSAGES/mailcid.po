@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailcid_ESP"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILCID_NOT_FOUND"
+msgstr "Correo electrónico cid no encontrado"
+
+msgid "INFO_MAILCID_SAVE"
+msgstr "Cid de correo electrónico guardado"
+
+msgid "ERROR_MAILCID_SAVE"
+msgstr "No se pudo guardar el Cid del correo"
+
+msgid "INFO_MAILCID_EDIT"
+msgstr "Cid de correo electrónico cambiado"
+
+msgid "ERROR_MAILCID_EDIT"
+msgstr "No se pudo cambiar el Cid del correo"
+
+msgid "INFO_MAILCID_DELETE"
+msgstr "Cid de correo electrónico eliminado"
+
+msgid "ERROR_MAILCID_DELETE"
+msgstr "No se pudo eliminar el Cid del correo"

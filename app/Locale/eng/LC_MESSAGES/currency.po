@@ -1,0 +1,45 @@
+msgid "FILE_NAME_LAN"
+msgstr "currency_ENG"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "ERROR_CURRENCY_NOT_FOUND"
+msgstr "Currency not found"
+
+msgid "INFO_CURRENCY_SAVE"
+msgstr "Currency saved"
+
+msgid "ERROR_CURRENCY_SAVE"
+msgstr "The Currency could not be saved"
+
+msgid "INFO_CURRENCY_EDIT"
+msgstr "Currency changed"
+
+msgid "ERROR_CURRENCY_EDIT"
+msgstr "The Currency could not be changed"
+
+msgid "INFO_CURRENCY_DELETE"
+msgstr "Currency removed"
+
+msgid "ERROR_CURRENCY_DELETE"
+msgstr "The Currency could not be deleted"
+
+msgid "ERROR_CURRENCY_COD"
+msgstr "No currencies found with code %s"
+
+msgid "ERROR_CURRENCY_SETUP"
+msgstr "The system currency could not be changed"
+
+msgid "INFO_CURRENCY_CHANGE"
+msgstr "System currency set: %s"
+
+msgid "INFO_CURRENCY_CHANGE_DEFAULT"
+msgstr "System currency set to default language: %s"
+
+msgid "ERROR_CURRENCY_CHANGE_DEFAULT"
+msgstr "Default currency not set in json"
+
+msgid "ERROR_CURRENCY_CONVERTER"
+msgstr "Currency conversion error"
+

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "serviceattachment_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICEATTACHMENT_NOT_FOUND"
+msgstr "Adjunto no encontrado"
+
+msgid "INFO_SERVICEATTACHMENT_SAVE"
+msgstr "Adjunto guardado"
+
+msgid "ERROR_SERVICEATTACHMENT_SAVE"
+msgstr "No se pudo guardar el archivo adjunto"
+
+msgid "INFO_SERVICEATTACHMENT_EDIT"
+msgstr "Adjunto modificado"
+
+msgid "ERROR_SERVICEATTACHMENT_EDIT"
+msgstr "No fue posible editar el Adjunto"
+
+msgid "INFO_SERVICEATTACHMENT_DELETE"
+msgstr "Adjunto eliminado"
+
+msgid "ERROR_SERVICEATTACHMENT_DELETE"
+msgstr "No fue posible eliminar el Adjunto"

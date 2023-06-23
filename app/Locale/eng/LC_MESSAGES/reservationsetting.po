@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "reservationsetting_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_RESERVATIONSETTING_NOT_FOUND"
+msgstr "Reservation setting not found"
+
+msgid "INFO_RESERVATIONSETTING_SAVE"
+msgstr "Reservation setting saved"
+
+msgid "ERROR_RESERVATIONSETTING_SAVE"
+msgstr "The Reservation setting could not be saved"
+
+msgid "INFO_RESERVATIONSETTING_EDIT"
+msgstr "Reservation setting changed"
+
+msgid "ERROR_RESERVATIONSETTING_EDIT"
+msgstr "The Reservation setting could not be changed"
+
+msgid "INFO_RESERVATIONSETTING_DELETE"
+msgstr "Reservation setting deleted"
+
+msgid "ERROR_RESERVATIONSETTING_DELETE"
+msgstr "Reservation Setting could not be deleted"

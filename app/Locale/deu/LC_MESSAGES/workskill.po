@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workskill_DEU"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKSKILL_NOT_FOUND"
+msgstr "Skill nicht gefunden"
+
+msgid "INFO_WORKSKILL_SAVE"
+msgstr "Skill gespeichert"
+
+msgid "ERROR_WORKSKILL_SAVE"
+msgstr "Der Skill konnte nicht gespeichert werden"
+
+msgid "INFO_WORKSKILL_EDIT"
+msgstr "Skill geändert"
+
+msgid "ERROR_WORKSKILL_EDIT"
+msgstr "Der Skill konnten nicht geändert werden"
+
+msgid "INFO_WORKSKILL_DELETE"
+msgstr "Skill gelöschte"
+
+msgid "ERROR_WORKSKILL_DELETE"
+msgstr "Der Skill konnte nicht gelöscht werden"

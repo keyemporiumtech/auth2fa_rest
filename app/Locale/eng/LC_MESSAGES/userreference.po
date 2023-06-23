@@ -1,0 +1,32 @@
+msgid "FILE_NAME_LAN"
+msgstr "userreference_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERREFERENCE_NOT_FOUND"
+msgstr "Contact not found"
+
+msgid "INFO_USERREFERENCE_SAVE"
+msgstr "Contact saved"
+
+msgid "ERROR_USERREFERENCE_SAVE"
+msgstr "The Contact could not be saved"
+
+msgid "INFO_USERREFERENCE_EDIT"
+msgstr "Contact changed"
+
+msgid "ERROR_USERREFERENCE_EDIT"
+msgstr "It was not possible to edit the Contact"
+
+msgid "INFO_USERREFERENCE_DELETE"
+msgstr "Contact deleted"
+
+msgid "ERROR_USERREFERENCE_DELETE"
+msgstr "The Contact could not be deleted"
+
+msgid "ERROR_USERREFERENCE_SET_PRINCIPAL"
+msgstr "The user contact could not be updated as primary"
+
+msgid "INFO_USERREFERENCE_SET_PRINCIPAL"
+msgstr "The user contact has been set as primary"

@@ -1,0 +1,11 @@
+msgid "FILE_NAME_LAN"
+msgstr "oanda_DEU"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "ERROR_CURL_CONVERT"
+msgstr "Der rest currencies-Aufruf generierte eine leere Antwort"
+
+msgid "EXCEPTION_CONVERT_CURRENCY_EMPTY"
+msgstr "Das oanda-Plug-in hat keine Konvertierungsaufrufe durchgeführt, da eine oder beide der angeforderten Währungen (von: %s, bis: %s) nicht bereitgestellt wurden"

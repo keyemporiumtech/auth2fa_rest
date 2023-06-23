@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "group_ITA"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_GROUP_NOT_FOUND"
+msgstr "Gruppo non trovato"
+
+msgid "INFO_GROUP_SAVE"
+msgstr "Gruppo salvato"
+
+msgid "ERROR_GROUP_SAVE"
+msgstr "Non è stato possibile salvare il Gruppo"
+
+msgid "INFO_GROUP_EDIT"
+msgstr "Gruppo modificato"
+
+msgid "ERROR_GROUP_EDIT"
+msgstr "Non è stato possibile modificare il Gruppo"
+
+msgid "INFO_GROUP_DELETE"
+msgstr "Gruppo eliminato"
+
+msgid "ERROR_GROUP_DELETE"
+msgstr "Non è stato possibile eliminare il Gruppo"

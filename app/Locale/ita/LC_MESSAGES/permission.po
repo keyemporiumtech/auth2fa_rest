@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "permission_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_PERMISSION_NOT_FOUND"
+msgstr "Permesso utente non trovato"
+
+msgid "INFO_PERMISSION_SAVE"
+msgstr "Permesso utente salvato"
+
+msgid "ERROR_PERMISSION_SAVE"
+msgstr "Non è stato possibile salvare il Permesso utente"
+
+msgid "INFO_PERMISSION_EDIT"
+msgstr "Permesso utente modificato"
+
+msgid "ERROR_PERMISSION_EDIT"
+msgstr "Non è stato possibile modificare il Permesso utente"
+
+msgid "INFO_PERMISSION_DELETE"
+msgstr "Permesso utente eliminato"
+
+msgid "ERROR_PERMISSION_DELETE"
+msgstr "Non è stato possibile eliminare il Permesso utente"

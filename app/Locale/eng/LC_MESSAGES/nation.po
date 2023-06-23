@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "nation_ENG"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_NATION_NOT_FOUND"
+msgstr "Nation not found"
+
+msgid "INFO_NATION_SAVE"
+msgstr "Nation saved"
+
+msgid "ERROR_NATION_SAVE"
+msgstr "It was not possible to save the nation"
+
+msgid "INFO_NATION_EDIT"
+msgstr "Nation changed"
+
+msgid "ERROR_NATION_EDIT"
+msgstr "It was not possible to change the nation"
+
+msgid "INFO_NATION_DELETE"
+msgstr "Nation eliminated"
+
+msgid "ERROR_NATION_DELETE"
+msgstr "It was not possible to eliminate the nation"

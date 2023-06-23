@@ -1,0 +1,35 @@
+msgid "FILE_NAME_LAN"
+msgstr "tpsocialreference_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "TPSOCIALREFERENCE_FB"
+msgstr "Facebook"
+
+msgid "TPSOCIALREFERENCE_TW"
+msgstr "Twitter"
+
+msgid "TPSOCIALREFERENCE_LI"
+msgstr "Linked In"
+
+msgid "TPSOCIALREFERENCE_GP"
+msgstr "Google Plus"
+
+msgid "TPSOCIALREFERENCE_PI"
+msgstr "Pinterest"
+
+msgid "TPSOCIALREFERENCE_YB"
+msgstr "Youtube"
+
+msgid "TPSOCIALREFERENCE_IS"
+msgstr "Instagram"
+
+msgid "TPSOCIALREFERENCE_MU"
+msgstr "Meetup"
+
+msgid "TPSOCIALREFERENCE_TB"
+msgstr "Tumblr"
+
+msgid "TPSOCIALREFERENCE_WA"
+msgstr "Whatsapp"

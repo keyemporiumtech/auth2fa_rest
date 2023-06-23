@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basketservice_ESP"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKETSERVICE_NOT_FOUND"
+msgstr "servicio en carrito no encontrado"
+
+msgid "INFO_BASKETSERVICE_SAVE"
+msgstr "servicio en carrito guardado"
+
+msgid "ERROR_BASKETSERVICE_SAVE"
+msgstr "No fue posible guardar el servicio en el carrito"
+
+msgid "INFO_BASKETSERVICE_EDIT"
+msgstr "servicio en carrito modificado"
+
+msgid "ERROR_BASKETSERVICE_EDIT"
+msgstr "No fue posible modificar el servicio en el carrito"
+
+msgid "INFO_BASKETSERVICE_DELETE"
+msgstr "servicio en carrito eliminado"
+
+msgid "ERROR_BASKETSERVICE_DELETE"
+msgstr "No fue posible retirar el servicio del carrito"

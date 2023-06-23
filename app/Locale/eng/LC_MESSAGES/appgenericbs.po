@@ -1,0 +1,14 @@
+msgid "FILE_NAME_LAN"
+msgstr "appgenericbs_ENG"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_OBJECT_NOT_FOUND"
+msgstr "Object not found for class %s"
+
+msgid "ERROR_OBJECT_CLASS_NOT_FOUND"
+msgstr "The class %s does not exist in the received data"
+
+msgid "ERROR_EMPTY_LIST"
+msgstr "No records found"

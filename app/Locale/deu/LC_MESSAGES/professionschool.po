@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionschool_DEU"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONSCHOOL_NOT_FOUND"
+msgstr "Ausbildung nicht gefunden"
+
+msgid "INFO_PROFESSIONSCHOOL_SAVE"
+msgstr "Ausbildung gespeichert"
+
+msgid "ERROR_PROFESSIONSCHOOL_SAVE"
+msgstr "Die Ausbildung konnte nicht gespeichert werden"
+
+msgid "INFO_PROFESSIONSCHOOL_EDIT"
+msgstr "Ausbildung geändert"
+
+msgid "ERROR_PROFESSIONSCHOOL_EDIT"
+msgstr "Die Ausbildung konnten nicht geändert werden"
+
+msgid "INFO_PROFESSIONSCHOOL_DELETE"
+msgstr "Ausbildung gelöschte"
+
+msgid "ERROR_PROFESSIONSCHOOL_DELETE"
+msgstr "Die Ausbildung konnte nicht gelöscht werden"

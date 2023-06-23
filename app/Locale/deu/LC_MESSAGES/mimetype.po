@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "mimetype_DEU"
+
+msgid "MODULE"
+msgstr "resources"
+
+msgid "ERROR_MIMETYPE_NOT_FOUND"
+msgstr "Mimetyp nicht gefunden"
+
+msgid "INFO_MIMETYPE_SAVE"
+msgstr "Mimetyp gespeichert"
+
+msgid "ERROR_MIMETYPE_SAVE"
+msgstr "Mimetyp konnte nicht gespeichert werden"
+
+msgid "INFO_MIMETYPE_EDIT"
+msgstr "Modifizierter Mimetyp"
+
+msgid "ERROR_MIMETYPE_EDIT"
+msgstr "Mimetyp konnte nicht geändert werden"
+
+msgid "INFO_MIMETYPE_DELETE"
+msgstr "Mimetyp entfernt"
+
+msgid "ERROR_MIMETYPE_DELETE"
+msgstr "Mimetyp konnte nicht gelöscht werden"

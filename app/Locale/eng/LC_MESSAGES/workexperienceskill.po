@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperienceskill_ENG"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCESKILL_NOT_FOUND"
+msgstr "Skill not found"
+
+msgid "INFO_WORKEXPERIENCESKILL_SAVE"
+msgstr "Skill saved"
+
+msgid "ERROR_WORKEXPERIENCESKILL_SAVE"
+msgstr "It was not possible to save the Skill"
+
+msgid "INFO_WORKEXPERIENCESKILL_EDIT"
+msgstr "Skill changed"
+
+msgid "ERROR_WORKEXPERIENCESKILL_EDIT"
+msgstr "It was not possible to change the Skill"
+
+msgid "INFO_WORKEXPERIENCESKILL_DELETE"
+msgstr "Skill deleted"
+
+msgid "ERROR_WORKEXPERIENCESKILL_DELETE"
+msgstr "It was not possible to delete the Skill"

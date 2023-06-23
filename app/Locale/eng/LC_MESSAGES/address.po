@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "address_ENG"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_ADDRESS_NOT_FOUND"
+msgstr "Address not found"
+
+msgid "INFO_ADDRESS_SAVE"
+msgstr "Address saved"
+
+msgid "ERROR_ADDRESS_SAVE"
+msgstr "The Address could not be saved"
+
+msgid "INFO_ADDRESS_EDIT"
+msgstr "Address changed"
+
+msgid "ERROR_ADDRESS_EDIT"
+msgstr "It was not possible to change the Address"
+
+msgid "INFO_ADDRESS_DELETE"
+msgstr "Address deleted"
+
+msgid "ERROR_ADDRESS_DELETE"
+msgstr "The Address could not be deleted"

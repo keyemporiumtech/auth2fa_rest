@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionskill_ENG"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONSKILL_NOT_FOUND"
+msgstr "Skill not found"
+
+msgid "INFO_PROFESSIONSKILL_SAVE"
+msgstr "Skill saved"
+
+msgid "ERROR_PROFESSIONSKILL_SAVE"
+msgstr "It was not possible to save the Skill"
+
+msgid "INFO_PROFESSIONSKILL_EDIT"
+msgstr "Skill changed"
+
+msgid "ERROR_PROFESSIONSKILL_EDIT"
+msgstr "It was not possible to change the Skill"
+
+msgid "INFO_PROFESSIONSKILL_DELETE"
+msgstr "Skill deleted"
+
+msgid "ERROR_PROFESSIONSKILL_DELETE"
+msgstr "It was not possible to delete the Skill"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityprofile_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYPROFILE_NOT_FOUND"
+msgstr "Unternehmensprofil nicht gefunden"
+
+msgid "INFO_ACTIVITYPROFILE_SAVE"
+msgstr "Unternehmensprofil gespeichert"
+
+msgid "ERROR_ACTIVITYPROFILE_SAVE"
+msgstr "Das Firmenprofil konnte nicht gespeichert werden"
+
+msgid "INFO_ACTIVITYPROFILE_EDIT"
+msgstr "Firmenprofil geändert"
+
+msgid "ERROR_ACTIVITYPROFILE_EDIT"
+msgstr "Das Firmenprofil konnte nicht bearbeitet werden"
+
+msgid "INFO_ACTIVITYPROFILE_DELETE"
+msgstr "Unternehmensprofil gelöscht"
+
+msgid "ERROR_ACTIVITYPROFILE_DELETE"
+msgstr "Das Unternehmensprofil konnte nicht gelöscht werden"

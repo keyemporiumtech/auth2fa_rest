@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityprofile_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYPROFILE_NOT_FOUND"
+msgstr "Profilo aziendale non trovato"
+
+msgid "INFO_ACTIVITYPROFILE_SAVE"
+msgstr "Profilo aziendale salvato"
+
+msgid "ERROR_ACTIVITYPROFILE_SAVE"
+msgstr "Non è stato possibile salvare il Profilo aziendale"
+
+msgid "INFO_ACTIVITYPROFILE_EDIT"
+msgstr "Profilo aziendale modificato"
+
+msgid "ERROR_ACTIVITYPROFILE_EDIT"
+msgstr "Non è stato possibile modificare il Profilo aziendale"
+
+msgid "INFO_ACTIVITYPROFILE_DELETE"
+msgstr "Profilo aziendale eliminato"
+
+msgid "ERROR_ACTIVITYPROFILE_DELETE"
+msgstr "Non è stato possibile eliminare il Profilo aziendale"

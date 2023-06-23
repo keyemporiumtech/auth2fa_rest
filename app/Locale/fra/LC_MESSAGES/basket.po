@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basket_FRA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKET_NOT_FOUND"
+msgstr "panier introuvable"
+
+msgid "INFO_BASKET_SAVE"
+msgstr "panier enregistré"
+
+msgid "ERROR_BASKET_SAVE"
+msgstr "Le panier n'a pas pu être enregistré"
+
+msgid "INFO_BASKET_EDIT"
+msgstr "panier modifié"
+
+msgid "ERROR_BASKET_EDIT"
+msgstr "Il n'a pas été possible de modifier le panier"
+
+msgid "INFO_BASKET_DELETE"
+msgstr "panier supprimé"
+
+msgid "ERROR_BASKET_DELETE"
+msgstr "Le panier n'a pas pu être supprimé"

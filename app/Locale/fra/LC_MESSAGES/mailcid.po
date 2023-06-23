@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailcid_FRA"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILCID_NOT_FOUND"
+msgstr "Cid e-mail introuvable"
+
+msgid "INFO_MAILCID_SAVE"
+msgstr "Cid de l'e-mail enregistré"
+
+msgid "ERROR_MAILCID_SAVE"
+msgstr "Le Cid de l'e-mail n'a pas pu être enregistré"
+
+msgid "INFO_MAILCID_EDIT"
+msgstr "Cid e-mail modifié"
+
+msgid "ERROR_MAILCID_EDIT"
+msgstr "Le Cid de l'e-mail n'a pas pu être modifié"
+
+msgid "INFO_MAILCID_DELETE"
+msgstr "Cid de l'e-mail supprimé"
+
+msgid "ERROR_MAILCID_DELETE"
+msgstr "Le Cid de l'e-mail n'a pas pu être supprimé"

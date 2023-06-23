@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "productdiscount_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRODUCTDISCOUNT_NOT_FOUND"
+msgstr "Descuento no encontrado"
+
+msgid "INFO_PRODUCTDISCOUNT_SAVE"
+msgstr "Descuento guardado"
+
+msgid "ERROR_PRODUCTDISCOUNT_SAVE"
+msgstr "No se pudo guardar el descuento"
+
+msgid "INFO_PRODUCTDISCOUNT_EDIT"
+msgstr "descuento cambiado"
+
+msgid "ERROR_PRODUCTDISCOUNT_EDIT"
+msgstr "No fue posible cambiar el Descuento"
+
+msgid "INFO_PRODUCTDISCOUNT_DELETE"
+msgstr "Descuento eliminado"
+
+msgid "ERROR_PRODUCTDISCOUNT_DELETE"
+msgstr "No se pudo eliminar el descuento."

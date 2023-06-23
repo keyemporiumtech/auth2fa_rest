@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pockettax_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKETTAX_NOT_FOUND"
+msgstr "Tarifa no encontrada"
+
+msgid "INFO_POCKETTAX_SAVE"
+msgstr "Tarifa guardada"
+
+msgid "ERROR_POCKETTAX_SAVE"
+msgstr "No fue posible ahorrar la tarifa"
+
+msgid "INFO_POCKETTAX_EDIT"
+msgstr "Tarifa modificada"
+
+msgid "ERROR_POCKETTAX_EDIT"
+msgstr "No fue posible cambiar la tarifa."
+
+msgid "INFO_POCKETTAX_DELETE"
+msgstr "Tarifa eliminada"
+
+msgid "ERROR_POCKETTAX_DELETE"
+msgstr "No fue posible eliminar la tarifa"

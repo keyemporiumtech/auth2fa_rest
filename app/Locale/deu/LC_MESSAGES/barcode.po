@@ -1,0 +1,11 @@
+msgid "FILE_NAME_LAN"
+msgstr "barcode_DEU"
+
+msgid "MODULE"
+msgstr "util_printcodes"
+
+msgid "ERROR_BARCODE_NOT_TEXT"
+msgstr "Kein Text zum Konvertieren in Barcode"
+
+msgid "ERROR_BARCODE_NOT_CONVERTED"
+msgstr "Es war nicht möglich, den Text in Barcode umzuwandeln"

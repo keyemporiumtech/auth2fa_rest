@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "productattachment_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRODUCTATTACHMENT_NOT_FOUND"
+msgstr "Adjunto no encontrado"
+
+msgid "INFO_PRODUCTATTACHMENT_SAVE"
+msgstr "Adjunto guardado"
+
+msgid "ERROR_PRODUCTATTACHMENT_SAVE"
+msgstr "No se pudo guardar el archivo adjunto"
+
+msgid "INFO_PRODUCTATTACHMENT_EDIT"
+msgstr "Adjunto modificado"
+
+msgid "ERROR_PRODUCTATTACHMENT_EDIT"
+msgstr "No fue posible editar el Adjunto"
+
+msgid "INFO_PRODUCTATTACHMENT_DELETE"
+msgstr "Adjunto eliminado"
+
+msgid "ERROR_PRODUCTATTACHMENT_DELETE"
+msgstr "No fue posible eliminar el Adjunto"

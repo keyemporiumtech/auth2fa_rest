@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionattachment_DEU"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONATTACHMENT_NOT_FOUND"
+msgstr "Anhang nicht gefunden"
+
+msgid "INFO_PROFESSIONATTACHMENT_SAVE"
+msgstr "Anhang gespeichert"
+
+msgid "ERROR_PROFESSIONATTACHMENT_SAVE"
+msgstr "Der Anhang konnte nicht gespeichert werden"
+
+msgid "INFO_PROFESSIONATTACHMENT_EDIT"
+msgstr "Anhang geändert"
+
+msgid "ERROR_PROFESSIONATTACHMENT_EDIT"
+msgstr "Der Anhang konnten nicht geändert werden"
+
+msgid "INFO_PROFESSIONATTACHMENT_DELETE"
+msgstr "Anhang gelöschte"
+
+msgid "ERROR_PROFESSIONATTACHMENT_DELETE"
+msgstr "Der Anhang konnte nicht gelöscht werden"

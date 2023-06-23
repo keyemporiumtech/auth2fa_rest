@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "event_ENG"
+
+msgid "MODULE"
+msgstr "calendar"
+
+msgid "ERROR_EVENT_NOT_FOUND"
+msgstr "Event not found"
+
+msgid "INFO_EVENT_SAVE"
+msgstr "Event saved"
+
+msgid "ERROR_EVENT_SAVE"
+msgstr "The Event could not be saved"
+
+msgid "INFO_EVENT_EDIT"
+msgstr "Event changed"
+
+msgid "ERROR_EVENT_EDIT"
+msgstr "The Event could not be changed"
+
+msgid "INFO_EVENT_DELETE"
+msgstr "Event deleted"
+
+msgid "ERROR_EVENT_DELETE"
+msgstr "The Event could not be deleted"

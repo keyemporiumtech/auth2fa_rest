@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionexperience_ENG"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_NOT_FOUND"
+msgstr "Work experience not found"
+
+msgid "INFO_PROFESSIONEXPERIENCE_SAVE"
+msgstr "Work experience saved"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_SAVE"
+msgstr "It was not possible to save the Work experience"
+
+msgid "INFO_PROFESSIONEXPERIENCE_EDIT"
+msgstr "Work experience changed"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_EDIT"
+msgstr "It was not possible to change the Work experience"
+
+msgid "INFO_PROFESSIONEXPERIENCE_DELETE"
+msgstr "Work experience deleted"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_DELETE"
+msgstr "It was not possible to delete the Work experience"

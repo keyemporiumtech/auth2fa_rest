@@ -1,0 +1,32 @@
+msgid "FILE_NAME_LAN"
+msgstr "userreference_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERREFERENCE_NOT_FOUND"
+msgstr "Contatto non trovato"
+
+msgid "INFO_USERREFERENCE_SAVE"
+msgstr "Contatto salvato"
+
+msgid "ERROR_USERREFERENCE_SAVE"
+msgstr "Non è stato possibile salvare il Contatto"
+
+msgid "INFO_USERREFERENCE_EDIT"
+msgstr "Contatto modificato"
+
+msgid "ERROR_USERREFERENCE_EDIT"
+msgstr "Non è stato possibile modificare il Contatto"
+
+msgid "INFO_USERREFERENCE_DELETE"
+msgstr "Contatto eliminato"
+
+msgid "ERROR_USERREFERENCE_DELETE"
+msgstr "Non è stato possibile eliminare il Contatto"
+
+msgid "ERROR_USERREFERENCE_SET_PRINCIPAL"
+msgstr "Non è stato possibile aggiorname il contatto utente come principale"
+
+msgid "INFO_USERREFERENCE_SET_PRINCIPAL"
+msgstr "Il contatto utente è stato impostato come principale"

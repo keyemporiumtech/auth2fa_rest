@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityattachment_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYATTACHMENT_NOT_FOUND"
+msgstr "Allegato non trovato"
+
+msgid "INFO_ACTIVITYATTACHMENT_SAVE"
+msgstr "Allegato salvato"
+
+msgid "ERROR_ACTIVITYATTACHMENT_SAVE"
+msgstr "Non è stato possibile salvare l'Allegato"
+
+msgid "INFO_ACTIVITYATTACHMENT_EDIT"
+msgstr "Allegato modificato"
+
+msgid "ERROR_ACTIVITYATTACHMENT_EDIT"
+msgstr "Non è stato possibile modificare l'Allegato"
+
+msgid "INFO_ACTIVITYATTACHMENT_DELETE"
+msgstr "Allegato eliminato"
+
+msgid "ERROR_ACTIVITYATTACHMENT_DELETE"
+msgstr "Non è stato possibile eliminare l'Allegato"

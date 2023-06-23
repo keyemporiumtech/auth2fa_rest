@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "useroauthsocial_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USEROAUTHSOCIAL_NOT_FOUND"
+msgstr "OAuth-Entwickler nicht gefunden"
+
+msgid "INFO_USEROAUTHSOCIAL_SAVE"
+msgstr "Oauth-Entwickler gespeichert"
+
+msgid "ERROR_USEROAUTHSOCIAL_SAVE"
+msgstr "Der OAuth-Entwickler konnte nicht gespeichert werden"
+
+msgid "INFO_USEROAUTHSOCIAL_EDIT"
+msgstr "modifizierter OAuth-Entwickler"
+
+msgid "ERROR_USEROAUTHSOCIAL_EDIT"
+msgstr "Der OAuth-Entwickler konnte nicht geändert werden"
+
+msgid "INFO_USEROAUTHSOCIAL_DELETE"
+msgstr "oauth-Entwickler eliminiert"
+
+msgid "ERROR_USEROAUTHSOCIAL_DELETE"
+msgstr "Der OAuth-Entwickler konnte nicht gelöscht werden"

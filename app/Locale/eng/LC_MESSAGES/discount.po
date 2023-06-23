@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "discount_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_DISCOUNT_NOT_FOUND"
+msgstr "Discount not found"
+
+msgid "INFO_DISCOUNT_SAVE"
+msgstr "Discount saved"
+
+msgid "ERROR_DISCOUNT_SAVE"
+msgstr "The Discount could not be saved"
+
+msgid "INFO_DISCOUNT_EDIT"
+msgstr "Discount changed"
+
+msgid "ERROR_DISCOUNT_EDIT"
+msgstr "It was not possible to change the Discount"
+
+msgid "INFO_DISCOUNT_DELETE"
+msgstr "Discount deleted"
+
+msgid "ERROR_DISCOUNT_DELETE"
+msgstr "The discount could not be deleted"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pocketdiscount_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKETDISCOUNT_NOT_FOUND"
+msgstr "Discount not found"
+
+msgid "INFO_POCKETDISCOUNT_SAVE"
+msgstr "Discount saved"
+
+msgid "ERROR_POCKETDISCOUNT_SAVE"
+msgstr "The Discount could not be saved"
+
+msgid "INFO_POCKETDISCOUNT_EDIT"
+msgstr "Discount changed"
+
+msgid "ERROR_POCKETDISCOUNT_EDIT"
+msgstr "It was not possible to change the Discount"
+
+msgid "INFO_POCKETDISCOUNT_DELETE"
+msgstr "Discount deleted"
+
+msgid "ERROR_POCKETDISCOUNT_DELETE"
+msgstr "The discount could not be deleted"

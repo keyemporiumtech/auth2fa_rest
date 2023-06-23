@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workskill_ESP"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKSKILL_NOT_FOUND"
+msgstr "Habilidad no encontrada"
+
+msgid "INFO_WORKSKILL_SAVE"
+msgstr "Habilidad guardada"
+
+msgid "ERROR_WORKSKILL_SAVE"
+msgstr "No fue posible guardar la Habilidad"
+
+msgid "INFO_WORKSKILL_EDIT"
+msgstr "Habilidad modificada"
+
+msgid "ERROR_WORKSKILL_EDIT"
+msgstr "No fue posible modificar la Habilidad"
+
+msgid "INFO_WORKSKILL_DELETE"
+msgstr "Habilidad eliminada"
+
+msgid "ERROR_WORKSKILL_DELETE"
+msgstr "No fue posible eliminar la Habilidad"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "contactreference_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_CONTACTREFERENCE_NOT_FOUND"
+msgstr "Contact introuvable"
+
+msgid "INFO_CONTACTREFERENCE_SAVE"
+msgstr "Contact enregistré"
+
+msgid "ERROR_CONTACTREFERENCE_SAVE"
+msgstr "Le contact n'a pas pu être enregistré"
+
+msgid "INFO_CONTACTREFERENCE_EDIT"
+msgstr "Contact modifié"
+
+msgid "ERROR_CONTACTREFERENCE_EDIT"
+msgstr "Il n'a pas été possible de modifier le contact"
+
+msgid "INFO_CONTACTREFERENCE_DELETE"
+msgstr "Contact supprimé"
+
+msgid "ERROR_CONTACTREFERENCE_DELETE"
+msgstr "Le contact n'a pas pu être supprimé"

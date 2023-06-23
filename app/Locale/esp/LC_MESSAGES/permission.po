@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "permission_ESP"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_PERMISSION_NOT_FOUND"
+msgstr "Permiso de usuario no encontrado"
+
+msgid "INFO_PERMISSION_SAVE"
+msgstr "Permiso de usuario guardado"
+
+msgid "ERROR_PERMISSION_SAVE"
+msgstr "No se pudo guardar el permiso de usuario"
+
+msgid "INFO_PERMISSION_EDIT"
+msgstr "Permiso de usuario cambiado"
+
+msgid "ERROR_PERMISSION_EDIT"
+msgstr "No fue posible cambiar el Permiso de Usuario"
+
+msgid "INFO_PERMISSION_DELETE"
+msgstr "Permiso de usuario eliminado"
+
+msgid "ERROR_PERMISSION_DELETE"
+msgstr "No se pudo eliminar el permiso de usuario"

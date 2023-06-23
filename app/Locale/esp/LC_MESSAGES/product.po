@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "product_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_PRODUCT_NOT_FOUND"
+msgstr "Producto no encontrado"
+
+msgid "INFO_PRODUCT_SAVE"
+msgstr "Producto guardado"
+
+msgid "ERROR_PRODUCT_SAVE"
+msgstr "El producto no se pudo guardar"
+
+msgid "INFO_PRODUCT_EDIT"
+msgstr "producto modificado"
+
+msgid "ERROR_PRODUCT_EDIT"
+msgstr "No fue posible modificar el Producto"
+
+msgid "INFO_PRODUCT_DELETE"
+msgstr "Producto eliminado"
+
+msgid "ERROR_PRODUCT_DELETE"
+msgstr "No se pudo eliminar el Producto"

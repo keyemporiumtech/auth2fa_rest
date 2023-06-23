@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionexperience_ESP"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_NOT_FOUND"
+msgstr "Experiencia laboral no encontrada"
+
+msgid "INFO_PROFESSIONEXPERIENCE_SAVE"
+msgstr "Experiencia laboral guardada"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_SAVE"
+msgstr "No fue posible guardar la Experiencia laboral"
+
+msgid "INFO_PROFESSIONEXPERIENCE_EDIT"
+msgstr "Experiencia laboral modificada"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_EDIT"
+msgstr "No fue posible modificar la Experiencia laboral"
+
+msgid "INFO_PROFESSIONEXPERIENCE_DELETE"
+msgstr "Experiencia laboral eliminada"
+
+msgid "ERROR_PROFESSIONEXPERIENCE_DELETE"
+msgstr "No fue posible eliminar la Experiencia laboral"

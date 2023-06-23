@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workuser_ENG"
+
+msgid "MODULE"
+msgstr "work_profile"
+
+msgid "ERROR_WORKUSER_NOT_FOUND"
+msgstr "User management not found"
+
+msgid "INFO_WORKUSER_SAVE"
+msgstr "User management saved"
+
+msgid "ERROR_WORKUSER_SAVE"
+msgstr "It was not possible to save the User management"
+
+msgid "INFO_WORKUSER_EDIT"
+msgstr "User management changed"
+
+msgid "ERROR_WORKUSER_EDIT"
+msgstr "It was not possible to change the User management"
+
+msgid "INFO_WORKUSER_DELETE"
+msgstr "User management deleted"
+
+msgid "ERROR_WORKUSER_DELETE"
+msgstr "It was not possible to delete the User management"

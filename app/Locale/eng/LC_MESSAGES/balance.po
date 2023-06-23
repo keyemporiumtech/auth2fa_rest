@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "balance_ENG"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BALANCE_NOT_FOUND"
+msgstr "balance not found"
+
+msgid "INFO_BALANCE_SAVE"
+msgstr "balance saved"
+
+msgid "ERROR_BALANCE_SAVE"
+msgstr "It was not possible to save the balance"
+
+msgid "INFO_BALANCE_EDIT"
+msgstr "balance changed"
+
+msgid "ERROR_BALANCE_EDIT"
+msgstr "It was not possible to change the balance"
+
+msgid "INFO_BALANCE_DELETE"
+msgstr "balance eliminated"
+
+msgid "ERROR_BALANCE_DELETE"
+msgstr "It was not possible to eliminate the balance"

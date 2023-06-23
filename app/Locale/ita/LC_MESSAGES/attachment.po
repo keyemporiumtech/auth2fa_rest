@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "attachment_ITA"
+
+msgid "MODULE"
+msgstr "resources"
+
+msgid "ERROR_ATTACHMENT_NOT_FOUND"
+msgstr "Allegato non trovato"
+
+msgid "INFO_ATTACHMENT_SAVE"
+msgstr "Allegato salvato"
+
+msgid "ERROR_ATTACHMENT_SAVE"
+msgstr "Non è stato possibile salvare l'Allegato"
+
+msgid "INFO_ATTACHMENT_EDIT"
+msgstr "Allegato modificato"
+
+msgid "ERROR_ATTACHMENT_EDIT"
+msgstr "Non è stato possibile modificare l'Allegato"
+
+msgid "INFO_ATTACHMENT_DELETE"
+msgstr "Allegato eliminato"
+
+msgid "ERROR_ATTACHMENT_DELETE"
+msgstr "Non è stato possibile eliminare l'Allegato"

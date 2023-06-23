@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperience_FRA"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCE_NOT_FOUND"
+msgstr "Expérience professionnelle introuvable"
+
+msgid "INFO_WORKEXPERIENCE_SAVE"
+msgstr "Expérience professionnelle enregistré"
+
+msgid "ERROR_WORKEXPERIENCE_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer le Expérience professionnelle"
+
+msgid "INFO_WORKEXPERIENCE_EDIT"
+msgstr "Expérience professionnelle modifié"
+
+msgid "ERROR_WORKEXPERIENCE_EDIT"
+msgstr "Il n'a pas été possible de modifier le Expérience professionnelle"
+
+msgid "INFO_WORKEXPERIENCE_DELETE"
+msgstr "Expérience professionnelle supprimé"
+
+msgid "ERROR_WORKEXPERIENCE_DELETE"
+msgstr "Il n'a pas été possible de supprimer le Expérience professionnelle"

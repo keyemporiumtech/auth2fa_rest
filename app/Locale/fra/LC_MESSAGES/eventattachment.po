@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "eventattachment_FRA"
+
+msgid "MODULE"
+msgstr "calendar"
+
+msgid "ERROR_EVENTATTACHMENT_NOT_FOUND"
+msgstr "pièce jointe à l'événement introuvable"
+
+msgid "INFO_EVENTATTACHMENT_SAVE"
+msgstr "pièce jointe à l'événement enregistrée"
+
+msgid "ERROR_EVENTATTACHMENT_SAVE"
+msgstr "La pièce jointe à l'événement n'a pas pu être enregistrée"
+
+msgid "INFO_EVENTATTACHMENT_EDIT"
+msgstr "pièce jointe d'événement modifiée"
+
+msgid "ERROR_EVENTATTACHMENT_EDIT"
+msgstr "Impossible de modifier la pièce jointe à l'événement"
+
+msgid "INFO_EVENTATTACHMENT_DELETE"
+msgstr "pièce jointe à l'événement supprimée"
+
+msgid "ERROR_EVENTATTACHMENT_DELETE"
+msgstr "La pièce jointe à l'événement n'a pas pu être supprimée"

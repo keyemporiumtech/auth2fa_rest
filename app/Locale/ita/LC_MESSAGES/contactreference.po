@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "contactreference_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_CONTACTREFERENCE_NOT_FOUND"
+msgstr "Contatto non trovato"
+
+msgid "INFO_CONTACTREFERENCE_SAVE"
+msgstr "Contatto salvato"
+
+msgid "ERROR_CONTACTREFERENCE_SAVE"
+msgstr "Non è stato possibile salvare il Contatto"
+
+msgid "INFO_CONTACTREFERENCE_EDIT"
+msgstr "Contatto modificato"
+
+msgid "ERROR_CONTACTREFERENCE_EDIT"
+msgstr "Non è stato possibile modificare il Contatto"
+
+msgid "INFO_CONTACTREFERENCE_DELETE"
+msgstr "Contatto eliminato"
+
+msgid "ERROR_CONTACTREFERENCE_DELETE"
+msgstr "Non è stato possibile eliminare il Contatto"

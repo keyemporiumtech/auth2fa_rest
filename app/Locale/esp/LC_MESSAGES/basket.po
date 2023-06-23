@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basket_ESP"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKET_NOT_FOUND"
+msgstr "carro no encontrado"
+
+msgid "INFO_BASKET_SAVE"
+msgstr "carro ahorrado"
+
+msgid "ERROR_BASKET_SAVE"
+msgstr "No fue posible guardar el carro"
+
+msgid "INFO_BASKET_EDIT"
+msgstr "carro cambiado"
+
+msgid "ERROR_BASKET_EDIT"
+msgstr "No fue posible cambiar el carro."
+
+msgid "INFO_BASKET_DELETE"
+msgstr "carro eliminado"
+
+msgid "ERROR_BASKET_DELETE"
+msgstr "No fue posible eliminar el carro."

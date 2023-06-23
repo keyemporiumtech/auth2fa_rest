@@ -1,0 +1,45 @@
+msgid "FILE_NAME_LAN"
+msgstr "currency_ITA"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "ERROR_CURRENCY_NOT_FOUND"
+msgstr "Valuta non trovata"
+
+msgid "INFO_CURRENCY_SAVE"
+msgstr "Valuta salvata"
+
+msgid "ERROR_CURRENCY_SAVE"
+msgstr "Non è stato possibile salvare la Valuta"
+
+msgid "INFO_CURRENCY_EDIT"
+msgstr "Valuta modificata"
+
+msgid "ERROR_CURRENCY_EDIT"
+msgstr "Non è stato possibile modificare la Valuta"
+
+msgid "INFO_CURRENCY_DELETE"
+msgstr "Valuta eliminata"
+
+msgid "ERROR_CURRENCY_DELETE"
+msgstr "Non è stato possibile eliminare la Valuta"
+
+msgid "ERROR_CURRENCY_COD"
+msgstr "Nessuna valuta trovata con codice %s"
+
+msgid "ERROR_CURRENCY_SETUP"
+msgstr "Non è stato possibile cambiare la valuta di sistema"
+
+msgid "INFO_CURRENCY_CHANGE"
+msgstr "Valuta di sistema impostata: %s"
+
+msgid "INFO_CURRENCY_CHANGE_DEFAULT"
+msgstr "Valuta di sistema impostata alla lingua di default: %s"
+
+msgid "ERROR_CURRENCY_CHANGE_DEFAULT"
+msgstr "Valuta di default non impostata nel json"
+
+msgid "ERROR_CURRENCY_CONVERTER"
+msgstr "Errore nella conversione delle valute"
+

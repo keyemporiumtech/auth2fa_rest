@@ -1,0 +1,20 @@
+msgid "FILE_NAME_LAN"
+msgstr "cookie_ENG"
+
+msgid "MODULE"
+msgstr "cakeutils"
+
+msgid "ERROR_COOKIES_UPDATE"
+msgstr "It was not possible to update the cookie preferences"
+
+msgid "ERROR_COOKIES_LIST"
+msgstr "It was not possible to retrieve the cookie list"
+
+msgid "ERROR_COOKIES_STATUS"
+msgstr "It was not possible to read the status of the cookies"
+
+msgid "ERROR_COOKIE_NOT_FOUND"
+msgstr "Cookie not found"
+
+msgid "LOG_COOKIE_NOT_FOUND"
+msgstr "Cookie %s not found"

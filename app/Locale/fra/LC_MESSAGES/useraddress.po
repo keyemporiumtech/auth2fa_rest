@@ -1,0 +1,32 @@
+msgid "FILE_NAME_LAN"
+msgstr "useraddress_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERADDRESS_NOT_FOUND"
+msgstr "Adresse utilisateur introuvable"
+
+msgid "INFO_USERADDRESS_SAVE"
+msgstr "Indirizzo utente salvato"
+
+msgid "ERROR_USERADDRESS_SAVE"
+msgstr "L'adresse de l'utilisateur n'a pas pu être enregistrée"
+
+msgid "INFO_USERADDRESS_EDIT"
+msgstr "L'adresse de l'utilisateur a été modifiée"
+
+msgid "ERROR_USERADDRESS_EDIT"
+msgstr "L'adresse de l'utilisateur n'a pas pu être modifiée"
+
+msgid "INFO_USERADDRESS_DELETE"
+msgstr "Adresse utilisateur supprimée"
+
+msgid "ERROR_USERADDRESS_DELETE"
+msgstr "L'adresse de l'utilisateur n'a pas pu être supprimée"
+
+msgid "ERROR_USERADDRESS_SET_PRINCIPAL"
+msgstr "Il n'a pas été possible de mettre à jour mon adresse d'utilisateur en tant que principale"
+
+msgid "INFO_USERADDRESS_SET_PRINCIPAL"
+msgstr "L'adresse de l'utilisateur a été définie comme adresse principale"

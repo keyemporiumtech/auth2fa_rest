@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "serviceattachment_ENG"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICEATTACHMENT_NOT_FOUND"
+msgstr "Attachment not found"
+
+msgid "INFO_SERVICEATTACHMENT_SAVE"
+msgstr "Attachment saved"
+
+msgid "ERROR_SERVICEATTACHMENT_SAVE"
+msgstr "The attachment could not be saved"
+
+msgid "INFO_SERVICEATTACHMENT_EDIT"
+msgstr "Attachment modified"
+
+msgid "ERROR_SERVICEATTACHMENT_EDIT"
+msgstr "It was not possible to edit the Attachment"
+
+msgid "INFO_SERVICEATTACHMENT_DELETE"
+msgstr "Attachment deleted"
+
+msgid "ERROR_SERVICEATTACHMENT_DELETE"
+msgstr "It was not possible to delete the Attachment"

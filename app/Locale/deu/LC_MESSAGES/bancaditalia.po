@@ -1,0 +1,20 @@
+msgid "FILE_NAME_LAN"
+msgstr "bancaditalia_DEU"
+
+msgid "MODULE"
+msgstr "util_currency"
+
+msgid "ERROR_CURL_LATEST"
+msgstr "Der rest latest-Aufruf erzeugte eine leere Antwort"
+
+msgid "INFO_CACHED_CURRENCIES"
+msgstr "Tägliches Währungs-Caching durchgeführt"
+
+msgid "ERROR_LATESTRATES_NOT_EXISTS"
+msgstr "Der Schlüssel 'latestRates' existiert nicht im Array"
+
+msgid "ERROR_LATESTRATES_KEY_NOT_FOUND"
+msgstr "Die Währung %s wurde im 'latestRates'-Array nicht gefunden"
+
+msgid "EXCEPTION_CONVERT_CURRENCY_NOT_FOUND"
+msgstr "Das Bancaitalia-Plugin konnte eine oder beide der angeforderten Währungen nicht finden (von: %s, bis: %s)"

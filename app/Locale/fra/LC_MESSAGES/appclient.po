@@ -1,0 +1,30 @@
+msgid "FILE_NAME_LAN"
+msgstr "appclient_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_CLIENT_TOKEN"
+msgstr "Cette application n'est pas autorisée à accéder aux ressources système"
+
+msgid "ERROR_CLIENTTOKEN_NOT_FOUND"
+msgstr "Application client introuvable"
+
+msgid "INFO_CLIENTTOKEN_SAVE"
+msgstr "Application client enregistrée"
+
+msgid "ERROR_CLIENTTOKEN_SAVE"
+msgstr "L'application client n'a pas pu être enregistrée"
+
+msgid "INFO_CLIENTTOKEN_EDIT"
+msgstr "L'application client n'a pas pu être enregistrée"
+
+msgid "ERROR_CLIENTTOKEN_EDIT"
+msgstr "L'application client n'a pas pu être modifiée"
+
+msgid "INFO_CLIENTTOKEN_DELETE"
+msgstr "Application client supprimée"
+
+msgid "ERROR_CLIENTTOKEN_DELETE"
+msgstr "L'application client n'a pas pu être supprimée"
+

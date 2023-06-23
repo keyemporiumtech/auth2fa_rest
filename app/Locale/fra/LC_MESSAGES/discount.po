@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "discount_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_DISCOUNT_NOT_FOUND"
+msgstr "Remise introuvable"
+
+msgid "INFO_DISCOUNT_SAVE"
+msgstr "Remise enregistrée"
+
+msgid "ERROR_DISCOUNT_SAVE"
+msgstr "La réduction n'a pas pu être enregistrée"
+
+msgid "INFO_DISCOUNT_EDIT"
+msgstr "Réduction modifiée"
+
+msgid "ERROR_DISCOUNT_EDIT"
+msgstr "Il n'a pas été possible de modifier la remise"
+
+msgid "INFO_DISCOUNT_DELETE"
+msgstr "Réduction supprimée"
+
+msgid "ERROR_DISCOUNT_DELETE"
+msgstr "La réduction n'a pas pu être supprimée"

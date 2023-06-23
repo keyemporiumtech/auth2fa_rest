@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityprofile_FRA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYPROFILE_NOT_FOUND"
+msgstr "Profil de l'entreprise introuvable"
+
+msgid "INFO_ACTIVITYPROFILE_SAVE"
+msgstr "Profil de l'entreprise enregistré"
+
+msgid "ERROR_ACTIVITYPROFILE_SAVE"
+msgstr "Le profil de l'entreprise n'a pas pu être enregistré"
+
+msgid "INFO_ACTIVITYPROFILE_EDIT"
+msgstr "Profil de l'entreprise modifié"
+
+msgid "ERROR_ACTIVITYPROFILE_EDIT"
+msgstr "Le profil de l'entreprise n'a pas pu être modifié"
+
+msgid "INFO_ACTIVITYPROFILE_DELETE"
+msgstr "Profil de l'entreprise supprimé"
+
+msgid "ERROR_ACTIVITYPROFILE_DELETE"
+msgstr "Le profil de l'entreprise n'a pas pu être supprimé"

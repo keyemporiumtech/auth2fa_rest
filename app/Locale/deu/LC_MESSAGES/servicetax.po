@@ -1,0 +1,23 @@
+msgid "FILE_NAME_LAN"
+msgstr "servicetax_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "INFO_SERVICETAX_SAVE"
+msgstr "Steuer gespart"
+
+msgid "ERROR_SERVICETAX_SAVE"
+msgstr "Es war nicht möglich, die Steuer zu sparen"
+
+msgid "INFO_SERVICETAX_EDIT"
+msgstr "Steuer geändert"
+
+msgid "ERROR_SERVICETAX_EDIT"
+msgstr "Es war nicht möglich, die Steuer zu ändern"
+
+msgid "INFO_SERVICETAX_DELETE"
+msgstr "Steuer gelöscht"
+
+msgid "ERROR_SERVICETAX_DELETE"
+msgstr "Es war nicht möglich, die Steuer zu beseitigen"

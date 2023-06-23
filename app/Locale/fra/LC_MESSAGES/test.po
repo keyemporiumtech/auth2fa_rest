@@ -1,0 +1,12 @@
+msgid "FILE_NAME_LAN"
+msgstr "test_FRA"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "TEST"
+msgstr "test_FRA"
+
+msgid "TEST_PARAM"
+msgstr "paramètre %s"
+

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "city_FRA"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_CITY_NOT_FOUND"
+msgstr "Ville introuvable"
+
+msgid "INFO_CITY_SAVE"
+msgstr "Ville enregistrée"
+
+msgid "ERROR_CITY_SAVE"
+msgstr "La ville n'a pas pu être sauvée"
+
+msgid "INFO_CITY_EDIT"
+msgstr "Ville modifiée"
+
+msgid "ERROR_CITY_EDIT"
+msgstr "La ville ne pouvait pas être changée"
+
+msgid "INFO_CITY_DELETE"
+msgstr "Ville éliminée"
+
+msgid "ERROR_CITY_DELETE"
+msgstr "La ville n'a pas pu être supprimée"

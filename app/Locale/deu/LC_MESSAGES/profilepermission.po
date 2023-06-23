@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "profilepermission_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_PROFILEPERMISSION_NOT_FOUND"
+msgstr "Profilberechtigung nicht gefunden"
+
+msgid "INFO_PROFILEPERMISSION_SAVE"
+msgstr "Profilberechtigung gespeichert"
+
+msgid "ERROR_PROFILEPERMISSION_SAVE"
+msgstr "Die Profilberechtigung konnte nicht gespeichert werden"
+
+msgid "INFO_PROFILEPERMISSION_EDIT"
+msgstr "Profilberechtigung geändert"
+
+msgid "ERROR_PROFILEPERMISSION_EDIT"
+msgstr "Die Berechtigung des Profils konnte nicht geändert werden"
+
+msgid "INFO_PROFILEPERMISSION_DELETE"
+msgstr "Profilberechtigung gelöscht"
+
+msgid "ERROR_PROFILEPERMISSION_DELETE"
+msgstr "Die Profilberechtigung konnte nicht gelöscht werden"

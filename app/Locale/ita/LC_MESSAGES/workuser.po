@@ -1,0 +1,29 @@
+msgid "FILE_NAME_LAN"
+msgstr "workuser_ITA"
+
+msgid "MODULE"
+msgstr "work_profile"
+
+msgid "ERROR_WORKUSER_NOT_FOUND"
+msgstr "Gestione utente non trovata"
+
+msgid "INFO_WORKUSER_SAVE"
+msgstr "Gestione utente salvata"
+
+msgid "ERROR_WORKUSER_SAVE"
+msgstr "Non è stato possibile salvare la Gestione utente"
+
+msgid "INFO_WORKUSER_EDIT"
+msgstr "Gestione utente modificata"
+
+msgid "ERROR_WORKUSER_EDIT"
+msgstr "Non è stato possibile modificare la Gestione utente"
+
+msgid "INFO_WORKUSER_DELETE"
+msgstr "Gestione utente eliminata"
+
+msgid "ERROR_WORKUSER_DELETE"
+msgstr "Non è stato possibile eliminare la Gestione utente"
+
+msgid "ERROR_WORKUSER_CREATE_BY_USER"
+msgstr "Non è stato possibile creare la Gestione utente"

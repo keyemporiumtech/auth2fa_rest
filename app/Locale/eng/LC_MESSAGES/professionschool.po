@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionschool_ENG"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONSCHOOL_NOT_FOUND"
+msgstr "Education not found"
+
+msgid "INFO_PROFESSIONSCHOOL_SAVE"
+msgstr "Education saved"
+
+msgid "ERROR_PROFESSIONSCHOOL_SAVE"
+msgstr "It was not possible to save the Education"
+
+msgid "INFO_PROFESSIONSCHOOL_EDIT"
+msgstr "Education changed"
+
+msgid "ERROR_PROFESSIONSCHOOL_EDIT"
+msgstr "It was not possible to change the Education"
+
+msgid "INFO_PROFESSIONSCHOOL_DELETE"
+msgstr "Education deleted"
+
+msgid "ERROR_PROFESSIONSCHOOL_DELETE"
+msgstr "It was not possible to delete the Education"

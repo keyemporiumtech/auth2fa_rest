@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "multilanguage_ITA"
+
+msgid "MODULE"
+msgstr "localesystem"
+
+msgid "ERROR_MULTILANGUAGE_NOT_FOUND"
+msgstr "Riga tradotta non trovata"
+
+msgid "INFO_MULTILANGUAGE_SAVE"
+msgstr "Riga tradotta salvata"
+
+msgid "ERROR_MULTILANGUAGE_SAVE"
+msgstr "Non è stato possibile salvare la Riga tradotta"
+
+msgid "INFO_MULTILANGUAGE_EDIT"
+msgstr "Riga tradotta modificata"
+
+msgid "ERROR_MULTILANGUAGE_EDIT"
+msgstr "Non è stato possibile modificare la Riga tradotta"
+
+msgid "INFO_MULTILANGUAGE_DELETE"
+msgstr "Riga tradotta eliminata"
+
+msgid "ERROR_MULTILANGUAGE_DELETE"
+msgstr "Non è stato possibile eliminare la Riga tradotta"

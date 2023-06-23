@@ -1,0 +1,6 @@
+{
+  "classname": "ApiurlUI",
+  "path": "Model",
+  "controller": "apiurl",
+  "action": "api"
+}

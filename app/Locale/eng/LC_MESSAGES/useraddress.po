@@ -1,0 +1,32 @@
+msgid "FILE_NAME_LAN"
+msgstr "useraddress_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERADDRESS_NOT_FOUND"
+msgstr "User address not found"
+
+msgid "INFO_USERADDRESS_SAVE"
+msgstr "User address saved"
+
+msgid "ERROR_USERADDRESS_SAVE"
+msgstr "The User Address could not be saved"
+
+msgid "INFO_USERADDRESS_EDIT"
+msgstr "User address changed"
+
+msgid "ERROR_USERADDRESS_EDIT"
+msgstr "The User address could not be changed"
+
+msgid "INFO_USERADDRESS_DELETE"
+msgstr "User address deleted"
+
+msgid "ERROR_USERADDRESS_DELETE"
+msgstr "The User Address could not be deleted"
+
+msgid "ERROR_USERADDRESS_SET_PRINCIPAL"
+msgstr "It was not possible to update my User address as primary"
+
+msgid "INFO_USERADDRESS_SET_PRINCIPAL"
+msgstr "User address has been set as primary"

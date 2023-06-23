@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "ticket_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKET_NOT_FOUND"
+msgstr "Ticket no encontrado"
+
+msgid "INFO_TICKET_SAVE"
+msgstr "Ticket guardado"
+
+msgid "ERROR_TICKET_SAVE"
+msgstr "No se pudo guardar el Ticket"
+
+msgid "INFO_TICKET_EDIT"
+msgstr "Ticket cambiado"
+
+msgid "ERROR_TICKET_EDIT"
+msgstr "No fue posible cambiar el Ticket"
+
+msgid "INFO_TICKET_DELETE"
+msgstr "Ticket eliminado"
+
+msgid "ERROR_TICKET_DELETE"
+msgstr "No se pudo eliminar el Ticket"

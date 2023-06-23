@@ -1,0 +1,11 @@
+msgid "FILE_NAME_LAN"
+msgstr "qrcode_ITA"
+
+msgid "MODULE"
+msgstr "util_printcodes"
+
+msgid "ERROR_QRCODE_NOT_TEXT"
+msgstr "Nessun testo da convertire in qrcode"
+
+msgid "ERROR_QRCODE_NOT_CONVERTED"
+msgstr "Non è stato possibile convertire il testo in qrcode"

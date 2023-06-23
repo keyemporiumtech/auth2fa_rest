@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "userrelation_ESP"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USERRELATION_NOT_FOUND"
+msgstr "relación de usuario no encontrada"
+
+msgid "INFO_USERRELATION_SAVE"
+msgstr "relación de usuario guardada"
+
+msgid "ERROR_USERRELATION_SAVE"
+msgstr "No fue posible guardar la relación de usuario"
+
+msgid "INFO_USERRELATION_EDIT"
+msgstr "relación de usuario modificada"
+
+msgid "ERROR_USERRELATION_EDIT"
+msgstr "No fue posible modificar la relación de usuario"
+
+msgid "INFO_USERRELATION_DELETE"
+msgstr "relación de usuario eliminada"
+
+msgid "ERROR_USERRELATION_DELETE"
+msgstr "No fue posible eliminar la relación de usuario"

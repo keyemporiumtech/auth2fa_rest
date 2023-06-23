@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionrole_ITA"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONROLE_NOT_FOUND"
+msgstr "Ruolo non trovato"
+
+msgid "INFO_PROFESSIONROLE_SAVE"
+msgstr "Ruolo salvato"
+
+msgid "ERROR_PROFESSIONROLE_SAVE"
+msgstr "Non è stato possibile salvare il Ruolo"
+
+msgid "INFO_PROFESSIONROLE_EDIT"
+msgstr "Ruolo modificato"
+
+msgid "ERROR_PROFESSIONROLE_EDIT"
+msgstr "Non è stato possibile modificare il Ruolo"
+
+msgid "INFO_PROFESSIONROLE_DELETE"
+msgstr "Ruolo eliminato"
+
+msgid "ERROR_PROFESSIONROLE_DELETE"
+msgstr "Non è stato possibile eliminare il Ruolo"

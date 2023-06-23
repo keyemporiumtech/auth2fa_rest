@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "permission_DEU"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_PERMISSION_NOT_FOUND"
+msgstr "Benutzerberechtigung nicht gefunden"
+
+msgid "INFO_PERMISSION_SAVE"
+msgstr "Benutzerberechtigung gespeichert"
+
+msgid "ERROR_PERMISSION_SAVE"
+msgstr "Die Benutzerberechtigung konnte nicht gespeichert werden"
+
+msgid "INFO_PERMISSION_EDIT"
+msgstr "Benutzerberechtigung geändert"
+
+msgid "ERROR_PERMISSION_EDIT"
+msgstr "Die Benutzerberechtigung konnte nicht geändert werden"
+
+msgid "INFO_PERMISSION_DELETE"
+msgstr "Benutzerberechtigung gelöscht"
+
+msgid "ERROR_PERMISSION_DELETE"
+msgstr "Die Benutzerberechtigung konnte nicht gelöscht werden"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "category_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_CATEGORY_NOT_FOUND"
+msgstr "Catégorie introuvable"
+
+msgid "INFO_CATEGORY_SAVE"
+msgstr "Catégorie enregistrée"
+
+msgid "ERROR_CATEGORY_SAVE"
+msgstr "La catégorie n'a pas pu être enregistrée"
+
+msgid "INFO_CATEGORY_EDIT"
+msgstr "Catégorie modifiée"
+
+msgid "ERROR_CATEGORY_EDIT"
+msgstr "Il n'a pas été possible de changer la catégorie"
+
+msgid "INFO_CATEGORY_DELETE"
+msgstr "Catégorie supprimée"
+
+msgid "ERROR_CATEGORY_DELETE"
+msgstr "La catégorie n'a pas pu être supprimée"

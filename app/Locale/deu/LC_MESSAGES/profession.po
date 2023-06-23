@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "profession_DEU"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSION_NOT_FOUND"
+msgstr "Beruf nicht gefunden"
+
+msgid "INFO_PROFESSION_SAVE"
+msgstr "Beruf gespeichert"
+
+msgid "ERROR_PROFESSION_SAVE"
+msgstr "Der Beruf konnte nicht gespeichert werden"
+
+msgid "INFO_PROFESSION_EDIT"
+msgstr "Beruf geändert"
+
+msgid "ERROR_PROFESSION_EDIT"
+msgstr "Der Beruf konnten nicht geändert werden"
+
+msgid "INFO_PROFESSION_DELETE"
+msgstr "Beruf gelöschte"
+
+msgid "ERROR_PROFESSION_DELETE"
+msgstr "Der Beruf konnte nicht gelöscht werden"

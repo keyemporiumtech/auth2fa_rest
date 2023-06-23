@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "workexperiencerole_FRA"
+
+msgid "MODULE"
+msgstr "work_company"
+
+msgid "ERROR_WORKEXPERIENCEROLE_NOT_FOUND"
+msgstr "Rôle commercial introuvable"
+
+msgid "INFO_WORKEXPERIENCEROLE_SAVE"
+msgstr "Rôle commercial enregistré"
+
+msgid "ERROR_WORKEXPERIENCEROLE_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer le Rôle commercial"
+
+msgid "INFO_WORKEXPERIENCEROLE_EDIT"
+msgstr "Rôle commercial modifié"
+
+msgid "ERROR_WORKEXPERIENCEROLE_EDIT"
+msgstr "Il n'a pas été possible de modifier le Rôle commercial"
+
+msgid "INFO_WORKEXPERIENCEROLE_DELETE"
+msgstr "Rôle commercial supprimé"
+
+msgid "ERROR_WORKEXPERIENCEROLE_DELETE"
+msgstr "Il n'a pas été possible de supprimer le Rôle commercial"

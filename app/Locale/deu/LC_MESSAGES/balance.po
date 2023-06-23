@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "balance_DEU"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BALANCE_NOT_FOUND"
+msgstr "Guthaben nicht gefunden"
+
+msgid "INFO_BALANCE_SAVE"
+msgstr "Guthaben gespeichert"
+
+msgid "ERROR_BALANCE_SAVE"
+msgstr "Der Saldo konnte nicht gespeichert werden"
+
+msgid "INFO_BALANCE_EDIT"
+msgstr "Gleichgewicht verändert"
+
+msgid "ERROR_BALANCE_EDIT"
+msgstr "Es war nicht möglich, das Gleichgewicht zu ändern"
+
+msgid "INFO_BALANCE_DELETE"
+msgstr "Gleichgewicht beseitigt"
+
+msgid "ERROR_BALANCE_DELETE"
+msgstr "Es war nicht möglich, das Guthaben zu beseitigen"

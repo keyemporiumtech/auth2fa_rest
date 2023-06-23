@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "activityrelation_ENG"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_ACTIVITYRELATION_NOT_FOUND"
+msgstr "user-company relationship not found"
+
+msgid "INFO_ACTIVITYRELATION_SAVE"
+msgstr "user-company relationship saved"
+
+msgid "ERROR_ACTIVITYRELATION_SAVE"
+msgstr "It was not possible to save the user-company relationship"
+
+msgid "INFO_ACTIVITYRELATION_EDIT"
+msgstr "user-company relationship changed"
+
+msgid "ERROR_ACTIVITYRELATION_EDIT"
+msgstr "It was not possible to change the user-company relationship"
+
+msgid "INFO_ACTIVITYRELATION_DELETE"
+msgstr "user-company relationship deleted"
+
+msgid "ERROR_ACTIVITYRELATION_DELETE"
+msgstr "It was not possible to delete the user-company relationship"

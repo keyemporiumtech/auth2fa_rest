@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basketservice_ENG"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKETSERVICE_NOT_FOUND"
+msgstr "service in cart not found"
+
+msgid "INFO_BASKETSERVICE_SAVE"
+msgstr "service in cart saved"
+
+msgid "ERROR_BASKETSERVICE_SAVE"
+msgstr "It was not possible to save the service in cart"
+
+msgid "INFO_BASKETSERVICE_EDIT"
+msgstr "service in cart changed"
+
+msgid "ERROR_BASKETSERVICE_EDIT"
+msgstr "It was not possible to change the service in cart"
+
+msgid "INFO_BASKETSERVICE_DELETE"
+msgstr "service in cart eliminated"
+
+msgid "ERROR_BASKETSERVICE_DELETE"
+msgstr "It was not possible to cancel the service in cart"

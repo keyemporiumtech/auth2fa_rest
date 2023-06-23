@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basketproduct_ITA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKETPRODUCT_NOT_FOUND"
+msgstr "prodotto in carrello non trovato"
+
+msgid "INFO_BASKETPRODUCT_SAVE"
+msgstr "prodotto in carrello salvato"
+
+msgid "ERROR_BASKETPRODUCT_SAVE"
+msgstr "Non è stato possibile salvare il prodotto in carrello"
+
+msgid "INFO_BASKETPRODUCT_EDIT"
+msgstr "prodotto in carrello modificato"
+
+msgid "ERROR_BASKETPRODUCT_EDIT"
+msgstr "Non è stato possibile modificare il prodotto in carrello"
+
+msgid "INFO_BASKETPRODUCT_DELETE"
+msgstr "prodotto in carrello eliminato"
+
+msgid "ERROR_BASKETPRODUCT_DELETE"
+msgstr "Non è stato possibile eliminare il prodotto in carrello"

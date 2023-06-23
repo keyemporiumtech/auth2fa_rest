@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "servicediscount_DEU"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_SERVICEDISCOUNT_NOT_FOUND"
+msgstr "Rabatt nicht gefunden"
+
+msgid "INFO_SERVICEDISCOUNT_SAVE"
+msgstr "Rabatt gespeichert"
+
+msgid "ERROR_SERVICEDISCOUNT_SAVE"
+msgstr "Der Rabatt konnte nicht gespeichert werden"
+
+msgid "INFO_SERVICEDISCOUNT_EDIT"
+msgstr "Rabatt geändert"
+
+msgid "ERROR_SERVICEDISCOUNT_EDIT"
+msgstr "Es war nicht möglich, den Rabatt zu ändern"
+
+msgid "INFO_SERVICEDISCOUNT_DELETE"
+msgstr "Rabatt eliminiert"
+
+msgid "ERROR_SERVICEDISCOUNT_DELETE"
+msgstr "Der Rabatt konnte nicht gelöscht werden"

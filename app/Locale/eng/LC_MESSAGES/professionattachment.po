@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "professionattachment_ENG"
+
+msgid "MODULE"
+msgstr "work_cv"
+
+msgid "ERROR_PROFESSIONATTACHMENT_NOT_FOUND"
+msgstr "Attachment not found"
+
+msgid "INFO_PROFESSIONATTACHMENT_SAVE"
+msgstr "Attachment saved"
+
+msgid "ERROR_PROFESSIONATTACHMENT_SAVE"
+msgstr "It was not possible to save the Attachment"
+
+msgid "INFO_PROFESSIONATTACHMENT_EDIT"
+msgstr "Attachment changed"
+
+msgid "ERROR_PROFESSIONATTACHMENT_EDIT"
+msgstr "It was not possible to change the Attachment"
+
+msgid "INFO_PROFESSIONATTACHMENT_DELETE"
+msgstr "Attachment deleted"
+
+msgid "ERROR_PROFESSIONATTACHMENT_DELETE"
+msgstr "It was not possible to delete the Attachment"

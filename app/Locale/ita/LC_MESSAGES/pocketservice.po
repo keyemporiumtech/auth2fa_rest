@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pocketservice_ITA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKETSERVICE_NOT_FOUND"
+msgstr "Servizio non trovato"
+
+msgid "INFO_POCKETSERVICE_SAVE"
+msgstr "Servizio salvato"
+
+msgid "ERROR_POCKETSERVICE_SAVE"
+msgstr "Non è stato possibile salvare il Servizio"
+
+msgid "INFO_POCKETSERVICE_EDIT"
+msgstr "Servizio modificato"
+
+msgid "ERROR_POCKETSERVICE_EDIT"
+msgstr "Non è stato possibile modificare il Servizio"
+
+msgid "INFO_POCKETSERVICE_DELETE"
+msgstr "Servizio eliminato"
+
+msgid "ERROR_POCKETSERVICE_DELETE"
+msgstr "Non è stato possibile eliminare il Servizio"

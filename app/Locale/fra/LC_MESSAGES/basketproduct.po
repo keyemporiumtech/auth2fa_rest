@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "basketproduct_FRA"
+
+msgid "MODULE"
+msgstr "shop_payment"
+
+msgid "ERROR_BASKETPRODUCT_NOT_FOUND"
+msgstr "produit dans le panier introuvable"
+
+msgid "INFO_BASKETPRODUCT_SAVE"
+msgstr "produit dans le panier enregistré"
+
+msgid "ERROR_BASKETPRODUCT_SAVE"
+msgstr "Il n'a pas été possible d'enregistrer le produit dans le panier"
+
+msgid "INFO_BASKETPRODUCT_EDIT"
+msgstr "produit dans le panier modifié"
+
+msgid "ERROR_BASKETPRODUCT_EDIT"
+msgstr "Il n'a pas été possible de modifier le produit dans le panier"
+
+msgid "INFO_BASKETPRODUCT_DELETE"
+msgstr "produit du panier supprimé"
+
+msgid "ERROR_BASKETPRODUCT_DELETE"
+msgstr "Il n'a pas été possible de retirer le produit du panier"

@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "pocketattachment_ESP"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_POCKETATTACHMENT_NOT_FOUND"
+msgstr "Adjunto no encontrado"
+
+msgid "INFO_POCKETATTACHMENT_SAVE"
+msgstr "Adjunto guardado"
+
+msgid "ERROR_POCKETATTACHMENT_SAVE"
+msgstr "No se pudo guardar el archivo adjunto"
+
+msgid "INFO_POCKETATTACHMENT_EDIT"
+msgstr "Adjunto modificado"
+
+msgid "ERROR_POCKETATTACHMENT_EDIT"
+msgstr "No fue posible editar el Adjunto"
+
+msgid "INFO_POCKETATTACHMENT_DELETE"
+msgstr "Adjunto eliminado"
+
+msgid "ERROR_POCKETATTACHMENT_DELETE"
+msgstr "No fue posible eliminar el Adjunto"

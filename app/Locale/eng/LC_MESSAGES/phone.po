@@ -1,0 +1,41 @@
+msgid "FILE_NAME_LAN"
+msgstr "phone_ENG"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_PHONE_NOT_FOUND"
+msgstr "Phone number not found"
+
+msgid "INFO_PHONE_SAVE"
+msgstr "Saved phone number"
+
+msgid "ERROR_PHONE_SAVE"
+msgstr "Phone number could not be saved"
+
+msgid "INFO_PHONE_EDIT"
+msgstr "Phone number changed"
+
+msgid "ERROR_PHONE_EDIT"
+msgstr "The Phone number could not be changed"
+
+msgid "INFO_PHONE_DELETE"
+msgstr "Phone number deleted"
+
+msgid "ERROR_PHONE_DELETE"
+msgstr "The Phone Number could not be deleted"
+
+msgid "INFO_PHONE_SEND"
+msgstr "SMS sent successfully"
+
+msgid "ERROR_PHONE_SEND"
+msgstr "SMS not sent correctly"
+
+msgid "ERROR_PHONE_SEND_NOT_SENDER"
+msgstr "Sender parameter not valued"
+
+msgid "ERROR_PHONE_SEND_NOT_DESTINATORS"
+msgstr "Empty recipient array"
+
+msgid "ERROR_PHONE_SEND_NOT_BODY"
+msgstr "No message text provided"

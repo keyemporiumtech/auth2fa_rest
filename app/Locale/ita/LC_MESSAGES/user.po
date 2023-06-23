@@ -1,0 +1,101 @@
+msgid "FILE_NAME_LAN"
+msgstr "user_ITA"
+
+msgid "MODULE"
+msgstr "authentication"
+
+msgid "ERROR_USER_NOT_FOUND"
+msgstr "Utente non trovato"
+
+msgid "INFO_USER_SAVE"
+msgstr "Utente salvato"
+
+msgid "ERROR_USER_SAVE"
+msgstr "Non è stato possibile salvare l'utente"
+
+msgid "INFO_USER_EDIT"
+msgstr "Utente modificato"
+
+msgid "ERROR_USER_EDIT"
+msgstr "Non è stato possibile modificare l'utente"
+
+msgid "INFO_USER_DELETE"
+msgstr "Utente eliminato"
+
+msgid "ERROR_USER_DELETE"
+msgstr "Non è stato possibile eliminare l'utente"
+
+msgid "INFO_USER_LOGIN"
+msgstr "Login effettuato da %s con token %s"
+
+msgid "ERROR_USER_LOGIN_NOT_VALID"
+msgstr "Login non trovato con username %s e password %s"
+
+msgid "ERROR_CONFIRMLOGIN_TOKEN_EXPIRED"
+msgstr "Il codice di controllo è scaduto. Ripetere l'operazione di login"
+
+msgid "ERROR_CONTROL_CODE_EXPIRED"
+msgstr "Il codice operazione %s è stato trovato in archivio ma il token risulta scaduto"
+
+msgid "INFO_USER_LOGOUT"
+msgstr "Logout effettuato da %s con token %s"
+
+msgid "INFO_SESSION_EXPIRED"
+msgstr "Sessione scaduta per %s con token %s"
+
+msgid "INFO_USER_PASSWORD_RESTORED"
+msgstr "L'utente %s ha recuperato la password %s in %s"
+
+msgid "INFO_RESTORE_PASSWORD"
+msgstr "Password recuperata"
+
+msgid "ERROR_RESTORE_PASSWORD"
+msgstr "Non è stato possibile recuperare la password"
+
+msgid "INFO_USER_PASSWORD_CHANGED"
+msgstr "L'utente %s ha cambiato la password %s in %s"
+
+msgid "INFO_CHANGE_PASSWORD"
+msgstr "Password cambiata"
+
+msgid "ERROR_CHANGE_PASSWORD"
+msgstr "Non è stato possibile cambiare la password"
+
+msgid "ERROR_CHANGE_PASSWORD_OLD_PASSWORD"
+msgstr "La vecchia password non coincide"
+
+msgid "ERROR_OLD_PASSWORD_NOT_EQUAL"
+msgstr "La vecchia password fornita %s non coincide con quella registrata %s"
+
+msgid "ERROR_REMIND_PASSWORD"
+msgstr "Non è stato possibile ricordare la password"
+
+msgid "INFO_SEND_CODE_LOGIN"
+msgstr "Abbiamo inviato un codice di controllo per verificare la tua identità"
+
+msgid "ERROR_CHANGE_PROFILE"
+msgstr "Non è stato possibile cambiare il profilo"
+
+msgid "ERROR_CHANGE_PROFILE_USER_NOT_SESSION"
+msgstr "Si sta tendando di assegnare il profilo %s all'utente %s che non è però loggato a sistema"
+
+msgid "INFO_CHANGE_PROFILE"
+msgstr "Profilo cambiato in %s"
+
+msgid "ERROR_PROFILE_NOT_FOUND"
+msgstr "Non è stato possibile recuperare il profilo"
+
+msgid "ERROR_USER_NOT_PERMISSION"
+msgstr "Utente non abilitato all'operazione"
+
+msgid "ERROR_USER_NOT_PERMISSION_DETAIL"
+msgstr "L'Utente %s non ha i permessi %s"
+
+msgid "ERROR_USER_NOT_LOGGED"
+msgstr "Utente non loggato"
+
+msgid "ERROR_SESSION_USERNAME"
+msgstr "Era attiva un'altra sessione per l'utente. Si prega di rieseguire il login"
+
+msgid "ERROR_SESSION_LOGIN_NOT_VALID"
+msgstr "Era attiva un'altra sessione per l'utente con username %s"

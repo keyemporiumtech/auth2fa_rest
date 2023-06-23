@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "brandreference_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_BRANDREFERENCE_NOT_FOUND"
+msgstr "Contact introuvable"
+
+msgid "INFO_BRANDREFERENCE_SAVE"
+msgstr "Contact enregistré"
+
+msgid "ERROR_BRANDREFERENCE_SAVE"
+msgstr "Le contact n'a pas pu être enregistré"
+
+msgid "INFO_BRANDREFERENCE_EDIT"
+msgstr "Contact modifié"
+
+msgid "ERROR_BRANDREFERENCE_EDIT"
+msgstr "Il n'a pas été possible de modifier le contact"
+
+msgid "INFO_BRANDREFERENCE_DELETE"
+msgstr "Contact supprimé"
+
+msgid "ERROR_BRANDREFERENCE_DELETE"
+msgstr "Le contact n'a pas pu être supprimé"

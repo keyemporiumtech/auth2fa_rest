@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "event_FRA"
+
+msgid "MODULE"
+msgstr "calendar"
+
+msgid "ERROR_EVENT_NOT_FOUND"
+msgstr "Evénement introuvable"
+
+msgid "INFO_EVENT_SAVE"
+msgstr "Événement enregistré"
+
+msgid "ERROR_EVENT_SAVE"
+msgstr "L'événement n'a pas pu être enregistré"
+
+msgid "INFO_EVENT_EDIT"
+msgstr "L'événement a été modifié"
+
+msgid "ERROR_EVENT_EDIT"
+msgstr "L'événement n'a pas pu être modifié"
+
+msgid "INFO_EVENT_DELETE"
+msgstr "Événement supprimé"
+
+msgid "ERROR_EVENT_DELETE"
+msgstr "L'événement n'a pas pu être supprimé"

@@ -1,0 +1,27 @@
+msgid "FILE_NAME_LAN"
+msgstr "mailer_ENG"
+
+msgid "MODULE"
+msgstr "communication"
+
+msgid "ERROR_MAILER_NOT_FOUND"
+msgstr "Mail provider not found"
+
+msgid "INFO_MAILER_SAVE"
+msgstr "Mail provider saved"
+
+msgid "ERROR_MAILER_SAVE"
+msgstr "The Mail Provider could not be saved"
+
+msgid "INFO_MAILER_EDIT"
+msgstr "Mail provider changed"
+
+msgid "ERROR_MAILER_EDIT"
+msgstr "It was not possible to change the Mail Provider"
+
+msgid "INFO_MAILER_DELETE"
+msgstr "Mail provider deleted"
+
+msgid "ERROR_MAILER_DELETE"
+msgstr "The Mail Provider could not be deleted"
+

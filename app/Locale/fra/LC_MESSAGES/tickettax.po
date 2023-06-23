@@ -1,0 +1,26 @@
+msgid "FILE_NAME_LAN"
+msgstr "tickettax_FRA"
+
+msgid "MODULE"
+msgstr "shop_warehouse"
+
+msgid "ERROR_TICKETTAX_NOT_FOUND"
+msgstr "frais de billet introuvable"
+
+msgid "INFO_TICKETTAX_SAVE"
+msgstr "frais de billet économisés"
+
+msgid "ERROR_TICKETTAX_SAVE"
+msgstr "Il n'a pas été possible d'économiser le prix du billet"
+
+msgid "INFO_TICKETTAX_EDIT"
+msgstr "frais de billet modifiés"
+
+msgid "ERROR_TICKETTAX_EDIT"
+msgstr "Il n'a pas été possible de modifier le prix du billet"
+
+msgid "INFO_TICKETTAX_DELETE"
+msgstr "frais de billet éliminés"
+
+msgid "ERROR_TICKETTAX_DELETE"
+msgstr "Le prix du billet n'a pas pu être éliminé"
