@@ -1,5 +1,5 @@
 SET foreign_key_checks = 0;
-SET @@session.time_zone = 'Europe/Berlin';
+SET @@session.time_zone = '+2:00';
 
 DROP TABLE IF EXISTS `_tests`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;

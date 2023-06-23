@@ -1,5 +1,5 @@
 <?php
 class LayouthomeConfig {
-	static $TITLE="Titolo prova";
-	static $DESCRIPTION="Descrizione prova";
+	static $TITLE="DDC-AUTH2FA";
+	static $DESCRIPTION="Authentication 2FA";
 }
