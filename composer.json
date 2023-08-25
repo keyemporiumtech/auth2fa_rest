@@ -1,6 +1,6 @@
 {
     "name": "ddc/auth2fa_rest",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "DDC-AUTH2FA",
     "type": "project",
     "keywords": ["dandy,bigstone,DDC-AUTH2FA"],
