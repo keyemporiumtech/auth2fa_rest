@@ -1,10 +1,10 @@
 {
     "name": "ddc/auth2fa_rest",
-    "version": "0.0.1",
-    "description": "Titolo prova",
+    "version": "1.0.0",
+    "description": "DDC-AUTH2FA",
     "type": "project",
-    "keywords": ["dandy,bigstone,Titolo prova"],
-    "homepage": "http://okdqajyaj.preview.infomaniak.website/",
+    "keywords": ["dandy,bigstone,DDC-AUTH2FA"],
+    "homepage": "http://auth2farest.infinityfreeapp.com/",
     "license": "MIT",
     "authors": [
         {
